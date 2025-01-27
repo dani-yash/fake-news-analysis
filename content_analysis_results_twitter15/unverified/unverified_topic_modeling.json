@@ -1,0 +1,7 @@
+{
+    "Topic 1": "0.044*\"url\" + 0.023*\"ferguson\" + 0.018*\"polic\" + 0.009*\"abdel\" + 0.009*\"brown\" + 0.008*\"suspect\" + 0.008*\"offic\" + 0.008*\"letter\" + 0.007*\"shot\" + 0.007*\"break\"",
+    "Topic 2": "0.084*\"url\" + 0.017*\"isi\" + 0.011*\"won\" + 0.010*\"weapon\" + 0.008*\"nevada\" + 0.008*\"kill\" + 0.007*\"chemic\" + 0.007*\"sander\" + 0.007*\"koban\" + 0.007*\"dead\"",
+    "Topic 3": "0.081*\"url\" + 0.027*\"ferguson\" + 0.021*\"shoot\" + 0.021*\"hand\" + 0.018*\"protest\" + 0.016*\"kong\" + 0.015*\"hong\" + 0.014*\"orlando\" + 0.011*\"democrat\" + 0.010*\"shooter\"",
+    "Topic 4": "0.115*\"url\" + 0.012*\"transgend\" + 0.011*\"trump\" + 0.009*\"target\" + 0.008*\"year\" + 0.008*\"baghdadi\" + 0.007*\"obama\" + 0.007*\"isi\" + 0.007*\"suicid\" + 0.007*\"tumblr\"",
+    "Topic 5": "0.054*\"url\" + 0.020*\"ferguson\" + 0.015*\"polic\" + 0.014*\"pari\" + 0.014*\"shoot\" + 0.014*\"suspect\" + 0.013*\"kill\" + 0.011*\"hostag\" + 0.010*\"robberi\" + 0.009*\"charliehebdo\""
+}

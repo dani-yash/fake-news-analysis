@@ -1,0 +1,7 @@
+{
+    "Topic 1": "0.069*\"url\" + 0.029*\"hillari\" + 0.027*\"clinton\" + 0.015*\"call\" + 0.015*\"presid\" + 0.013*\"assassin\" + 0.010*\"turn\" + 0.010*\"dai\" + 0.010*\"di\" + 0.010*\"purpl\"",
+    "Topic 2": "0.115*\"url\" + 0.017*\"orlando\" + 0.017*\"black\" + 0.014*\"democrat\" + 0.013*\"shooter\" + 0.013*\"nanci\" + 0.013*\"funer\" + 0.013*\"obama\" + 0.011*\"trait\" + 0.010*\"polici\"",
+    "Topic 3": "0.114*\"url\" + 0.016*\"target\" + 0.012*\"meat\" + 0.012*\"vegetarian\" + 0.011*\"transgend\" + 0.011*\"eat\" + 0.010*\"polic\" + 0.010*\"trump\" + 0.009*\"bathroom\" + 0.009*\"polici\"",
+    "Topic 4": "0.034*\"url\" + 0.023*\"illustr\" + 0.023*\"jenner\" + 0.023*\"caitlyn\" + 0.023*\"sport\" + 0.020*\"nude\" + 0.017*\"cover\" + 0.017*\"pose\" + 0.010*\"charg\" + 0.010*\"bag\"",
+    "Topic 5": "0.083*\"url\" + 0.044*\"trump\" + 0.023*\"donald\" + 0.019*\"strategist\" + 0.019*\"letter\" + 0.018*\"open\" + 0.014*\"abort\" + 0.012*\"voter\" + 0.012*\"defector\" + 0.012*\"turn\""
+}

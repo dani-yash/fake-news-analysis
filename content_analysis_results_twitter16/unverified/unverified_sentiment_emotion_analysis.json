@@ -1,0 +1,1610 @@
+[
+    {
+        "tweet_id": "731166399389962242",
+        "content": "\ud83d\udd25ca kkk grand wizard \ud83d\udd25 endorses @hillaryclinton #neverhillary #trump2016 URL",
+        "sentiment_score": 0.6418111324310303,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9265748262405396
+    },
+    {
+        "tweet_id": "714598641827246081",
+        "content": "an open letter to trump voters from his top strategist-turned-defector URL via @xojanedotcom",
+        "sentiment_score": 0.9110612273216248,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6523234844207764
+    },
+    {
+        "tweet_id": "715515982584881152",
+        "content": "craigslist ad: \u2018get paid $15 an hour to protest at the trump rally\u2019 - URL URL",
+        "sentiment_score": 0.998189389705658,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7696228623390198
+    },
+    {
+        "tweet_id": "706665777332621314",
+        "content": ".@berniesanders: in 2016, \"we will end institutional racism and reform a broken criminal justice system.\u201d #demdebate",
+        "sentiment_score": 0.8563640117645264,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7003869414329529
+    },
+    {
+        "tweet_id": "726043971911213057",
+        "content": "target boycott crosses 1 million signers, stock sinks by $1.5 billion URL",
+        "sentiment_score": 0.9996204376220703,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6205320954322815
+    },
+    {
+        "tweet_id": "730939370765754368",
+        "content": "ca grand dragon endorses hillary clinton on behalf of the kkk. #trump2016 URL URL",
+        "sentiment_score": 0.5188153982162476,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6082967519760132
+    },
+    {
+        "tweet_id": "723365789378584578",
+        "content": "landmarks around world turn purple, in honor of #prince. #princerip #purplerain URL",
+        "sentiment_score": 0.9908786416053772,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.322933167219162
+    },
+    {
+        "tweet_id": "731093044460683264",
+        "content": "target ceo responds to nationwide boycott of the store over transgender bathroom policy URL URL",
+        "sentiment_score": 0.9961066842079163,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8770660758018494
+    },
+    {
+        "tweet_id": "714531423273746432",
+        "content": "an open letter to @realdonaldtrump from his top strategist-turned-defector: URL URL",
+        "sentiment_score": 0.9949491024017334,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.866644561290741
+    },
+    {
+        "tweet_id": "651809229842608128",
+        "content": "avoid 5p bag charge using these from @trolleybagsuk enter here to #win a set with @star100x URL URL",
+        "sentiment_score": 0.9926772117614746,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5911178588867188
+    },
+    {
+        "tweet_id": "650952376954650629",
+        "content": "pathetic little twat can\u2019t wait to argue over 5p bag\u00a0charge URL URL",
+        "sentiment_score": 0.9988340735435486,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5916761755943298
+    },
+    {
+        "tweet_id": "763738618573623297",
+        "content": "hillary clinton strategist bob beckel called for wikileaks editor julian assange to be assassinated: i do not... URL",
+        "sentiment_score": 0.99671471118927,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.4245465397834778
+    },
+    {
+        "tweet_id": "757367391202471937",
+        "content": "\"laziness is a trait in blacks,\" 1991 book quotes trump as saying: URL URL",
+        "sentiment_score": 0.9904168844223022,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8279814720153809
+    },
+    {
+        "tweet_id": "756282236375277568",
+        "content": "\"laziness is a trait in blacks,\" 1991 book quotes trump as saying: URL URL",
+        "sentiment_score": 0.9904168844223022,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8279814720153809
+    },
+    {
+        "tweet_id": "716461257025581056",
+        "content": ".@berniesanders is pulling magic tricks out of a hat in nevada. we just officially won! URL",
+        "sentiment_score": 0.9993342757225037,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.46533945202827454
+    },
+    {
+        "tweet_id": "745236050407194624",
+        "content": "the big one: 'large scale motion' detected along san andreas fault URL URL",
+        "sentiment_score": 0.9035995602607727,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7153993248939514
+    },
+    {
+        "tweet_id": "755439197125767169",
+        "content": "ohio police say an officer was served a sandwich containing glass shards at a restaurant. URL",
+        "sentiment_score": 0.9942169189453125,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.7092152237892151
+    },
+    {
+        "tweet_id": "729647367457230850",
+        "content": "leading causes of death in the u.s.: 1. heart disease 2. cancer 3. medical error URL URL",
+        "sentiment_score": 0.999281108379364,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7375291585922241
+    },
+    {
+        "tweet_id": "726442550266044416",
+        "content": "because target believes men can pee with girls, their stock has taken a huge hit. good. keep boycotting target. URL",
+        "sentiment_score": 0.6527408957481384,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8206073045730591
+    },
+    {
+        "tweet_id": "727966590084485120",
+        "content": ".@caitlyn_jenner will reportedly pose nude for sports illustrated URL URL",
+        "sentiment_score": 0.9572806358337402,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.45686638355255127
+    },
+    {
+        "tweet_id": "715671763808493569",
+        "content": "\u2606\u2606craigslist ad allegedly posted by bernie supporters offered $15 to protest at trump's rally in wisconsin. trump already creating jobs!",
+        "sentiment_score": 0.994509756565094,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7924460172653198
+    },
+    {
+        "tweet_id": "656361703664451585",
+        "content": "well done scotland! 5p carrier bag charge 1 yr old today - 80% cut in usage - 650m less bags -\u00a36.7m for good causes. URL",
+        "sentiment_score": 0.6913252472877502,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.6843295693397522
+    },
+    {
+        "tweet_id": "714560810266132480",
+        "content": "letter to trump voters from his top strategist-turned-defector - i don\u2019t know if this is real, but it\u2019s believable. URL",
+        "sentiment_score": 0.9997028708457947,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7756177186965942
+    },
+    {
+        "tweet_id": "722885778448121857",
+        "content": "a new transgender bathroom policy at @target is real, and it's fabulous: URL URL",
+        "sentiment_score": 0.9997565150260925,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.6725689172744751
+    },
+    {
+        "tweet_id": "706933939953344514",
+        "content": "bernie sanders speaking about institutional racism \ud83d\udc4f\ud83c\udffd\ud83d\ude4c\ud83c\udffd URL",
+        "sentiment_score": 0.940301239490509,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.48323652148246765
+    },
+    {
+        "tweet_id": "714755546285477888",
+        "content": "donald spunktrumpet's former communications director stephanie cegielski has resigned and written this - URL",
+        "sentiment_score": 0.9972165822982788,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8340727090835571
+    },
+    {
+        "tweet_id": "715264793737879553",
+        "content": "donald trump supports abortion ban and 'punishment' for women URL",
+        "sentiment_score": 0.6776314973831177,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.44054970145225525
+    },
+    {
+        "tweet_id": "763428684850094080",
+        "content": "breaking video : hillary surrogate calls for the assassination of julian assange. URL",
+        "sentiment_score": 0.9569699168205261,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6760397553443909
+    },
+    {
+        "tweet_id": "752875379765968897",
+        "content": "ted cruz is apparently riding with the president on air force one en route to dallas. man, barack obama is a saint.",
+        "sentiment_score": 0.9844842553138733,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.48126447200775146
+    },
+    {
+        "tweet_id": "742114513726623744",
+        "content": "a tweet from @realdonaldtrump about the #orlando shooting: URL URL",
+        "sentiment_score": 0.995452880859375,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9633436799049377
+    },
+    {
+        "tweet_id": "716457799392342018",
+        "content": "bernie sanders has actually won nevada, not hillary clinton! the people have spoken! URL URL",
+        "sentiment_score": 0.9836443066596985,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7906562089920044
+    },
+    {
+        "tweet_id": "778625026144792577",
+        "content": "massachusetts court finds that it\u2019s \u2018reasonable\u2019 for black men to run from police to avoid racial profiling\u2026 URL",
+        "sentiment_score": 0.9112813472747803,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.651725709438324
+    },
+    {
+        "tweet_id": "715254040289021952",
+        "content": "donald trump tells chris matthews: women deserve \u2018some form of punishment\u2019 for abortion URL URL",
+        "sentiment_score": 0.9605730772018433,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8574258685112
+    },
+    {
+        "tweet_id": "724624672604610562",
+        "content": "people are over here boycotting @target over their new transgender bathroom policy and i'm just like URL",
+        "sentiment_score": 0.9978704452514648,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9473143815994263
+    },
+    {
+        "tweet_id": "655432919595548672",
+        "content": "thousands of people in china claim they have seen a 'floating city' in the sky URL",
+        "sentiment_score": 0.5245246887207031,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6256401538848877
+    },
+    {
+        "tweet_id": "742571519105077248",
+        "content": "considering the #orlando shooter was a registered democrat i'd like to just put these back here: URL",
+        "sentiment_score": 0.9984595775604248,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9341719150543213
+    },
+    {
+        "tweet_id": "653432261203750912",
+        "content": "why drunk vegetarians eat meat URL via @thedailybeast",
+        "sentiment_score": 0.9913799166679382,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8924816250801086
+    },
+    {
+        "tweet_id": "707786906189303808",
+        "content": "meet kenny the tiger. he was born with down syndrome. he's proof you don't have to be perfect to be beautiful \u2764\ufe0f URL",
+        "sentiment_score": 0.8288901448249817,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.504741907119751
+    },
+    {
+        "tweet_id": "763524712853102596",
+        "content": "hillary clinton strategist bob beckel called for wikileaks editor julian assange to be assassinated. #dncleaks URL",
+        "sentiment_score": 0.9943195581436157,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7167810201644897
+    },
+    {
+        "tweet_id": "733242244522725376",
+        "content": "\ud83c\udfaf #target backlash over transgender bathroom policy hits \"boiling\u2668\ufe0fpoint\"\u2757\ufe0f URL #boycotttarget URL",
+        "sentiment_score": 0.9975169897079468,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9818331003189087
+    },
+    {
+        "tweet_id": "714555825122107392",
+        "content": "an open letter to trump voters from his top strategist-turned-defector URL @juddapatow @andylassner @bettemidler",
+        "sentiment_score": 0.5301605463027954,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8135842084884644
+    },
+    {
+        "tweet_id": "778681502825451520",
+        "content": "black men have legitimate reason to run from police \u2013 #massachusetts supreme court URL URL",
+        "sentiment_score": 0.9923439621925354,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7953551411628723
+    },
+    {
+        "tweet_id": "740791134146965504",
+        "content": "dear @hillaryclinton you're not the 1st woman presidential candidate. victoria woodhull is. look @realdonaldtrump URL",
+        "sentiment_score": 0.9898880124092102,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9110685586929321
+    },
+    {
+        "tweet_id": "655812191233417216",
+        "content": "when refusing to pay the 5p bag charge backfires URL \ud83d\ude02\ud83d\ude48",
+        "sentiment_score": 0.9977133274078369,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.874241828918457
+    },
+    {
+        "tweet_id": "727854332188577792",
+        "content": "perhaps media should ask hillary about this clinton campaign made payments to hard drive destruction company URL",
+        "sentiment_score": 0.9931007623672485,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9039163589477539
+    },
+    {
+        "tweet_id": "742012307694223361",
+        "content": "#orlando oh look the muslim shooter was also a democrat! URL",
+        "sentiment_score": 0.9867210388183594,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5241838693618774
+    },
+    {
+        "tweet_id": "707332312724283392",
+        "content": "obama to skip nancy reagan's funeral for music, film festival in austin, tx URL via @waynedupreeshow",
+        "sentiment_score": 0.9659061431884766,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9232494831085205
+    },
+    {
+        "tweet_id": "755447443009916929",
+        "content": "police shut down restaurant after officer cuts mouth on shards of glass found in sandwich URL URL",
+        "sentiment_score": 0.9973100423812866,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.755966067314148
+    },
+    {
+        "tweet_id": "705092738224525312",
+        "content": "breaking news: search \"how can i move to canada\" skyrocketed following #supertuesday URL",
+        "sentiment_score": 0.9978393316268921,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.406856507062912
+    },
+    {
+        "tweet_id": "724661834419048448",
+        "content": "hey guys, target isn't backing down check the usa today article about the boycott URL",
+        "sentiment_score": 0.9702762961387634,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.38357535004615784
+    },
+    {
+        "tweet_id": "757190314880884736",
+        "content": "donald trump: \"...laziness is a trait in blacks. it really is, i believe that. it\u2019s not anything they can control.\u201d URL",
+        "sentiment_score": 0.9992994070053101,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8557529449462891
+    },
+    {
+        "tweet_id": "775672628493357057",
+        "content": "clinton hides failing health? full disclosure now: covert doctors and nurses URL via @mailonline #maga @realdonaldtrump",
+        "sentiment_score": 0.9942147135734558,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5965192317962646
+    },
+    {
+        "tweet_id": "725983128444129280",
+        "content": "starve the beasts destroying our #civilsociety #target stock \u27a1\ufe0f sinks $1.5 billion URL URL",
+        "sentiment_score": 0.9997422099113464,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8422658443450928
+    },
+    {
+        "tweet_id": "766808183696351233",
+        "content": "\"laziness is a trait in blacks\"-trump, according to former president of trump plaza hotel and casino @vitico46 URL",
+        "sentiment_score": 0.9939543604850769,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8870506286621094
+    },
+    {
+        "tweet_id": "723511860516016128",
+        "content": "all in purple: memorials and landmarks across the globe honor #prince after his death. URL URL",
+        "sentiment_score": 0.8312902450561523,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6931425929069519
+    },
+    {
+        "tweet_id": "650975967146602496",
+        "content": "uk \u2022 you're right to be nervous about the 5p plastic bag charge. when they implemented this in california the streets ran red with blood.",
+        "sentiment_score": 0.9938734769821167,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9788268804550171
+    },
+    {
+        "tweet_id": "751536167183613952",
+        "content": "#urgent so-called 'purge' planned tonight in baton rouge 1200am - 0500am. #bluelivesmatter - heres the flash >> URL",
+        "sentiment_score": 0.9970242381095886,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8997654914855957
+    },
+    {
+        "tweet_id": "658755852199927808",
+        "content": "test finds human dna in hot dogs, meat in vegetarian products URL URL",
+        "sentiment_score": 0.9710439443588257,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.5541011095046997
+    },
+    {
+        "tweet_id": "748543642323783681",
+        "content": "obama cuts military pay third year in a row, while pushing $15 min. wage for burger flippers URL URL",
+        "sentiment_score": 0.9783535599708557,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8183715343475342
+    },
+    {
+        "tweet_id": "732004388181434368",
+        "content": "target\u2019s new transgender policy raises all sorts of questions. URL",
+        "sentiment_score": 0.8814907670021057,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8736252188682556
+    },
+    {
+        "tweet_id": "727187859367546880",
+        "content": "good news!: target stock plummets #lbgtq #bathroombill URL #tcot #pjnet #rednationrising URL",
+        "sentiment_score": 0.9918112754821777,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7912033200263977
+    },
+    {
+        "tweet_id": "764931593303646208",
+        "content": "fox news host claims hillary clinton had seizure on camera, has 'secret' health issues URL URL",
+        "sentiment_score": 0.9911612272262573,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4580845236778259
+    },
+    {
+        "tweet_id": "747275598347837440",
+        "content": "newsflash\u26a1\ufe0fthe #orlando shooter was a muslim and a democrat\u2714\ufe0f not a republican or christian\u274c #gaypride2016 URL",
+        "sentiment_score": 0.9973822236061096,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9840365052223206
+    },
+    {
+        "tweet_id": "774833492865593344",
+        "content": "nurses save lives of all different races and colors, but @hillaryclinton thinks we belong in a #basketofdeplorables. URL",
+        "sentiment_score": 0.9703415036201477,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6339870095252991
+    },
+    {
+        "tweet_id": "760928376668454912",
+        "content": "before hillary clinton, there was victoria woodhull, a pro-life feminist who ran and was nominated for president. URL",
+        "sentiment_score": 0.6819315552711487,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7297156453132629
+    },
+    {
+        "tweet_id": "728013148788154368",
+        "content": "report: caitlyn jenner will pose nude for sports illustrated URL URL",
+        "sentiment_score": 0.7527017593383789,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.39527642726898193
+    },
+    {
+        "tweet_id": "723644048867774464",
+        "content": "niagara falls turned purple on the day prince died: URL URL",
+        "sentiment_score": 0.9769863486289978,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.42925935983657837
+    },
+    {
+        "tweet_id": "742050150307246080",
+        "content": "shooter in orlando was: a. muslim b. registered democrat voter c. isis d. homophobic e. ready for hillary URL",
+        "sentiment_score": 0.9940195083618164,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6097144484519958
+    },
+    {
+        "tweet_id": "749286768554438658",
+        "content": "what's the no. 1 killer of americans? these rankings have changed little over the years URL URL",
+        "sentiment_score": 0.9900830984115601,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4575953185558319
+    },
+    {
+        "tweet_id": "727179214546456577",
+        "content": "target's stock has taken a $2.5 billion hit over its insistence on insulting regular customers URL",
+        "sentiment_score": 0.9996160268783569,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7592853307723999
+    },
+    {
+        "tweet_id": "651486105628463105",
+        "content": "black people can be so stubborn to change.... #5pbagcharge URL",
+        "sentiment_score": 0.9963334798812866,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6014970541000366
+    },
+    {
+        "tweet_id": "676586804242309121",
+        "content": "isis has been killing babies afflicted with down syndrome and other disabilities, activists claim URL",
+        "sentiment_score": 0.9929366707801819,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.4479290246963501
+    },
+    {
+        "tweet_id": "726086935903494144",
+        "content": "target boycott crosses 1 million signers, stock sinks by $1.5 billion - breitbart URL",
+        "sentiment_score": 0.9996510744094849,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6727637648582458
+    },
+    {
+        "tweet_id": "707308274270539777",
+        "content": "no one is surprised by this.of course obama is skipping nancy reagan's funeral.dignity isn't his strongest attribute URL",
+        "sentiment_score": 0.9896728992462158,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.9786952137947083
+    },
+    {
+        "tweet_id": "716424773216022530",
+        "content": "it seems @berniesanders has won back nevada! don't let @clarkcountynv dems rig it against @sensanders! #feelthebern URL",
+        "sentiment_score": 0.975281834602356,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.3655512034893036
+    },
+    {
+        "tweet_id": "717081129627553792",
+        "content": "this is kenny, the tiger with down syndrome. this proves you don't have to perfect to be beautiful \u2764\ufe0f URL",
+        "sentiment_score": 0.9890779852867126,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8031917810440063
+    },
+    {
+        "tweet_id": "652349108653551616",
+        "content": "surprising number of vegetarians secretly eat meat URL URL",
+        "sentiment_score": 0.7205989956855774,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.4855059087276459
+    },
+    {
+        "tweet_id": "777710439870455808",
+        "content": "all living ex-presidents warn against donald trump URL URL",
+        "sentiment_score": 0.9912838935852051,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6386489868164062
+    },
+    {
+        "tweet_id": "743764020679741440",
+        "content": "obama cuts military pay for third year in a row, while pushing for $15 min. wage for burger flippers: URL",
+        "sentiment_score": 0.9858207702636719,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8522104024887085
+    },
+    {
+        "tweet_id": "716092408920936448",
+        "content": "international criminal george soros & his boi @davidbrockdc are sooo busted #fauxprotests #ringers @realdonaldtrump URL",
+        "sentiment_score": 0.9977350234985352,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9030607342720032
+    },
+    {
+        "tweet_id": "727116900983934976",
+        "content": ". @target stock plunges in early days of @americanfamassc boycott. URL",
+        "sentiment_score": 0.9982030391693115,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.4059927761554718
+    },
+    {
+        "tweet_id": "658938136299511808",
+        "content": "human dna found in hot dogs - and 10% of vegetarian sausages contain meat URL URL",
+        "sentiment_score": 0.9742708206176758,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7260259389877319
+    },
+    {
+        "tweet_id": "763520953619918848",
+        "content": "dear #msm bob beckel calling for assassination of #julianassange URL @ericbolling URL",
+        "sentiment_score": 0.9927214980125427,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.966959536075592
+    },
+    {
+        "tweet_id": "714567472712589312",
+        "content": "how many more trump supporters will defect? an open letter to trump voters from his top strategist-turned-defector URL",
+        "sentiment_score": 0.9958421587944031,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4574337303638458
+    },
+    {
+        "tweet_id": "652300118205427716",
+        "content": "survey: 1 in 3 vegetarians admits to eating meat when drunk... URL",
+        "sentiment_score": 0.9782710671424866,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.47149983048439026
+    },
+    {
+        "tweet_id": "747443219487678464",
+        "content": "nyc pride parade after orlando: \u201crepublican hate kills\" no. the orlando shooter was a muslim democrat. URL",
+        "sentiment_score": 0.9856717586517334,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.32318833470344543
+    },
+    {
+        "tweet_id": "755548076438196225",
+        "content": "colombus, ohio police officer served sandwich with shards of glass. URL",
+        "sentiment_score": 0.9828401207923889,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6324582695960999
+    },
+    {
+        "tweet_id": "728627623488786433",
+        "content": "breaking: tom brady set to share sports illustrated cover with caitlyn jenner.... URL",
+        "sentiment_score": 0.9931877851486206,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5011345148086548
+    },
+    {
+        "tweet_id": "749039299677417472",
+        "content": "after the orlando shooting this is how they protest, and the shooter was a registered democrat... URL",
+        "sentiment_score": 0.9889306426048279,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7332082986831665
+    },
+    {
+        "tweet_id": "725070832494624769",
+        "content": "boycott the hell out of target. they think it's ok that boys pee with girls so let's hit em where it hurts - money. URL",
+        "sentiment_score": 0.9991488456726074,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.45189380645751953
+    },
+    {
+        "tweet_id": "728038172270198787",
+        "content": "caitlyn jenner will pose nude on the sports illustrated cover. nothing says sexy like a 66 year old chick with balls.",
+        "sentiment_score": 0.9635719656944275,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6793084144592285
+    },
+    {
+        "tweet_id": "724348906096590849",
+        "content": "340,000 pledge to boycott @target over transgender bathroom policy URL URL",
+        "sentiment_score": 0.9887986779212952,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9170641899108887
+    },
+    {
+        "tweet_id": "728207861050970112",
+        "content": "caitlyn jenner will pose nude on the sports illustrated cover. her balls will be censored by a sad michael jordan face.",
+        "sentiment_score": 0.9986238479614258,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9844945073127747
+    },
+    {
+        "tweet_id": "663744139666804736",
+        "content": "as you ignore the cold homeless guy sitting outside starbucks, please be sure to complain about the 'non-christian' red cup of $5 coffee.",
+        "sentiment_score": 0.996615469455719,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5103622674942017
+    },
+    {
+        "tweet_id": "727623131494387714",
+        "content": "clinton campaign made payments to hard drive destruction company \ud83e\udd14 destruction of 14 hard drives @hillaryclinton \u2049\ufe0f URL",
+        "sentiment_score": 0.9975524544715881,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8828103542327881
+    },
+    {
+        "tweet_id": "752965545528528898",
+        "content": "homicide is among the top five causes of death in adolescents URL #endviolence URL",
+        "sentiment_score": 0.996152937412262,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8699221611022949
+    },
+    {
+        "tweet_id": "778572032531427332",
+        "content": "massachusetts court finds that it\u2019s \u2018reasonable\u2019 for black men to run from police to avoid racial profiling\u2026 URL",
+        "sentiment_score": 0.9112813472747803,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.651725709438324
+    },
+    {
+        "tweet_id": "716451800581279744",
+        "content": "it's official, @berniesanders actually won nevada today. came down to 2 factors. 1. enthusiasm 2. organization URL",
+        "sentiment_score": 0.8390273451805115,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7194544076919556
+    },
+    {
+        "tweet_id": "652000523525091328",
+        "content": "a third of 'vegetarians' eat meat when drunk on a night out URL URL",
+        "sentiment_score": 0.9730781316757202,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.9027929902076721
+    },
+    {
+        "tweet_id": "715256242990505984",
+        "content": "just in: donald trump tells @msnbc: \"there has to be some form of punishment\" for abortion URL",
+        "sentiment_score": 0.9930859804153442,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.46349814534187317
+    },
+    {
+        "tweet_id": "701514249269542912",
+        "content": "no, the polling doesn't prove bernie sanders won the hispanic vote in nevada URL",
+        "sentiment_score": 0.9990729093551636,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9079514741897583
+    },
+    {
+        "tweet_id": "727172374999666688",
+        "content": "we should pick a company a month. 1.1 million families join afa\u2019s target boycott, stock takes $2.5 billion hit - URL",
+        "sentiment_score": 0.9982216954231262,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.2972901463508606
+    },
+    {
+        "tweet_id": "723772395211862016",
+        "content": "niagara falls turned purple on the day prince died: URL URL",
+        "sentiment_score": 0.9769863486289978,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.42925935983657837
+    },
+    {
+        "tweet_id": "740748123581087745",
+        "content": "first female candidate for president was not @hillaryclinton it was victoria woodhull in 1872 #nhpolitics #tcot URL",
+        "sentiment_score": 0.9812049865722656,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.844380259513855
+    },
+    {
+        "tweet_id": "766789709045518336",
+        "content": "donald trump goes to louisiana flooding site, spends a minute handing out play-doh, leaves URL #whereshillary",
+        "sentiment_score": 0.9958723187446594,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.47231239080429077
+    },
+    {
+        "tweet_id": "652982112870662144",
+        "content": "surprising number of vegetarians secretly eat meat URL URL",
+        "sentiment_score": 0.7205989956855774,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.4855059087276459
+    },
+    {
+        "tweet_id": "703234354579898368",
+        "content": "kenny is considered the first tiger with down syndrome. at the age of nine, kenny died in 2008 of cancer. URL",
+        "sentiment_score": 0.9654430150985718,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8320550918579102
+    },
+    {
+        "tweet_id": "655815788675399680",
+        "content": "when refusing to pay the 5p bag charge backfires... URL",
+        "sentiment_score": 0.9989062547683716,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.489539235830307
+    },
+    {
+        "tweet_id": "726190016435728385",
+        "content": "target boycott crosses 1 million signers, stock sinks by $1.5 billion URL",
+        "sentiment_score": 0.9996204376220703,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6205320954322815
+    },
+    {
+        "tweet_id": "725174535897620481",
+        "content": "more than 700000 boycott target over transgender URL #lgbtq #tcot #bathroombill #pjnet URL",
+        "sentiment_score": 0.9868707060813904,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.4924943447113037
+    },
+    {
+        "tweet_id": "748640007934590976",
+        "content": "what's the no. 1 killer of americans? these rankings have changed little over the years URL URL",
+        "sentiment_score": 0.9900830984115601,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4575953185558319
+    },
+    {
+        "tweet_id": "724320681517670400",
+        "content": "340,000 pledge to boycott target over transgender bathroom policy URL URL",
+        "sentiment_score": 0.9692103862762451,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.769547700881958
+    },
+    {
+        "tweet_id": "701175292937707520",
+        "content": "\"sanders won 54% of the latino vote, according to the sample data, compared to clinton\u2019s 43%.\" #nvcaucus URL",
+        "sentiment_score": 0.8380109071731567,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.35013821721076965
+    },
+    {
+        "tweet_id": "724703995147751424",
+        "content": "american family association gets 500,000 to sign petition boycotting target over its transgender bathroom policy URL",
+        "sentiment_score": 0.9828757047653198,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5497260689735413
+    },
+    {
+        "tweet_id": "759460236042305536",
+        "content": "1991, book written saying trump says \"laziness is a trait in all blacks\" URL URL",
+        "sentiment_score": 0.9955078363418579,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9113470911979675
+    },
+    {
+        "tweet_id": "723521076446142465",
+        "content": "when your two favorite landmarks...go purple in honor of the world missing prince...beautiful: URL",
+        "sentiment_score": 0.9790586829185486,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8261475563049316
+    },
+    {
+        "tweet_id": "757748522481491968",
+        "content": "tim kaine & his besties the muslim brotherhood URL #demsinphilly #dncconvention URL",
+        "sentiment_score": 0.9652939438819885,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8462594151496887
+    },
+    {
+        "tweet_id": "716439952922312704",
+        "content": "we officially won clark county (70% of the population of nevada) and washoe county +5/6 for @berniesanders -4 for hillary #bernietakesnevada",
+        "sentiment_score": 0.9994497895240784,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8159056305885315
+    },
+    {
+        "tweet_id": "743058135300988932",
+        "content": "so now we know, orlando shooter was a gay, muslim, registered democrat. no wonder liberals are trying to blame the gun. #orlandoshooting",
+        "sentiment_score": 0.9913135170936584,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5397374629974365
+    },
+    {
+        "tweet_id": "778949749156245504",
+        "content": "\"a black man who runs from police merely might be trying to avoid the recurring indignity of being profiled\" URL",
+        "sentiment_score": 0.999452531337738,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.3969654142856598
+    },
+    {
+        "tweet_id": "715255507506892800",
+        "content": "update: donald trump advocates abortion ban and \"some form of punishment\" for women who have an abortion. URL - @msnbc",
+        "sentiment_score": 0.9759884476661682,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4258383810520172
+    },
+    {
+        "tweet_id": "648993731169939456",
+        "content": "woman in hospital after confusing hair mousse with builder's foam: URL",
+        "sentiment_score": 0.9976305961608887,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7146233916282654
+    },
+    {
+        "tweet_id": "651786568592658433",
+        "content": "one third of vegetarians eat meat when they get drunk | URL URL",
+        "sentiment_score": 0.975405216217041,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.8027050495147705
+    },
+    {
+        "tweet_id": "640182854928961536",
+        "content": "plastic bag use in wales has dropped by 71 per cent since the 5p charge was introduced URL URL",
+        "sentiment_score": 0.9985494017601013,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8785485029220581
+    },
+    {
+        "tweet_id": "727588444000526336",
+        "content": "payments to hard drive destruction company... URL",
+        "sentiment_score": 0.9993231296539307,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7013463973999023
+    },
+    {
+        "tweet_id": "724044187113512960",
+        "content": "niagara falls turned purple on the day prince died: URL URL",
+        "sentiment_score": 0.9769863486289978,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.42925935983657837
+    },
+    {
+        "tweet_id": "701975210044497921",
+        "content": "study concluded that the clinton camp has \u201cno statistical basis\u201d to back claims that it won latino vote in nv. URL",
+        "sentiment_score": 0.9993475079536438,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8002467155456543
+    },
+    {
+        "tweet_id": "742055437932040193",
+        "content": "because the orlando shooter who murdered gay people was a registered democrat and muslim, the media is going silent. URL",
+        "sentiment_score": 0.9993243217468262,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6400334239006042
+    },
+    {
+        "tweet_id": "697992796565741569",
+        "content": "nevada focus group of #pbsdebate says @berniesanders won tonight's debate by a 25 to 9 margin.",
+        "sentiment_score": 0.536359429359436,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5225762724876404
+    },
+    {
+        "tweet_id": "714577521992343552",
+        "content": "a trump campaign strategist just quit and wrote this amazing open letter about why: URL",
+        "sentiment_score": 0.9888083338737488,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.6513717770576477
+    },
+    {
+        "tweet_id": "760120409429643266",
+        "content": "pray for parents and school leadership to have wisdom to refuse these after school satan clubs! URL",
+        "sentiment_score": 0.9934631586074829,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5756492018699646
+    },
+    {
+        "tweet_id": "757450526153900032",
+        "content": "victoria woodhull ran for us president 144 years before hillary clinton \ud83d\udcfb URL URL",
+        "sentiment_score": 0.9903016090393066,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9338483810424805
+    },
+    {
+        "tweet_id": "728631482722308096",
+        "content": "afa' rios: target's transgender bathroom policy is 'push from the left to deconstruct the family' URL via @breitbartnews",
+        "sentiment_score": 0.9982187151908875,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.494938462972641
+    },
+    {
+        "tweet_id": "780436430732525569",
+        "content": "well, this is a new one: chelsea clinton implies that marijuana can kill you. 2016, y\u2019all. URL #mmot #p2 #tcot #tlot",
+        "sentiment_score": 0.9544391632080078,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7848496437072754
+    },
+    {
+        "tweet_id": "723915846985342976",
+        "content": "niagara falls turned purple on the day prince died: URL URL",
+        "sentiment_score": 0.9769863486289978,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.42925935983657837
+    },
+    {
+        "tweet_id": "755475529294352385",
+        "content": "ohio police officer hospitalized after eating shards of glass in sandwich from columbus restaurant blackliesmatter URL",
+        "sentiment_score": 0.9976924657821655,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.3653995990753174
+    },
+    {
+        "tweet_id": "707604196812591104",
+        "content": "developing: president obama will be attending sxsw festival instead of nancy reagan's funeral. URL",
+        "sentiment_score": 0.9346009492874146,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.32513663172721863
+    },
+    {
+        "tweet_id": "765739657908850688",
+        "content": "remember when trump said \"laziness is a trait in blacks.\" URL URL",
+        "sentiment_score": 0.9949535727500916,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9610080718994141
+    },
+    {
+        "tweet_id": "748558349139058688",
+        "content": "obama cuts military pay 4third year in a row #isis 2nd terrorist attack in a week #wakeupamerica r u ok w this? #2a URL",
+        "sentiment_score": 0.9937005043029785,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.986391544342041
+    },
+    {
+        "tweet_id": "649584608560832513",
+        "content": "this woman mistook builders\u2019 foam for hair mousse URL URL",
+        "sentiment_score": 0.994616687297821,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9209073781967163
+    },
+    {
+        "tweet_id": "707321278135463936",
+        "content": "president obama to skip nancy reagan\u2019s funeral in order to attend south by southwest: URL URL",
+        "sentiment_score": 0.9972418546676636,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.42872941493988037
+    },
+    {
+        "tweet_id": "716448280201269248",
+        "content": "bernie sanders has won the nevada caucus #nvcaucus URL",
+        "sentiment_score": 0.9762815237045288,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.6579073071479797
+    },
+    {
+        "tweet_id": "745365403237376000",
+        "content": "causes of death in usa in 2016 (through june 15) URL",
+        "sentiment_score": 0.9940266609191895,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7819322943687439
+    },
+    {
+        "tweet_id": "654336219447472128",
+        "content": "beat the 5p bag charge by #winning 1 of 5 cute lambrini shopping bags - rt & follow to enter! 18+, t&cs apply URL",
+        "sentiment_score": 0.9793606400489807,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8806609511375427
+    },
+    {
+        "tweet_id": "701872343736520704",
+        "content": "new analysis from @wcvi: sanders won the latino vote in nevada. URL",
+        "sentiment_score": 0.9298730492591858,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5327271819114685
+    },
+    {
+        "tweet_id": "763430916236640256",
+        "content": "hillary surroagte bob beckel calls for assassination of julian assange URL",
+        "sentiment_score": 0.9692745804786682,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7629705667495728
+    },
+    {
+        "tweet_id": "711994705333112832",
+        "content": "keith richards 'once pulled a knife on donald trump' says rolling stones' ex-event promoter URL URL",
+        "sentiment_score": 0.9970597624778748,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7534196972846985
+    },
+    {
+        "tweet_id": "705093513076015104",
+        "content": "tons of people searching \"how to move to canada\" following trump, clinton wins URL URL",
+        "sentiment_score": 0.9820960760116577,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6766506433486938
+    },
+    {
+        "tweet_id": "755523157700648960",
+        "content": "ohio police officer served sandwich containing shards of glass \u2013 officer has been hospitalized - #rncincle URL",
+        "sentiment_score": 0.9771866798400879,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5572793483734131
+    },
+    {
+        "tweet_id": "742678930516123650",
+        "content": "gay muslim democrat terrorist threatened to kill his classmates. when he was 10. but nra or something. URL",
+        "sentiment_score": 0.9965851306915283,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9899799823760986
+    },
+    {
+        "tweet_id": "732971411157880832",
+        "content": "here's an interesting look at $tgt target's stock price since it implemented it's transgender bathroom policy... URL",
+        "sentiment_score": 0.9805759787559509,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5651572942733765
+    },
+    {
+        "tweet_id": "727982226290442240",
+        "content": "surprise! => @target stock drops since #transgender bathroom policy URL URL",
+        "sentiment_score": 0.9994773268699646,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.9313862919807434
+    },
+    {
+        "tweet_id": "778299287293816832",
+        "content": "will ny ag investigate clinton campaign credit card fraud re elderly donors? URL URL",
+        "sentiment_score": 0.9976118803024292,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4369320571422577
+    },
+    {
+        "tweet_id": "714503380476026880",
+        "content": "open letter to trump voters from his top strategist-turned-defector - amazing first person account URL via @xojanedotcom",
+        "sentiment_score": 0.92204350233078,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7175639271736145
+    },
+    {
+        "tweet_id": "728625967921401856",
+        "content": "the retail giant has taken huge hits as consumers react to their misguided bathroom policy. URL URL",
+        "sentiment_score": 0.8568096160888672,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.39899346232414246
+    },
+    {
+        "tweet_id": "716416753409081344",
+        "content": "hearing that bernie sanders flipped clark county in nevada at state convention, may have won the entire state #feelthebern",
+        "sentiment_score": 0.7749131321907043,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4667016267776489
+    },
+    {
+        "tweet_id": "707420972173955072",
+        "content": "obama skipping nancy reagan's funeral to attend sxsw URL URL",
+        "sentiment_score": 0.9677753448486328,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7730523943901062
+    },
+    {
+        "tweet_id": "780882510645370880",
+        "content": "chelsea clinton implies here that marijuana can kill you. uhh URL",
+        "sentiment_score": 0.9939676523208618,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7171940207481384
+    },
+    {
+        "tweet_id": "723504069814444033",
+        "content": "purple reign! landmarks light up for prince after his sudden death \ud83d\udc9c #princerip URL",
+        "sentiment_score": 0.9991946816444397,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6733136773109436
+    },
+    {
+        "tweet_id": "640118021101604864",
+        "content": "the insane reason why chinese drivers intentionally kill pedestrians they hit \u2014 via @slate URL URL",
+        "sentiment_score": 0.9975226521492004,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8664597868919373
+    },
+    {
+        "tweet_id": "778530869208190976",
+        "content": "hillary overcharges poorest campaign donors @lindasuhler @realdrgina @girlsfortrump @cinderella2b @kamvtv #us #usa\ud83c\uddfa\ud83c\uddf8 URL",
+        "sentiment_score": 0.9982947707176208,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5438846349716187
+    },
+    {
+        "tweet_id": "743126914794037248",
+        "content": "people blame the massacre in orlando on the nra. newsflash: the orlando shooter wasn't a nra member... but he was a registered democrat.",
+        "sentiment_score": 0.9907750487327576,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6834518313407898
+    },
+    {
+        "tweet_id": "653432177632387072",
+        "content": "study finds over a third of vegetarians eat meat...when drunk! URL URL",
+        "sentiment_score": 0.9615045785903931,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.7548759579658508
+    },
+    {
+        "tweet_id": "728273551883534336",
+        "content": "caitlyn jenner will pose nude on the sports illustrated cover. her balls will be censored by a sad michael jordan face.",
+        "sentiment_score": 0.9986238479614258,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9844945073127747
+    },
+    {
+        "tweet_id": "727834854931435522",
+        "content": "evidence destroyed? campaign made payments to hard drive and document destruction company URL #makeamericagreatagain",
+        "sentiment_score": 0.9992265701293945,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5131974816322327
+    },
+    {
+        "tweet_id": "724603564946010112",
+        "content": "twenty-five stories proving target\u2019s pro-trans bathroom policy is dangerous URL",
+        "sentiment_score": 0.9976474642753601,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5365920066833496
+    },
+    {
+        "tweet_id": "714598318333042688",
+        "content": "top trump strategist resigns, writes revealing open letter: URL",
+        "sentiment_score": 0.9773073196411133,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9549136757850647
+    },
+    {
+        "tweet_id": "765735409984806912",
+        "content": "trump: dems \"failed and betrayed the africanamerican community\u201d trump: \u201claziness is a trait in blacks, it really is\" URL",
+        "sentiment_score": 0.99608314037323,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5168531537055969
+    },
+    {
+        "tweet_id": "707305999971921920",
+        "content": "\u2018president petty strikes again\u2019: obama will reportedly skip nancy reagan\u2019s funeral,,, \u2705 URL URL",
+        "sentiment_score": 0.9988865256309509,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8742110133171082
+    },
+    {
+        "tweet_id": "715253497462145024",
+        "content": "just in: donald trump to @msnbc: \"there has to be some form of punishment\" for women who have an abortion.",
+        "sentiment_score": 0.9823845028877258,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5216488242149353
+    },
+    {
+        "tweet_id": "715268937873760256",
+        "content": "donald trump goes full anti-woman: \"punishment\" for women who abort URL URL",
+        "sentiment_score": 0.9787035584449768,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.368087500333786
+    },
+    {
+        "tweet_id": "751856580874960897",
+        "content": "should say \"labor unions aligned with @hillaryclinton\" stopped dems from saying no tpp-they don't speak for nurses URL",
+        "sentiment_score": 0.9984104633331299,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.40972116589546204
+    },
+    {
+        "tweet_id": "712223438698627073",
+        "content": "keith richards 'once pulled a knife on donald trump', claims rolling stones' former promoter URL URL",
+        "sentiment_score": 0.9949312806129456,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8205503225326538
+    },
+    {
+        "tweet_id": "707405809181917184",
+        "content": "bachmann: obama \"classless\" for missing nancy reagan\u2019s funeral URL URL",
+        "sentiment_score": 0.9991177916526794,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6270044445991516
+    },
+    {
+        "tweet_id": "744390771869102080",
+        "content": "one of the men who wanted to copy the #orlando shooter was stopped in l.a. he was a liberal democrat and #berniebro. URL",
+        "sentiment_score": 0.9996694326400757,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9257060885429382
+    },
+    {
+        "tweet_id": "778689027918618625",
+        "content": "black men may have cause to run from police, massachusetts high court says URL",
+        "sentiment_score": 0.9978941082954407,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.3471814692020416
+    },
+    {
+        "tweet_id": "707412869860696064",
+        "content": "bachmann slams \"classless\" obama for skipping nancy reagan\u2019s funeral URL URL",
+        "sentiment_score": 0.9975134134292603,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.580077588558197
+    },
+    {
+        "tweet_id": "650710483289419776",
+        "content": "local school art project titled \"candlelight\" URL",
+        "sentiment_score": 0.9501543641090393,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7547938823699951
+    },
+    {
+        "tweet_id": "656523458139045889",
+        "content": "is your drug dealer charging you more because of the 5p bag charge? let us know! ring 101 now URL",
+        "sentiment_score": 0.9970809817314148,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.355449914932251
+    },
+    {
+        "tweet_id": "714851393861881857",
+        "content": "trump's top strategist, stephanie cegielski, has quit his campaign + just wrote an open letter to trump supporters: URL",
+        "sentiment_score": 0.9988059997558594,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6734328866004944
+    },
+    {
+        "tweet_id": "764368020391223296",
+        "content": "video : clueless hillary clinton calls for americans to respect and empathize with isis URL",
+        "sentiment_score": 0.9923058152198792,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6179335713386536
+    },
+    {
+        "tweet_id": "741995157969592321",
+        "content": "orlando shooter, muslim, omar mateen was a registered democrat. URL",
+        "sentiment_score": 0.9369289875030518,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.753887414932251
+    },
+    {
+        "tweet_id": "730516765525082112",
+        "content": "a canadian teen didn't find a lost mayan city: URL URL",
+        "sentiment_score": 0.8327021598815918,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4078761637210846
+    },
+    {
+        "tweet_id": "714998347111669760",
+        "content": "we must address the political marginalization and institutional racism affecting people of color. read my plan: URL",
+        "sentiment_score": 0.9929319620132446,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8423341512680054
+    },
+    {
+        "tweet_id": "714811995573325828",
+        "content": "an open letter to trump voters from his top strategist: stop supporting him, he doesn't want to win URL",
+        "sentiment_score": 0.9967201352119446,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6193583607673645
+    },
+    {
+        "tweet_id": "728101712762834944",
+        "content": "caitlyn jenner about to post nude for cover of sports illustrated.... \ud83d\ude33",
+        "sentiment_score": 0.9181885123252869,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5989911556243896
+    },
+    {
+        "tweet_id": "701539698452393986",
+        "content": "the 2016 race: no, the polling doesn\u2019t prove bernie sanders won the hispanic vote in nevada URL",
+        "sentiment_score": 0.9992246627807617,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7759286165237427
+    },
+    {
+        "tweet_id": "653285570383335424",
+        "content": "5p!!! hell no!!!!!! #5pbagcharge \ud83d\ude35\ud83d\ude35 URL",
+        "sentiment_score": 0.9986636638641357,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.4462754726409912
+    },
+    {
+        "tweet_id": "707310135291416576",
+        "content": "obama to skip nancy reagan's funeral, as he did scalia's. this time, he'll be attending sxsw: URL",
+        "sentiment_score": 0.56585693359375,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.710803210735321
+    },
+    {
+        "tweet_id": "765887221736046592",
+        "content": "#whiteliberalproverbs\" i'll have them n*ggers voting democratic for the next two hundred years\". lbj, founder of the modern welfare state",
+        "sentiment_score": 0.9956068396568298,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.43223264813423157
+    },
+    {
+        "tweet_id": "650254360727973889",
+        "content": "5p bag charge fi dead #robthisengland URL",
+        "sentiment_score": 0.9986604452133179,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6011102795600891
+    },
+    {
+        "tweet_id": "724939017410727938",
+        "content": "500,000 boycott target over trans bathroom policy... URL",
+        "sentiment_score": 0.9896144270896912,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6481717824935913
+    },
+    {
+        "tweet_id": "651044059222556674",
+        "content": "the best thing about the 5p plastic bag charge is that the cupboard next to my sink is now worth \u00a3672,348.",
+        "sentiment_score": 0.9963957667350769,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.439564049243927
+    },
+    {
+        "tweet_id": "723477822950395904",
+        "content": "purple pain: landmarks across globe light up in fitting prince tributes #ripprince URL URL",
+        "sentiment_score": 0.9982588887214661,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5390288829803467
+    },
+    {
+        "tweet_id": "763896522790440960",
+        "content": "layton police officer hospitalized after subway worker serves him meth and thc in his drink (video) URL",
+        "sentiment_score": 0.9963582158088684,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4454554617404938
+    },
+    {
+        "tweet_id": "756690088533393409",
+        "content": "\"laziness is a trait in blacks,\" 1991 book quotes trump as saying: URL URL",
+        "sentiment_score": 0.9904168844223022,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8279814720153809
+    },
+    {
+        "tweet_id": "758825535480864769",
+        "content": "hillary clinton is lying. clinton is not first woman nominated for president. it was victoria woodhull in 1872. to \u2026 URL",
+        "sentiment_score": 0.9889677166938782,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.756751537322998
+    },
+    {
+        "tweet_id": "707300612862566400",
+        "content": "obama to skip nancy reagan\u2019s funeral, attend entertainment festival instead URL URL",
+        "sentiment_score": 0.9888548254966736,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5614715218544006
+    },
+    {
+        "tweet_id": "732981604826677249",
+        "content": "target says boycott over transgender bathroom policy isn't hurting sales URL",
+        "sentiment_score": 0.9837498664855957,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.633845329284668
+    },
+    {
+        "tweet_id": "760109079133990912",
+        "content": "\u201cafter school satan clubs\u201d? URL",
+        "sentiment_score": 0.9951954483985901,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7710978984832764
+    },
+    {
+        "tweet_id": "779633844680962048",
+        "content": "this network of tunnels is from the stone age however no one knows how they could've been constructed at the time URL",
+        "sentiment_score": 0.9981812238693237,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.889142632484436
+    }
+]

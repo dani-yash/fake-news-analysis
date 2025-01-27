@@ -1,0 +1,1642 @@
+[
+    {
+        "tweet_id": "656955120626880512",
+        "content": "correct predictions in back to the future ii URL",
+        "sentiment_score": 0.8629615902900696,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9208539128303528
+    },
+    {
+        "tweet_id": "613404935003217920",
+        "content": "cops bought the alleged church shooter burger king hours after killings URL",
+        "sentiment_score": 0.9850956797599792,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5317798256874084
+    },
+    {
+        "tweet_id": "622891631293935616",
+        "content": "#wakeupamerica\ud83c\uddfa\ud83c\uddf8 who needs a #gun registry when #obama has all your personal information URL URL",
+        "sentiment_score": 0.9977815747261047,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9519538879394531
+    },
+    {
+        "tweet_id": "622858454949040128",
+        "content": "in heaven chick-fil-a is open on sundays.",
+        "sentiment_score": 0.9983660578727722,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8276156783103943
+    },
+    {
+        "tweet_id": "656870311057575936",
+        "content": "the 5 most accurate predictions from the decade-jumping adventures in #backtothefuture: URL URL",
+        "sentiment_score": 0.9550469517707825,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.3878217041492462
+    },
+    {
+        "tweet_id": "672513234419638273",
+        "content": "\"thoughts and prayers are not enough.\" pres. obama speaks on mass shootings over the years: URL URL",
+        "sentiment_score": 0.9954339861869812,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8518359661102295
+    },
+    {
+        "tweet_id": "620835698514464768",
+        "content": "translucent butterfly - beautiful! URL",
+        "sentiment_score": 0.9997217059135437,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9575067162513733
+    },
+    {
+        "tweet_id": "626898253900943360",
+        "content": "everyone mad at bruce for his sex change but no one gave ashit about that nerd minkus changing into chanel west coast URL",
+        "sentiment_score": 0.9981673955917358,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8248764872550964
+    },
+    {
+        "tweet_id": "618804516578680832",
+        "content": "family: @schwarzenegger's last act as governor stole justice from dead son. URL URL",
+        "sentiment_score": 0.9945489764213562,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8384235501289368
+    },
+    {
+        "tweet_id": "672632899921833984",
+        "content": "why have there been more mass shootings under obama than the 4 previous presidents combined? URL URL",
+        "sentiment_score": 0.9979458451271057,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5433592796325684
+    },
+    {
+        "tweet_id": "594687353937100801",
+        "content": "the kissing islands, greenland. URL",
+        "sentiment_score": 0.9250200390815735,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8458268046379089
+    },
+    {
+        "tweet_id": "613016993692798977",
+        "content": "police chief says dylann roof was taken to burger king shortly after arrest URL",
+        "sentiment_score": 0.9879927635192871,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4931206703186035
+    },
+    {
+        "tweet_id": "663385747177775105",
+        "content": "steve jobs was adopted. his biological father was abdulfattah jandali, a syrian muslim.",
+        "sentiment_score": 0.9863566160202026,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4016324579715729
+    },
+    {
+        "tweet_id": "613393657161510913",
+        "content": "cops bought burger king for dylann roof following his arrest URL URL",
+        "sentiment_score": 0.9928532242774963,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8955117464065552
+    },
+    {
+        "tweet_id": "604354747357859842",
+        "content": "florida couple arrested for selling fake real estate on the moon #wtf15 \ud83d\udc49\ud83c\udfff\ud83d\udc49 URL URL",
+        "sentiment_score": 0.9946070313453674,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.762329638004303
+    },
+    {
+        "tweet_id": "652783670370115585",
+        "content": "steve jobs was adopted. his biological father was abdulfattah jandali, a syrian muslim.",
+        "sentiment_score": 0.9863566160202026,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4016324579715729
+    },
+    {
+        "tweet_id": "674187250792558592",
+        "content": "donald trump v adolf hitler URL",
+        "sentiment_score": 0.9518769383430481,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9515500068664551
+    },
+    {
+        "tweet_id": "674244561519161344",
+        "content": "\"you're increasingly compared to hitler. does that bother you?\" trump: \"no.\" URL",
+        "sentiment_score": 0.9966451525688171,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.42956751585006714
+    },
+    {
+        "tweet_id": "656830586577883136",
+        "content": "happy #backtothefuture day! how did 'back to the future: part ii' score on 2015 predictions? URL URL",
+        "sentiment_score": 0.9787138104438782,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9327478408813477
+    },
+    {
+        "tweet_id": "663925546812837888",
+        "content": "solo cups have been red for decades. if starbucks was taking a shot at christmas, solo shot first.",
+        "sentiment_score": 0.9861584305763245,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8001185059547424
+    },
+    {
+        "tweet_id": "637382230394822656",
+        "content": "ben carson: what happened to blacks during slavery is why i am pro-life on abortion today URL URL",
+        "sentiment_score": 0.9907476902008057,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5772101879119873
+    },
+    {
+        "tweet_id": "661222523275636736",
+        "content": "anonymous to kkk: you can hood, but you can't hide. #opkkk #hoodsoff URL",
+        "sentiment_score": 0.9899986386299133,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5848497152328491
+    },
+    {
+        "tweet_id": "675043569367982081",
+        "content": "\u2018el chapo\u2019 threatens #isis: \u2018my men will destroy you\u2019 - URL URL",
+        "sentiment_score": 0.9970670342445374,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9770038723945618
+    },
+    {
+        "tweet_id": "633961125126668288",
+        "content": "a new cnn/orc poll finds @hillaryclinton ahead of @realdonaldtrump by just 6 points URL URL",
+        "sentiment_score": 0.9826299548149109,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.34853312373161316
+    },
+    {
+        "tweet_id": "645711628046995462",
+        "content": "latest starving 'refugees' from #syria . these guys look like friggin soldiers to me! URL",
+        "sentiment_score": 0.9985172152519226,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6199085712432861
+    },
+    {
+        "tweet_id": "674014933235859456",
+        "content": "dearborn michigan, this morning. pro isis rally. spread the word, the fit is about to hit the shan here in the us. URL",
+        "sentiment_score": 0.9962843060493469,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5507660508155823
+    },
+    {
+        "tweet_id": "620971220301787136",
+        "content": "while @cnn is talking about #irandeal nasa confirms earth will experience 15 days of darkness in november 2015 URL",
+        "sentiment_score": 0.9848767518997192,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7123600840568542
+    },
+    {
+        "tweet_id": "656880145769197568",
+        "content": "10 'back to the future' predictions that came true URL URL",
+        "sentiment_score": 0.8489088416099548,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7966135144233704
+    },
+    {
+        "tweet_id": "612646796355960832",
+        "content": "after arrest, dylann roof was hungry. police bought him food from burger king. more details: URL URL",
+        "sentiment_score": 0.9814150929450989,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4808221161365509
+    },
+    {
+        "tweet_id": "666190716448587776",
+        "content": "warning syrian refugees hv arrived in neworlean &they r here 2stay ur funds r being well invested in one-way tickets URL",
+        "sentiment_score": 0.97421795129776,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4011634886264801
+    },
+    {
+        "tweet_id": "652992524504600576",
+        "content": "steve jobs was adopted. his biological father was abdulfattah jandali, a syrian muslim.",
+        "sentiment_score": 0.9863566160202026,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4016324579715729
+    },
+    {
+        "tweet_id": "672927317191229440",
+        "content": "this is the face of female jihadist #tashfeenmalik could pass for a widow or orphan\ud83d\ude24#norefugees #islamistheproblem URL",
+        "sentiment_score": 0.9935823082923889,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8248679637908936
+    },
+    {
+        "tweet_id": "675193315306905600",
+        "content": "el chapo vs isis: mexican cartel boss threatens islamic state over drug trade URL URL",
+        "sentiment_score": 0.9346110224723816,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8594353199005127
+    },
+    {
+        "tweet_id": "674364257799004160",
+        "content": "adolf hitler vs donald trump URL",
+        "sentiment_score": 0.9735768437385559,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.903386652469635
+    },
+    {
+        "tweet_id": "662430295254175744",
+        "content": "#opkkk releases 500+ names and reveals unexpected #plottwist URL URL",
+        "sentiment_score": 0.9968613386154175,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.9053447246551514
+    },
+    {
+        "tweet_id": "638050997340893184",
+        "content": "in celebrity death hoax news, james earl jones is not dead. URL URL",
+        "sentiment_score": 0.9569786787033081,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.3859262764453888
+    },
+    {
+        "tweet_id": "673079581520318464",
+        "content": "do these look like the faces of a homeless couple caught living in a walmart attic for 2 years? URL",
+        "sentiment_score": 0.998568058013916,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8585065007209778
+    },
+    {
+        "tweet_id": "673984270902427650",
+        "content": "donald trump and adolf hitler. two sides of the same coin. #racism #fascism URL",
+        "sentiment_score": 0.9955874681472778,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6216515898704529
+    },
+    {
+        "tweet_id": "618805892222468096",
+        "content": "jay z and beyonc\u00e9 want to buy rights to the confederate flag: URL URL",
+        "sentiment_score": 0.9948844313621521,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7877947688102722
+    },
+    {
+        "tweet_id": "654371696195993600",
+        "content": "colorado mcdonald\u2019s offers first marijuana friendly smoking section in restaurant - URL",
+        "sentiment_score": 0.5732017159461975,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7256521582603455
+    },
+    {
+        "tweet_id": "665358434351509504",
+        "content": "breaking: 1st load of 10,000 syrian refugees arrived in new orleans URL #makeamericagreatagain URL",
+        "sentiment_score": 0.900880753993988,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.37792956829071045
+    },
+    {
+        "tweet_id": "666633171325353989",
+        "content": "the myth of zouheir, a \"hero muslim security guard\" in paris URL (via @bbctrending) URL",
+        "sentiment_score": 0.9951379895210266,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7804097533226013
+    },
+    {
+        "tweet_id": "666070802924617728",
+        "content": "jindal demands info about refugees entering new orleans... URL",
+        "sentiment_score": 0.9953616261482239,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8819220662117004
+    },
+    {
+        "tweet_id": "667379734343471104",
+        "content": "donald trump is the new adolf hitler URL",
+        "sentiment_score": 0.939250111579895,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8095324039459229
+    },
+    {
+        "tweet_id": "653250169752977408",
+        "content": ".@hillaryclinton is ahead of @berniesanders by 19 percentage points, in a new cbs news poll released sunday. URL",
+        "sentiment_score": 0.8730962872505188,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4152207374572754
+    },
+    {
+        "tweet_id": "643103859729166337",
+        "content": "unreal: watch what happens when desperate muslim refugees are offered red cross food URL URL",
+        "sentiment_score": 0.9833074808120728,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7275615334510803
+    },
+    {
+        "tweet_id": "658065957823324160",
+        "content": "the father of steve jobs, the ground-breaking founder of apple, was a refugee from syria URL URL",
+        "sentiment_score": 0.9909058809280396,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6112062335014343
+    },
+    {
+        "tweet_id": "661229627734667264",
+        "content": "mayors flatly deny klan membership after #anonymous releases names online URL #opkkk #hoodsoff URL",
+        "sentiment_score": 0.9887758493423462,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8856590986251831
+    },
+    {
+        "tweet_id": "673686233936072704",
+        "content": "72 dhs employees on the terror watch list: URL h/t @penguinsfan62",
+        "sentiment_score": 0.9943053126335144,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9931676983833313
+    },
+    {
+        "tweet_id": "618192748735299584",
+        "content": "the kissing islands, greenland! URL",
+        "sentiment_score": 0.8192935585975647,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.44620972871780396
+    },
+    {
+        "tweet_id": "644229386149888001",
+        "content": "greek customs captured containers of weapons and ammunition going to refugee camps in europe as \"plastic furniture\" URL",
+        "sentiment_score": 0.9963245987892151,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9133859872817993
+    },
+    {
+        "tweet_id": "671181758692507648",
+        "content": "desperate ted cruz claims planned parenthood shooter was transgender leftis; based on rumor he read URL",
+        "sentiment_score": 0.9986572265625,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.31671202182769775
+    },
+    {
+        "tweet_id": "626642648179159040",
+        "content": "this is how people in china are riding escalators after a horrific accident URL URL",
+        "sentiment_score": 0.9935299754142761,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9780610799789429
+    },
+    {
+        "tweet_id": "673872171341447169",
+        "content": "72 dhs employees on terrorist watch list URL via @kredo0 URL",
+        "sentiment_score": 0.9892945289611816,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9305669665336609
+    },
+    {
+        "tweet_id": "664000310856310784",
+        "content": "mysterious creature discovered in california, everyone naturally cries alien: URL URL",
+        "sentiment_score": 0.8667830228805542,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.34179529547691345
+    },
+    {
+        "tweet_id": "651321040119963648",
+        "content": "el chapo puts $100 million bounty on donald trump...dead or alive! URL",
+        "sentiment_score": 0.992525577545166,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.33003589510917664
+    },
+    {
+        "tweet_id": "662151653462790144",
+        "content": "hackers from anonymous say they're set to expose hundreds of kkk members URL #opkkk URL",
+        "sentiment_score": 0.9987830519676208,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7189377546310425
+    },
+    {
+        "tweet_id": "676067381299576832",
+        "content": "72 dhs employees on terrorist watch list - washington free beacon URL",
+        "sentiment_score": 0.9931492209434509,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9191902875900269
+    },
+    {
+        "tweet_id": "673615400655970304",
+        "content": "shock: 72 'homeland security' employees on terrorist watch list... URL",
+        "sentiment_score": 0.9875614643096924,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.725472629070282
+    },
+    {
+        "tweet_id": "641443248909754368",
+        "content": "kim davis angers 'eye of the tiger' creator after using song at prison release URL",
+        "sentiment_score": 0.9989631175994873,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9591366052627563
+    },
+    {
+        "tweet_id": "656047932093763584",
+        "content": "cnn/orc poll: clinton did best in 1st dem debate, but only sanders significantly increased support in past month. URL",
+        "sentiment_score": 0.8209710121154785,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4504024088382721
+    },
+    {
+        "tweet_id": "656595123590012928",
+        "content": "10 'back to the future' predictions that actually came true URL URL",
+        "sentiment_score": 0.877890944480896,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7185940742492676
+    },
+    {
+        "tweet_id": "615346611955183616",
+        "content": "breaking: south carolina to ban sale of tylenol. they fear picking of cotton from the bottles may represent slavery. URL",
+        "sentiment_score": 0.9880185127258301,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9664180278778076
+    },
+    {
+        "tweet_id": "663817239896821760",
+        "content": "for everyone who thinks starbucks red cups are ruining christmas URL URL",
+        "sentiment_score": 0.9992371797561646,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.2881074845790863
+    },
+    {
+        "tweet_id": "659462980476637184",
+        "content": "fda confiscates several thousand chickens from kfc farms as mutations worsen URL URL",
+        "sentiment_score": 0.9985747337341309,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8152424693107605
+    },
+    {
+        "tweet_id": "669259395902152704",
+        "content": "months ago, rupert murdoch bought national geographic and fired most of writers. this just hit the stands. URL",
+        "sentiment_score": 0.9927542805671692,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7978973984718323
+    },
+    {
+        "tweet_id": "620367840902782976",
+        "content": "translucent butterfly - beautiful! ' URL",
+        "sentiment_score": 0.9996708631515503,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9345799088478088
+    },
+    {
+        "tweet_id": "628045645010608128",
+        "content": "sylvester stallone was so broke before his script for rocky was accepted that he sold his dog for $25. after he bought it back for $15,000.",
+        "sentiment_score": 0.9992181062698364,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.42477384209632874
+    },
+    {
+        "tweet_id": "672169954016403456",
+        "content": "pres. obama on #sanbernardino: \"we have a pattern now of mass shootings in this country that has no parallel.\" URL",
+        "sentiment_score": 0.9934727549552917,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9204487204551697
+    },
+    {
+        "tweet_id": "674314254732931072",
+        "content": ".@presssec: @realdonaldtrump comment \"disqualifies\" him from presidency URL via @talkopan URL",
+        "sentiment_score": 0.9977641105651855,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.48757773637771606
+    },
+    {
+        "tweet_id": "611039775856812032",
+        "content": "what's lurking underneath that crispy crust? a kfc customer claims he got a fried rat: URL URL",
+        "sentiment_score": 0.9987289309501648,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4652791917324066
+    },
+    {
+        "tweet_id": "673696115305406466",
+        "content": "72 dhs employees on terrorist watch list URL",
+        "sentiment_score": 0.9885949492454529,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8937364220619202
+    },
+    {
+        "tweet_id": "651825062174195712",
+        "content": "ben carson is the most brainless brain surgeon in america. my new column: URL",
+        "sentiment_score": 0.9945100545883179,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.3844273090362549
+    },
+    {
+        "tweet_id": "633949800761700352",
+        "content": "cnn/orc poll: donald trump now competitive in general election URL via @jennagiesta URL",
+        "sentiment_score": 0.9762948155403137,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5148637890815735
+    },
+    {
+        "tweet_id": "672539897899577344",
+        "content": "mass shootings list. reagan - 11 bush sr - 12 clinton - 23 bush jr - 16 obama - 162 #sanbernadino",
+        "sentiment_score": 0.9878597855567932,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5174387693405151
+    },
+    {
+        "tweet_id": "672219174463275008",
+        "content": "pres. obama on #sanbernardino: \"we have a pattern now of mass shootings in this country.\" URL URL",
+        "sentiment_score": 0.992284893989563,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9254130125045776
+    },
+    {
+        "tweet_id": "667534186450825216",
+        "content": "steve jobs' biological father was a syrian immigrant.",
+        "sentiment_score": 0.9838117957115173,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7744643092155457
+    },
+    {
+        "tweet_id": "677099574855639044",
+        "content": "plumber suing car dealership for $1m after truck he traded in ends up in hands of isis: URL URL",
+        "sentiment_score": 0.9992021918296814,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.39819997549057007
+    },
+    {
+        "tweet_id": "656825206045020160",
+        "content": "#backtothefuture fans, it's october 21, 2015 \u2014 the future is finally here! URL URL",
+        "sentiment_score": 0.9731076955795288,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.6330288052558899
+    },
+    {
+        "tweet_id": "666051332504207360",
+        "content": "jindal protests sending of syrian refugees to new orleans URL URL",
+        "sentiment_score": 0.9863739013671875,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9837558269500732
+    },
+    {
+        "tweet_id": "674080899055546368",
+        "content": "a vote for donald trump is a vote for adolf hitler.",
+        "sentiment_score": 0.8303755521774292,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7693333625793457
+    },
+    {
+        "tweet_id": "626770498328895488",
+        "content": "translucent butterfly - beautiful! ' URL",
+        "sentiment_score": 0.9996708631515503,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9345799088478088
+    },
+    {
+        "tweet_id": "657007736467525632",
+        "content": "steve jobs was adopted. his biological father was abdulfattah jandali, a syrian muslim.",
+        "sentiment_score": 0.9863566160202026,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4016324579715729
+    },
+    {
+        "tweet_id": "614054616154550273",
+        "content": "charleston church shooter dylann roof receives $4 million in donations from supporters - URL URL",
+        "sentiment_score": 0.7147948741912842,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.44793567061424255
+    },
+    {
+        "tweet_id": "674301960787505153",
+        "content": "donald trump has been disqualified for running for president URL",
+        "sentiment_score": 0.9929258823394775,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6032488942146301
+    },
+    {
+        "tweet_id": "661870323034431489",
+        "content": "holy shit. rupert murdoch just killed national geographic. URL",
+        "sentiment_score": 0.9992879033088684,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.9030342102050781
+    },
+    {
+        "tweet_id": "637873886072320001",
+        "content": "sanders closes to 7 points behind clinton in new iowa poll. URL URL",
+        "sentiment_score": 0.8803821802139282,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6366713047027588
+    },
+    {
+        "tweet_id": "645362146415525888",
+        "content": "#bulgaria finds 10,000 #fake passports hidden by #muslim refugees heading for #germany passports for #terrorists URL",
+        "sentiment_score": 0.9955482482910156,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9946523904800415
+    },
+    {
+        "tweet_id": "672632863452299264",
+        "content": "reagan (11 mass shootings) bush sr (12 mass shootings) clinton (23 mass shootings) bush jr (16 mass shootings) obama (162 mass shootings)",
+        "sentiment_score": 0.9387601017951965,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4253549575805664
+    },
+    {
+        "tweet_id": "672433211604013057",
+        "content": "reagan (11 mass shootings) bush sr (12 mass shootings) clinton (23 mass shootings) bush jr (16 mass shootings) obama (162 mass shootings)",
+        "sentiment_score": 0.9387601017951965,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4253549575805664
+    },
+    {
+        "tweet_id": "675064077367005184",
+        "content": "el chapo threatens isis URL URL",
+        "sentiment_score": 0.9970054030418396,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8823801279067993
+    },
+    {
+        "tweet_id": "629503919098429440",
+        "content": "chick-fil-a to open on sundays URL",
+        "sentiment_score": 0.8663451075553894,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.637529730796814
+    },
+    {
+        "tweet_id": "626546123713474560",
+        "content": "this is how people in china are riding escalators after a horrific accident URL URL",
+        "sentiment_score": 0.9935299754142761,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9780610799789429
+    },
+    {
+        "tweet_id": "672906198434209792",
+        "content": "farook family attorney says brothers in the family never saw tashfeen malik's face because she always wore a burka. URL",
+        "sentiment_score": 0.9787301421165466,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9007989168167114
+    },
+    {
+        "tweet_id": "673615263040798726",
+        "content": "72 dhs employees on terrorist watch list URL",
+        "sentiment_score": 0.9885949492454529,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8937364220619202
+    },
+    {
+        "tweet_id": "647169573599449088",
+        "content": "new cnn democratic poll: bernie sanders 46 hillary clinton 30 joe biden 14 martin o'malley 2",
+        "sentiment_score": 0.8666542172431946,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.49721649289131165
+    },
+    {
+        "tweet_id": "641050980985999360",
+        "content": "happy \"$15 minimum wage\" labor day from mcdonalds URL",
+        "sentiment_score": 0.9969424605369568,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8147635459899902
+    },
+    {
+        "tweet_id": "666107476526432256",
+        "content": "muslim security guard stopped bomber from entering the stadium during #parisattacks URL #zouheir URL",
+        "sentiment_score": 0.9853482842445374,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9731394648551941
+    },
+    {
+        "tweet_id": "620916279608651776",
+        "content": "nasa confirms earth will experience 15 days of complete darkness in november 2015 - URL URL",
+        "sentiment_score": 0.9756032824516296,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.3786352872848511
+    },
+    {
+        "tweet_id": "673664899571060736",
+        "content": "72 dhs employees on terrorist watch list URL via @kredo0 URL",
+        "sentiment_score": 0.9892945289611816,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9305669665336609
+    },
+    {
+        "tweet_id": "675065047710892033",
+        "content": "mexican drug kingpin 'el chapo' reportedly threatens to destroy isis \"p*ssies.\" URL URL",
+        "sentiment_score": 0.9981310963630676,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8859485387802124
+    },
+    {
+        "tweet_id": "668144671772778497",
+        "content": "according to anonymous, the next isis target is a wwe event in atlanta. URL URL",
+        "sentiment_score": 0.9943305253982544,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8276371359825134
+    },
+    {
+        "tweet_id": "604625816992002049",
+        "content": "the kissing islands, greenland. URL",
+        "sentiment_score": 0.9250200390815735,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8458268046379089
+    },
+    {
+        "tweet_id": "627828211003469825",
+        "content": "this is how people in china are riding escalators after a horrific accident URL URL",
+        "sentiment_score": 0.9935299754142761,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9780610799789429
+    },
+    {
+        "tweet_id": "658259426172891136",
+        "content": "4 legged chickens: fda confiscates several thousand chickens from kfc farms as mutations worsen URL",
+        "sentiment_score": 0.999186098575592,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8151472806930542
+    },
+    {
+        "tweet_id": "651959206287908868",
+        "content": "donald trump's capture, dead or alive, is reportedly worth $100 million to el chapo. URL URL",
+        "sentiment_score": 0.5727434754371643,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8265751600265503
+    },
+    {
+        "tweet_id": "652882609219833856",
+        "content": ".@realdonaldtrump: what's the secret of my popularity? my looks. i'm very handsome. URL URL",
+        "sentiment_score": 0.9934895038604736,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7056610584259033
+    },
+    {
+        "tweet_id": "647464349611589632",
+        "content": "poll: @hillaryclinton trails @berniesanders in new hampshire, even without @vp in the race URL URL",
+        "sentiment_score": 0.9764477610588074,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.448449969291687
+    },
+    {
+        "tweet_id": "666640008149925893",
+        "content": "son of a syrian refugee URL URL",
+        "sentiment_score": 0.9916131496429443,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6834462881088257
+    },
+    {
+        "tweet_id": "663515735231062016",
+        "content": "michelle obama says \u2018white folks\u2019 are what\u2019s wrong with america URL no michelle you are whats wrong with america",
+        "sentiment_score": 0.9986873269081116,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7183888554573059
+    },
+    {
+        "tweet_id": "643139873264812032",
+        "content": "and so it begins\u2026isis flag among refugees in germany fighting the police [pictures] URL URL",
+        "sentiment_score": 0.9905419945716858,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6781984567642212
+    },
+    {
+        "tweet_id": "656662726014599168",
+        "content": "the father of steve jobs, the ground-breaking founder of apple, was a refugee from syria URL URL",
+        "sentiment_score": 0.9909058809280396,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6112062335014343
+    },
+    {
+        "tweet_id": "674229534888185856",
+        "content": "who said it: donald trump or adolf hitler? URL URL",
+        "sentiment_score": 0.9975863695144653,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5766708850860596
+    },
+    {
+        "tweet_id": "672432930426372096",
+        "content": "ever wonder why the most mass shootings ever have happened under obama? URL via @rebootliberty URL",
+        "sentiment_score": 0.9971586465835571,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6081133484840393
+    },
+    {
+        "tweet_id": "600451916414484480",
+        "content": "nasa recently released imagery showing the deforestation of america \u2026in just 34 years. URL",
+        "sentiment_score": 0.9772614240646362,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5808185338973999
+    },
+    {
+        "tweet_id": "641088973717110784",
+        "content": "#imachristianbut i wish chick-fil-a was open on sundays.",
+        "sentiment_score": 0.9941585063934326,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7105787396430969
+    },
+    {
+        "tweet_id": "634665777400950784",
+        "content": "translucent butterfly URL",
+        "sentiment_score": 0.7141699194908142,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9382451772689819
+    },
+    {
+        "tweet_id": "674301413040758785",
+        "content": ".@presssec: @realdonaldtrump muslim comment \"disqualifies\" him from presidency URL URL",
+        "sentiment_score": 0.9974685907363892,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.439689576625824
+    },
+    {
+        "tweet_id": "613362193787129860",
+        "content": "the kissing islands, greenland. URL",
+        "sentiment_score": 0.9250200390815735,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8458268046379089
+    },
+    {
+        "tweet_id": "655986243042459648",
+        "content": "steve jobs was adopted. his biological father was abdulfattah jandali, a syrian muslim.",
+        "sentiment_score": 0.9863566160202026,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4016324579715729
+    },
+    {
+        "tweet_id": "618449248179191808",
+        "content": "girl killed in her sleep from wearing earbuds while iphone was charging - URL URL",
+        "sentiment_score": 0.9962201714515686,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.473353773355484
+    },
+    {
+        "tweet_id": "662381914842603520",
+        "content": "rt @operation_kkk: official #opkkk #hoodsoff 2015 data release URL with love, anonymous . URL",
+        "sentiment_score": 0.6971043348312378,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.2810114324092865
+    },
+    {
+        "tweet_id": "612438528803213312",
+        "content": "after police arrested #dylannroof, they went and bought him burger king because he was hungry. #charlestonshooting URL",
+        "sentiment_score": 0.9933525323867798,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8254178762435913
+    },
+    {
+        "tweet_id": "613425834301485056",
+        "content": "police bought #dylannroof food from @burgerking after he was arrested for church shooting: URL URL",
+        "sentiment_score": 0.986882746219635,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.29203760623931885
+    },
+    {
+        "tweet_id": "659428447459110912",
+        "content": "#opkkk: #anonymous to reveal identities of 1,000 ku klux klan members URL URL",
+        "sentiment_score": 0.9932405948638916,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.49129006266593933
+    },
+    {
+        "tweet_id": "672902686380003328",
+        "content": "reagan (11 mass shootings) bush sr (12 mass shootings) clinton (23 mass shootings) bush jr (16 mass shootings) obama (162 mass shootings)",
+        "sentiment_score": 0.9387601017951965,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4253549575805664
+    },
+    {
+        "tweet_id": "659439879701602304",
+        "content": "fda confiscates several thousand chickens from kfc farms as mutations worsen URL URL",
+        "sentiment_score": 0.9985747337341309,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8152424693107605
+    },
+    {
+        "tweet_id": "669201837187334144",
+        "content": "steve jobs was adopted. his biological father was abdulfattah jandali, a syrian muslim.",
+        "sentiment_score": 0.9863566160202026,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4016324579715729
+    },
+    {
+        "tweet_id": "658786161733734400",
+        "content": "steve jobs was adopted. his biological father was abdulfattah jandali, a syrian muslim.",
+        "sentiment_score": 0.9863566160202026,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4016324579715729
+    },
+    {
+        "tweet_id": "651402689352351744",
+        "content": "help the red cross provide food, water & cots for refugees across europe. URL \u00a0 #aidrefugees URL",
+        "sentiment_score": 0.9897053837776184,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4043825566768646
+    },
+    {
+        "tweet_id": "634943791934406657",
+        "content": "marilyn monroe and james dean smoking in new york city URL",
+        "sentiment_score": 0.9630411863327026,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6868810057640076
+    },
+    {
+        "tweet_id": "666810213274689537",
+        "content": "but democrats say that syrian refugees are 3 year-old orphans. so why are they worried about them buying guns?",
+        "sentiment_score": 0.9974073767662048,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.34322696924209595
+    },
+    {
+        "tweet_id": "656629493377990656",
+        "content": "steve jobs was adopted. his biological father was abdulfattah jandali, a syrian muslim.",
+        "sentiment_score": 0.9863566160202026,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4016324579715729
+    },
+    {
+        "tweet_id": "675005503160901632",
+        "content": "after mass shootings, obama seeks to expand background checks for gun sales by executive order to bypass congress URL",
+        "sentiment_score": 0.9897108674049377,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8334711790084839
+    },
+    {
+        "tweet_id": "638047610973089793",
+        "content": "obese woman arrested for starving her 7 kids: \"there was only enough food for me\" URL URL",
+        "sentiment_score": 0.9993065595626831,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.3348008990287781
+    },
+    {
+        "tweet_id": "648894687542034432",
+        "content": "steve jobs was adopted. his biological father was abdulfattah jandali, a syrian muslim.",
+        "sentiment_score": 0.9863566160202026,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4016324579715729
+    },
+    {
+        "tweet_id": "637868242560638980",
+        "content": "woman stabs boyfriend for not liking instagram selfie fast\u00a0enough URL URL",
+        "sentiment_score": 0.9982277750968933,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9295524954795837
+    },
+    {
+        "tweet_id": "641430951403343872",
+        "content": "translucent butterfly - beautiful! URL",
+        "sentiment_score": 0.9997217059135437,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9575067162513733
+    },
+    {
+        "tweet_id": "635632641635667968",
+        "content": "'great pacific garbage patch' researchers return with data URL URL",
+        "sentiment_score": 0.9989461302757263,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8549046516418457
+    },
+    {
+        "tweet_id": "626897206717624320",
+        "content": "did a real life 'fallen angel' just fall from the sky in london? \u203c\ufe0f\u203c\ufe0f \ud83d\udc49 URL \ud83d\udc48 URL",
+        "sentiment_score": 0.9950610995292664,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.749295175075531
+    },
+    {
+        "tweet_id": "626516248206135296",
+        "content": "this is how people in china are riding escalators after a horrific accident URL URL",
+        "sentiment_score": 0.9935299754142761,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9780610799789429
+    },
+    {
+        "tweet_id": "676094756758364160",
+        "content": "steve jobs was adopted. his biological father was abdulfattah jandali, a syrian muslim.",
+        "sentiment_score": 0.9863566160202026,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4016324579715729
+    },
+    {
+        "tweet_id": "629209452793626624",
+        "content": "a russian laboratory has invented a way to remove the black skin layer of black people URL",
+        "sentiment_score": 0.9120821952819824,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8446468710899353
+    },
+    {
+        "tweet_id": "666497286663503872",
+        "content": "remember: steve jobs' biological father was a syrian migrant. URL (photo: ap) URL",
+        "sentiment_score": 0.9926891922950745,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9293915033340454
+    },
+    {
+        "tweet_id": "642432477185867776",
+        "content": "the stickers on fruit are edible.",
+        "sentiment_score": 0.9996626377105713,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.541697084903717
+    },
+    {
+        "tweet_id": "660466342038867969",
+        "content": "calling #anonymous collective to fire at all #kkk & affiliated sources on nov 16. URL #opkkk #hoodsoff retweet/share",
+        "sentiment_score": 0.9985785484313965,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8228031396865845
+    },
+    {
+        "tweet_id": "656202544331517952",
+        "content": "no, internet, cnn did not delete its poll showing bernie sanders won the democratic debate. URL URL",
+        "sentiment_score": 0.9684739708900452,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6826884746551514
+    },
+    {
+        "tweet_id": "647193820812177408",
+        "content": "alert: don't fall for this new facebook scam URL URL",
+        "sentiment_score": 0.5508495569229126,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6945695877075195
+    },
+    {
+        "tweet_id": "656818921979310081",
+        "content": "great scott! #backtothefuture 2 (almost) nailed its 2015 predictions. @hplabs makes theirs: URL URL",
+        "sentiment_score": 0.9636374711990356,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.7119429111480713
+    },
+    {
+        "tweet_id": "647168914955243520",
+        "content": "new cnn/wmur nh democratic poll: bernie sanders 46 hillary clinton 30 joe biden 14 martin o'malley 2 sept. 17-23, 314 d voters, +/-5.5%",
+        "sentiment_score": 0.6982289552688599,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4632509648799896
+    },
+    {
+        "tweet_id": "661251968078221312",
+        "content": "anonymous #opkkk the hoods come off begins with united states senators & mayors URL #hoodsoff URL",
+        "sentiment_score": 0.9942792654037476,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.41454407572746277
+    },
+    {
+        "tweet_id": "665361505303584774",
+        "content": "first load of 10,000 syrian refugees has arrived in new orleans, being resettled unbeknownst to locals #tcot URL",
+        "sentiment_score": 0.9821814894676208,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7525937557220459
+    },
+    {
+        "tweet_id": "613294443878305796",
+        "content": "cops who arrested dylann roof treated him to a burger king URL URL",
+        "sentiment_score": 0.9983630776405334,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8340281844139099
+    },
+    {
+        "tweet_id": "676120162018451456",
+        "content": "months ago, rupert murdoch bought national geographic and fired most of writers. this just hit the stands. URL",
+        "sentiment_score": 0.9927542805671692,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7978973984718323
+    },
+    {
+        "tweet_id": "665379967757324288",
+        "content": "today first load of obama's 10,000 syrian \u201crefugees\u201d has arrived in new orleans \u2013 all single males 18-30 years old URL",
+        "sentiment_score": 0.9542195796966553,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5318450331687927
+    },
+    {
+        "tweet_id": "612741808125120513",
+        "content": "this dad loved his family so much he got eye enlargement surgery so he could look at them more URL URL",
+        "sentiment_score": 0.7820868492126465,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8395482897758484
+    },
+    {
+        "tweet_id": "613023744454475776",
+        "content": "first black female gop @repmialove returning donations from alleged white supremacist URL URL",
+        "sentiment_score": 0.978879988193512,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5521640181541443
+    },
+    {
+        "tweet_id": "612841482823729152",
+        "content": "breaking news campaign donations link top gop contenders to #dylannroof. #tedcruz returns $8k. URL URL",
+        "sentiment_score": 0.9955741167068481,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4141635596752167
+    },
+    {
+        "tweet_id": "636925368927064064",
+        "content": "actor james earl jones is not dead: URL URL",
+        "sentiment_score": 0.9529029726982117,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5585483312606812
+    },
+    {
+        "tweet_id": "674015148382666752",
+        "content": "dearborn michigan, this morning. pro isis rally. spread the word, the fit is about to hit the shan here in the us. URL",
+        "sentiment_score": 0.9962843060493469,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5507660508155823
+    },
+    {
+        "tweet_id": "656834590779289600",
+        "content": "10 'back to the future' predictions that came true URL URL",
+        "sentiment_score": 0.8489088416099548,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7966135144233704
+    },
+    {
+        "tweet_id": "681767380305985536",
+        "content": "sorry, mark zuckerberg is not giving $4.5 billion to 1,000 random facebook users URL URL",
+        "sentiment_score": 0.9995366334915161,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8656120300292969
+    },
+    {
+        "tweet_id": "648310692794109952",
+        "content": "steve jobs was adopted. his biological father was abdulfattah jandali, a syrian muslim.",
+        "sentiment_score": 0.9863566160202026,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4016324579715729
+    },
+    {
+        "tweet_id": "676870737932742656",
+        "content": "plumber suing car dealership for $1m after truck he traded in ends up in hands of isis: URL URL",
+        "sentiment_score": 0.9992021918296814,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.39819997549057007
+    },
+    {
+        "tweet_id": "640107106943766528",
+        "content": "10,000 refugees expected in austria today, per the red cross. about 20 percent are sick or injured. URL",
+        "sentiment_score": 0.9869454503059387,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9316582679748535
+    },
+    {
+        "tweet_id": "640644123339431936",
+        "content": "did you know that microsoft actually uses dog noses for thumbsticks on the gamecube controller? URL",
+        "sentiment_score": 0.9989190101623535,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5578635931015015
+    },
+    {
+        "tweet_id": "661299012386095105",
+        "content": "'hoods off': anonymous announces operation to name kkk members URL #opkkk",
+        "sentiment_score": 0.994852602481842,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.33347946405410767
+    },
+    {
+        "tweet_id": "613061089518034944",
+        "content": "cops rewarded dylann storm roof with burger king following his arrest for an act of domestic terrorism. URL",
+        "sentiment_score": 0.9338744878768921,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8506489396095276
+    },
+    {
+        "tweet_id": "672424512516964352",
+        "content": ".@johnrlottjr:\"the number of ppl killed by mass shootings during obama\u2019s tenure is 424 casualties\u2026paris this year alone has 508 casualties.\"",
+        "sentiment_score": 0.9819638729095459,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7815356254577637
+    },
+    {
+        "tweet_id": "673611867181473792",
+        "content": "what? \"72 dhs employees found on terrorist watch list\" URL",
+        "sentiment_score": 0.9975607395172119,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.768215000629425
+    },
+    {
+        "tweet_id": "673581371458199552",
+        "content": "men from #pakistan security forces told reporters to stop probing #tashfeenmalik background or face arrest URL",
+        "sentiment_score": 0.9988682270050049,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9575175046920776
+    },
+    {
+        "tweet_id": "668872645589471232",
+        "content": "steve jobs was adopted. his biological father was abdulfattah jandali, a syrian muslim.",
+        "sentiment_score": 0.9863566160202026,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4016324579715729
+    },
+    {
+        "tweet_id": "669613420665159680",
+        "content": "farting does not burn 67 calories and is not a practical weight loss mechanism: URL URL",
+        "sentiment_score": 0.9996265172958374,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.746057391166687
+    },
+    {
+        "tweet_id": "676718762830221312",
+        "content": "texas plumber sues car dealership after his truck winds up in isis video: URL URL",
+        "sentiment_score": 0.9995416402816772,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.43938305974006653
+    },
+    {
+        "tweet_id": "613194145423826944",
+        "content": ".@hillaryclinton not talking about \u201992 clinton-gore confederate campaign button URL URL",
+        "sentiment_score": 0.9971574544906616,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.672128438949585
+    },
+    {
+        "tweet_id": "665575674485211136",
+        "content": "first 10,000 syrian refugees arrive in new orleans noticed there are no women or children @realdonaldtrump #tcot URL",
+        "sentiment_score": 0.9919478297233582,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4555647075176239
+    },
+    {
+        "tweet_id": "641191076716417025",
+        "content": "happy \"$15 minimum wage\" labor day from mcdonalds URL",
+        "sentiment_score": 0.9969424605369568,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8147635459899902
+    },
+    {
+        "tweet_id": "633823543541768192",
+        "content": "obese woman arrested for starving her 7 kids: \u201cthere was only enough food for me\u201d URL URL",
+        "sentiment_score": 0.999210000038147,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.3548933267593384
+    },
+    {
+        "tweet_id": "672828403016429568",
+        "content": "obama plans executive action on gun control; white house admits it will not prevent mass shootings URL",
+        "sentiment_score": 0.987570583820343,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.33946576714515686
+    },
+    {
+        "tweet_id": "604642913188872192",
+        "content": "florida man sips bud light as he walks down street in only shirt and shoes; says he lost pants and underwear at beach URL",
+        "sentiment_score": 0.9972304701805115,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.3708603084087372
+    },
+    {
+        "tweet_id": "626739062792032256",
+        "content": "this is how people in china are riding escalators after a horrific accident URL URL",
+        "sentiment_score": 0.9935299754142761,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9780610799789429
+    },
+    {
+        "tweet_id": "663722803489808384",
+        "content": "people are enraged that starbucks' red cups aren't christmas-y enough URL URL",
+        "sentiment_score": 0.9980942606925964,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9874312877655029
+    },
+    {
+        "tweet_id": "661120256732041216",
+        "content": "breaking news here oooof #hoodsoff #opkkk #anonops #anonymous #anonfamily #kkk #racism URL",
+        "sentiment_score": 0.9983214735984802,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9191229343414307
+    },
+    {
+        "tweet_id": "634404792241143809",
+        "content": "new seaworld show just elephant drowning in large tank of water with no explanation URL URL",
+        "sentiment_score": 0.9996024966239929,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.3199121057987213
+    },
+    {
+        "tweet_id": "665364878287224834",
+        "content": "ironic timing \u2013 today first load of 10,000 syrian \u201crefugees\u201d has arrived in new orleans \u2013\u2026 URL URL",
+        "sentiment_score": 0.9804911613464355,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.9321622252464294
+    },
+    {
+        "tweet_id": "642027433693171712",
+        "content": ".@berniesanders says @realdonaldtrump is \"using racism as a way to attract votes\" #bernieoncnn URL URL",
+        "sentiment_score": 0.9980019927024841,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7811720371246338
+    },
+    {
+        "tweet_id": "626901072209121282",
+        "content": "everyone mad at bruce for his sex change but no one gave ashit about that nerd minkus changing into chanel west coast URL",
+        "sentiment_score": 0.9981673955917358,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8248764872550964
+    },
+    {
+        "tweet_id": "663904307113275392",
+        "content": "donald trump defends christmas, says \"maybe we should boycott starbucks\" over new red cups: URL URL",
+        "sentiment_score": 0.9973279237747192,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6374837160110474
+    },
+    {
+        "tweet_id": "673346166822694914",
+        "content": "do these look like the faces of a homeless couple caught living in a walmart attic for over 2 years? URL",
+        "sentiment_score": 0.9985017776489258,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8595002293586731
+    },
+    {
+        "tweet_id": "672488384695279616",
+        "content": "reagan (11 mass shootings) bush sr (12 mass shootings) clinton (23 mass shootings) bush jr (16 mass shootings) obama (162 mass shootings)",
+        "sentiment_score": 0.9387601017951965,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4253549575805664
+    },
+    {
+        "tweet_id": "642145732435292160",
+        "content": "poll: @hillaryclinton's lead over @berniesanders shrinks as her edge over gop vanishes URL URL",
+        "sentiment_score": 0.9996469020843506,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.3516903519630432
+    },
+    {
+        "tweet_id": "643225207705075716",
+        "content": "isis flag among refugees in germany fighting the police .. URL #norefugees #rebootliberty URL",
+        "sentiment_score": 0.996817946434021,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6899780035018921
+    },
+    {
+        "tweet_id": "654351281260113920",
+        "content": "today @cnn removed a debate poll where over 80% were for @berniesanders #demdebate #clintonnewsnetwork URL",
+        "sentiment_score": 0.9987494945526123,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5807859301567078
+    },
+    {
+        "tweet_id": "661102820976930816",
+        "content": "\u25ba#anonymous operation #kkk \u25baku klux klan, we never stopped watching you URL #opkkk #hoodsoff URL",
+        "sentiment_score": 0.7638711333274841,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.584743857383728
+    },
+    {
+        "tweet_id": "645356735545364480",
+        "content": "dna confirms hakeem from \u2018empire\u2019 is jay-z's biological son [read details\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83c\udffe\ud83d\udc47\ud83c\udfff URL URL",
+        "sentiment_score": 0.688764214515686,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8501088619232178
+    },
+    {
+        "tweet_id": "655080266784968705",
+        "content": "poll: @hillaryclinton pulls even with @berniesanders in new hampshire after debate URL URL",
+        "sentiment_score": 0.6081894636154175,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.49791643023490906
+    },
+    {
+        "tweet_id": "658462819667615744",
+        "content": "the father of steve jobs, the founder of apple, was a refugee from syria URL URL",
+        "sentiment_score": 0.9929136633872986,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8222215175628662
+    },
+    {
+        "tweet_id": "654343805081157633",
+        "content": "hey @cnnpolitics @cnn where did this poll go? apparantly a lot of people like @berniesanders. you should report that URL",
+        "sentiment_score": 0.9904877543449402,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5195726752281189
+    },
+    {
+        "tweet_id": "613114185505996802",
+        "content": "gop candidates, lawmakers return donations made by leader of racist group cited in dylann roof's manifesto: URL",
+        "sentiment_score": 0.9907957911491394,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8808442950248718
+    },
+    {
+        "tweet_id": "672180526946656256",
+        "content": "obama: \"we have a pattern now of mass shootings in this country that has no parallel anywhere else in the world\" URL",
+        "sentiment_score": 0.9969733953475952,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4358934760093689
+    },
+    {
+        "tweet_id": "623818627054206977",
+        "content": "nasa confirms earth will experience 15 days of complete darkness in november 2015 URL",
+        "sentiment_score": 0.960768461227417,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5286064147949219
+    },
+    {
+        "tweet_id": "667465205258051584",
+        "content": "remember the man who killed four marines in chattanooga? he was a refugee. URL",
+        "sentiment_score": 0.9943268895149231,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.762247622013092
+    },
+    {
+        "tweet_id": "647169726158925824",
+        "content": "poll: @hillaryclinton trails @berniesanders in new hampshire, even without @vp in the race URL URL",
+        "sentiment_score": 0.9764477610588074,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.448449969291687
+    },
+    {
+        "tweet_id": "631388553801564160",
+        "content": "did a real life 'fallen angel' just fall from the sky in london? URL",
+        "sentiment_score": 0.9974901676177979,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7525652647018433
+    },
+    {
+        "tweet_id": "656811196218286080",
+        "content": "10 'back to the future' predictions that came true URL URL",
+        "sentiment_score": 0.8489088416099548,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7966135144233704
+    }
+]

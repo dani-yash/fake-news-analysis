@@ -1,0 +1,1658 @@
+[
+    {
+        "tweet_id": "615689290706595840",
+        "content": ".@whitehouse in rainbow colors for #scotusmarriage? here's what i think about that decision: URL",
+        "sentiment_score": 0.9946531057357788,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5113624334335327
+    },
+    {
+        "tweet_id": "614467824313106432",
+        "content": "god put a rainbow over the white house \ud83c\udf08 URL",
+        "sentiment_score": 0.9765302538871765,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7533080577850342
+    },
+    {
+        "tweet_id": "553589051044151296",
+        "content": "several hostages freed at jewish supermarket in paris. photo thomas samson #afp URL",
+        "sentiment_score": 0.9841470718383789,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.4267635941505432
+    },
+    {
+        "tweet_id": "553590835850514433",
+        "content": "hostage-taker in supermarket siege killed, reports say. #parisattacks URL URL",
+        "sentiment_score": 0.9988225102424622,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.792975127696991
+    },
+    {
+        "tweet_id": "616311563071434753",
+        "content": "apologies if you've already seen a crow riding a bald eagle today. image: phoo chan story: URL URL",
+        "sentiment_score": 0.9969180822372437,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6819957494735718
+    },
+    {
+        "tweet_id": "525060425184858112",
+        "content": "the canadian soldier killed in today's ottawa shooting is cpl. nathan cirillo, a family source told cnn. live blog: URL",
+        "sentiment_score": 0.9855152368545532,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9676191806793213
+    },
+    {
+        "tweet_id": "544382892378714113",
+        "content": "five hostages escape sydney cafe siege \u2014 live updates from @buzzfeedoz URL URL",
+        "sentiment_score": 0.9750421047210693,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.4669182300567627
+    },
+    {
+        "tweet_id": "553588178687655936",
+        "content": "reports: #charliehebdo suspects killed URL",
+        "sentiment_score": 0.9752166867256165,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5055225491523743
+    },
+    {
+        "tweet_id": "524966904885428226",
+        "content": "breaking update: canadian soldier injured at parliament hill shooting dies URL #ottawa",
+        "sentiment_score": 0.9846889972686768,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9448752403259277
+    },
+    {
+        "tweet_id": "544374511194632192",
+        "content": "update: total of 5 people have been able to get out of sydney cafe during hostage situation: URL URL",
+        "sentiment_score": 0.9664177894592285,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5697824358940125
+    },
+    {
+        "tweet_id": "524935485370929152",
+        "content": "shooting in canadian parliament comes day after isis-inspired radical drove in2 canadian soldier. also reports of shooting at war memorial/1",
+        "sentiment_score": 0.9763422012329102,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7355313301086426
+    },
+    {
+        "tweet_id": "553535829017370625",
+        "content": "#breaking - at least five hostages in paris kosher supermarket: (afp) URL #vincennes URL",
+        "sentiment_score": 0.9965302348136902,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.749398946762085
+    },
+    {
+        "tweet_id": "553543369604210689",
+        "content": "an 11-month old baby is among the hostages at the kosher supermarket in paris. unbearably sad. URL",
+        "sentiment_score": 0.9987488985061646,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8933888673782349
+    },
+    {
+        "tweet_id": "649985459389661184",
+        "content": "an openly gay man said that he and his partner met with pope francis a day before kim davis did URL",
+        "sentiment_score": 0.986522376537323,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.7627758383750916
+    },
+    {
+        "tweet_id": "553531413459660800",
+        "content": "update - afp says gunman who has taken a hostage at kosher supermarket in paris believed to be suspect in killing of policewoman on thursday",
+        "sentiment_score": 0.9924300312995911,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9375893473625183
+    },
+    {
+        "tweet_id": "614604054552018944",
+        "content": "the @whitehouse is rainbow-colored tonight in celebration of scotus same-sex marriage ruling. URL URL",
+        "sentiment_score": 0.9606862664222717,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8984870910644531
+    },
+    {
+        "tweet_id": "544314234541469696",
+        "content": "uber intros surge pricing in downtown sydney during hostage siege URL URL",
+        "sentiment_score": 0.9799894690513611,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.36218374967575073
+    },
+    {
+        "tweet_id": "553534838880608256",
+        "content": "#breaking gunman in policewoman killing suspected in new paris hostage-taking: source",
+        "sentiment_score": 0.9180597066879272,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8491423726081848
+    },
+    {
+        "tweet_id": "544512108885725184",
+        "content": "paramedics are currently carrying out a number of hostages in #martinpl. #sydneysiege #9news",
+        "sentiment_score": 0.9753642082214355,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9726866483688354
+    },
+    {
+        "tweet_id": "552805488631758849",
+        "content": "at least 12 killed in today's attack on satirical magazine #charliehebdo in paris, official says. URL",
+        "sentiment_score": 0.9918481111526489,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.47592979669570923
+    },
+    {
+        "tweet_id": "614608936491188225",
+        "content": "white house lit in rainbow colors after gay marriage ruling URL URL",
+        "sentiment_score": 0.9929503202438354,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4213274121284485
+    },
+    {
+        "tweet_id": "674263945172119552",
+        "content": "1.15 million americans have been killed by guns since john lennon's death URL URL",
+        "sentiment_score": 0.9948351383209229,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.770988404750824
+    },
+    {
+        "tweet_id": "544511199702822913",
+        "content": "police move in: police confirm live ammunition used in martin place #sydneysiege",
+        "sentiment_score": 0.8783130645751953,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.958845317363739
+    },
+    {
+        "tweet_id": "553107921081749504",
+        "content": "two shot in paris, including traffic cop, as manhunt continues for #charliehebdo suspects URL URL",
+        "sentiment_score": 0.9766889810562134,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7508480548858643
+    },
+    {
+        "tweet_id": "632377165477191680",
+        "content": "trayvon martin at space camp in florida. #blacklivesmatter URL",
+        "sentiment_score": 0.9939715266227722,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5104796886444092
+    },
+    {
+        "tweet_id": "544512676643500033",
+        "content": "breaking @skybusiness: freed hostage borne high from #sydneysiege w/c.4 paramedic teams on the scene URL ( carsonscottli",
+        "sentiment_score": 0.7874886393547058,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6727951169013977
+    },
+    {
+        "tweet_id": "544324444773433348",
+        "content": "uber says it has hiked prices in sydney to \"encourage more drivers to come online & pick up passengers.\" URL #sydneysiege",
+        "sentiment_score": 0.9891362190246582,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7776079177856445
+    },
+    {
+        "tweet_id": "524975705206304769",
+        "content": "#nhl cancels tonight's game between #ottawa and #toronto due to today's shootings. senators were to host maple leafs.",
+        "sentiment_score": 0.999270498752594,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.554774820804596
+    },
+    {
+        "tweet_id": "614595181845839873",
+        "content": "the white house is lit up rainbow. URL",
+        "sentiment_score": 0.9990986585617065,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.43687188625335693
+    },
+    {
+        "tweet_id": "544512664769396736",
+        "content": "breaking: police enter #lindt cafe, hostages flee URL #sydneysiege URL",
+        "sentiment_score": 0.9600069522857666,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9380123615264893
+    },
+    {
+        "tweet_id": "614599619310407680",
+        "content": "white house is aglow in the colors of the rainbow celebrating the supreme court's same-sex marriage decision. URL",
+        "sentiment_score": 0.9328864216804504,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4427681863307953
+    },
+    {
+        "tweet_id": "614594667225571328",
+        "content": "breaking: the @whitehouse is celebrating with us tonight lit up in rainbow colors. #lovewins URL",
+        "sentiment_score": 0.9995192289352417,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.7546308636665344
+    },
+    {
+        "tweet_id": "614610920782888960",
+        "content": "there will be cool photos of the white house w rainbow colors tonight but hard to top this one by chuck kennedy. URL",
+        "sentiment_score": 0.9810969829559326,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6063814163208008
+    },
+    {
+        "tweet_id": "544520042810200064",
+        "content": "#sydneysiege is over. 2 confirmed dead, #prayforsydney #prayforsydneyhostages #sydney #hostages",
+        "sentiment_score": 0.9994280934333801,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4534079432487488
+    },
+    {
+        "tweet_id": "641972184412327937",
+        "content": "alert! islam taught in tennessee schools URL #wakeupamerica #tcot #wethepeople #pjnet #ccot URL",
+        "sentiment_score": 0.9296403527259827,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9815982580184937
+    },
+    {
+        "tweet_id": "544491151118860289",
+        "content": "sydney hostage-taker - man monis, 49 - originally from iran - self-styled sheikh - accused of sexually assaulting 7 women developing..",
+        "sentiment_score": 0.9588843584060669,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7774240374565125
+    },
+    {
+        "tweet_id": "544515538383564801",
+        "content": "haron monis,hostage-taker in #sydney: fled #iran 96,suspect in ex-wife killing,46 sex assaults URL URL",
+        "sentiment_score": 0.9860660433769226,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.45022574067115784
+    },
+    {
+        "tweet_id": "614601139422633984",
+        "content": "white house lit in rainbow colors following us supreme court ruling that same-sex couples have right to marry. URL",
+        "sentiment_score": 0.9952167272567749,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.464103102684021
+    },
+    {
+        "tweet_id": "524931324763992064",
+        "content": "very reliable source on parliament hill tells me the assailant has been killed. #cdnpoli #ottnews",
+        "sentiment_score": 0.7989012598991394,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9463685750961304
+    },
+    {
+        "tweet_id": "544301453717041152",
+        "content": "breaking update: gunman says four devices are located around sydney. security response underway. police calling for calm. 9news",
+        "sentiment_score": 0.7749375700950623,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.4669557511806488
+    },
+    {
+        "tweet_id": "525068915068923904",
+        "content": "***exclusive*** michael zahaf-bibeau caught on a #dashcam model sold at URL #ottawashooting URL",
+        "sentiment_score": 0.9944615364074707,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6478533744812012
+    },
+    {
+        "tweet_id": "544504183341064192",
+        "content": "escaped #sydneysiege hostage, elly chen, a top student and skilled sportswoman URL URL",
+        "sentiment_score": 0.9249224066734314,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8889053463935852
+    },
+    {
+        "tweet_id": "553476490315431937",
+        "content": "police convoy and helicopters are rushing to scene to detain charlie hebdo massacre suspects URL URL",
+        "sentiment_score": 0.9416588544845581,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8263317346572876
+    },
+    {
+        "tweet_id": "553587013409325058",
+        "content": "#breaking charlie hebdo gunmen's hostage freed and safe after police assault",
+        "sentiment_score": 0.5123876929283142,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6851091980934143
+    },
+    {
+        "tweet_id": "544513524438155264",
+        "content": "sydney siege: police enter cafe as hostages flee the scene, gunfire heard, reports of an injured person \u2013 live URL",
+        "sentiment_score": 0.9683438539505005,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9052382111549377
+    },
+    {
+        "tweet_id": "614628865353351168",
+        "content": "the white house takes on rainbow hues in celebrating #scotusmarriage decision: URL URL",
+        "sentiment_score": 0.9884206056594849,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9690179228782654
+    },
+    {
+        "tweet_id": "544358564484378624",
+        "content": "police: negotiators are now in contact with armed hostage-taker in sydney situation; motive remains unknown - URL",
+        "sentiment_score": 0.995643138885498,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.641926109790802
+    },
+    {
+        "tweet_id": "544278985249550337",
+        "content": "geoblock lifted on #abcnews24. streaming coverage of the martin place siege in sydney here URL",
+        "sentiment_score": 0.9886592030525208,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7440722584724426
+    },
+    {
+        "tweet_id": "544367462012432384",
+        "content": "more: police confirm 3 hostages escape sydney cafe, unknown number remain inside URL #sydneysiege",
+        "sentiment_score": 0.9876787066459656,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.959473192691803
+    },
+    {
+        "tweet_id": "614645853291155457",
+        "content": "as sun goes down, white house lights up rainbow colors to celebrate scotus ruling: URL URL",
+        "sentiment_score": 0.9985923171043396,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.6434366106987
+    },
+    {
+        "tweet_id": "552791196247269378",
+        "content": "breaking: at least 10 killed in shooting at french satirical newspaper charlie hebdo, paris prosecutor's office says. URL",
+        "sentiment_score": 0.6632221937179565,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9533817768096924
+    },
+    {
+        "tweet_id": "524943490887991296",
+        "content": "confirmed | 1 shooter shot dead at parliament hill, but there is more than 1 suspect. #cbcott #ottnews",
+        "sentiment_score": 0.9536478519439697,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8761193752288818
+    },
+    {
+        "tweet_id": "544391533240516608",
+        "content": "five hostages have escaped the besieged lindt cafe in #sydney | our latest update: URL URL",
+        "sentiment_score": 0.991136908531189,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.37557271122932434
+    },
+    {
+        "tweet_id": "525025279803424768",
+        "content": "the soldier shot dead in wednesday's ottawa attacks has been named as cpl. nathan cirillo of #hamont #ottawashooting URL",
+        "sentiment_score": 0.9936218857765198,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6461997628211975
+    },
+    {
+        "tweet_id": "553544694765215745",
+        "content": "french police publishes photos of suspect in yesterday's montrouge shooting. maybe the same persons in kosher market URL",
+        "sentiment_score": 0.9923650026321411,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8122661709785461
+    },
+    {
+        "tweet_id": "614626710248534016",
+        "content": "\"these colors celebrate a new chapter in the history of american civil rights.\" #lovewins URL URL",
+        "sentiment_score": 0.9988923668861389,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9474687576293945
+    },
+    {
+        "tweet_id": "649903655160815616",
+        "content": "vatican says #kimdavis' meeting w/ #popefrancis 'should not be considered a form of support.' URL URL",
+        "sentiment_score": 0.9995545744895935,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5313138961791992
+    },
+    {
+        "tweet_id": "614494170590367744",
+        "content": "theres' a double rainbow over the white house URL",
+        "sentiment_score": 0.993961751461029,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.6550125479698181
+    },
+    {
+        "tweet_id": "525056576038518785",
+        "content": "soldier killed in canada shooting was a young reservist with a six-year-old son URL URL",
+        "sentiment_score": 0.9928665161132812,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.44533273577690125
+    },
+    {
+        "tweet_id": "614618682543616000",
+        "content": "white house shines rainbow-colored lights in honor of #scotus gay marriage decision #lovewins URL URL",
+        "sentiment_score": 0.9981312155723572,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9149552583694458
+    },
+    {
+        "tweet_id": "524926235030589440",
+        "content": "breaking news: at least 3 shots fired at ottawa war memorial. one soldier confirmed shot - URL URL",
+        "sentiment_score": 0.9808953404426575,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5178868770599365
+    },
+    {
+        "tweet_id": "544380742076088320",
+        "content": "this is shot that captures the #sydneysiege: sheer terror/relief of escaped hostages, incredible work of @nswpolice URL",
+        "sentiment_score": 0.9997143149375916,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9946314096450806
+    },
+    {
+        "tweet_id": "614605997953404929",
+        "content": "white house lit in rainbow colors after high court's gay marriage ruling (with photo) URL",
+        "sentiment_score": 0.9926182627677917,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5382868051528931
+    },
+    {
+        "tweet_id": "544271284796784640",
+        "content": "developing: gunman takes hostages in sydney cafe, 'isis' flags being held against window - URL URL",
+        "sentiment_score": 0.8578991889953613,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6917087435722351
+    },
+    {
+        "tweet_id": "524962142563610625",
+        "content": "#breaking rick hughes at cbc hamilton: the soldier who was shot in ottawa wednesday morning is a reservist serving in hamilton",
+        "sentiment_score": 0.8780673742294312,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8851191401481628
+    },
+    {
+        "tweet_id": "614594195479752704",
+        "content": "white house lit in rainbow colors after today's historic supreme court ruling #scotusmarriage URL",
+        "sentiment_score": 0.9962829947471619,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.7817891836166382
+    },
+    {
+        "tweet_id": "614593989203886080",
+        "content": "the @whitehouse is lit up like a rainbow! #lovewins URL",
+        "sentiment_score": 0.9995293617248535,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8946802616119385
+    },
+    {
+        "tweet_id": "681147789653356544",
+        "content": "katy perry -- makes holiday wish come true for burn victim URL",
+        "sentiment_score": 0.6930529475212097,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.44141489267349243
+    },
+    {
+        "tweet_id": "544476808566276097",
+        "content": "tv channels have chosen not to show videos of hostages relaying #sydneysiege gunman's demands. URL URL",
+        "sentiment_score": 0.9943766593933105,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9297351837158203
+    },
+    {
+        "tweet_id": "524952883343925249",
+        "content": "watch video showing gunfire inside canada's parliament in ottawa URL URL",
+        "sentiment_score": 0.9939998388290405,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7933152914047241
+    },
+    {
+        "tweet_id": "553508098825261056",
+        "content": "police have surrounded this building where the suspected #charliehebdo attackers are holed-up URL URL",
+        "sentiment_score": 0.9989739656448364,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9114655256271362
+    },
+    {
+        "tweet_id": "614628136634949632",
+        "content": "the @whitehouse is lit up in a rainbow #lovewins URL",
+        "sentiment_score": 0.9988771080970764,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.928723931312561
+    },
+    {
+        "tweet_id": "580324027715063808",
+        "content": "just in: germanwings plane crashes in southern france, up to 150 feared dead URL",
+        "sentiment_score": 0.9985716342926025,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7090039849281311
+    },
+    {
+        "tweet_id": "524941132237910016",
+        "content": "here's that dramatic video via @josh_wingrove of shots fired inside parliament building: URL #ottawa #shooting",
+        "sentiment_score": 0.9968241453170776,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9791756868362427
+    },
+    {
+        "tweet_id": "544283772569788416",
+        "content": "live updates: siege in sydney cafe URL",
+        "sentiment_score": 0.9798619747161865,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5303265452384949
+    },
+    {
+        "tweet_id": "615494435074363392",
+        "content": "if they can light up the white house like a rainbow for gay pride, it sure as hell better be red, white & blue for independence day. merica.",
+        "sentiment_score": 0.9358943104743958,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4466402232646942
+    },
+    {
+        "tweet_id": "676367888543031296",
+        "content": "north carolina town rejects solar panels for sucking \"up all the energy from the sun.\u201d URL URL",
+        "sentiment_score": 0.9902629852294922,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4883294999599457
+    },
+    {
+        "tweet_id": "642465192408940544",
+        "content": "#wakeupamerica heads need to roll! school forcing non-muslims to praise islam URL #bansharia URL",
+        "sentiment_score": 0.9922562837600708,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7265443205833435
+    },
+    {
+        "tweet_id": "553590459688570880",
+        "content": "several hostages freed at jewish supermarket in paris. photo thomas samson #afp URL",
+        "sentiment_score": 0.9841470718383789,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.4267635941505432
+    },
+    {
+        "tweet_id": "525058976376193024",
+        "content": "our thoughts and prayers go out to nathan cirillo who died today in ottawa while protecting his country at age 24 URL",
+        "sentiment_score": 0.9961065649986267,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9365918040275574
+    },
+    {
+        "tweet_id": "553476880339599360",
+        "content": "developing: police pursuing #charliehebdo shooting suspects, helicopters deployed - live feed: URL URL",
+        "sentiment_score": 0.989304780960083,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6916622519493103
+    },
+    {
+        "tweet_id": "500378223977721856",
+        "content": "oh. so now the #ferguson police chief says the cop didn't know about the robbery when he stopped #mikebrown. the kid was \"jaywalking\"? bs!",
+        "sentiment_score": 0.9989138841629028,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.3888496458530426
+    },
+    {
+        "tweet_id": "544319832486064128",
+        "content": "hostage situation erupts in sydney cafe, australian prime minister says it may be \"politically motivated\" URL",
+        "sentiment_score": 0.9946708083152771,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8633039593696594
+    },
+    {
+        "tweet_id": "553512735192141826",
+        "content": "update - afp: an unnamed police source says the killing of the policewoman in #paris on thursday is linked to the #charliehebdo attack",
+        "sentiment_score": 0.9980880618095398,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6228374242782593
+    },
+    {
+        "tweet_id": "544517264054423552",
+        "content": "#breaking: police have confirmed that the #sydneysiege is over. #9news",
+        "sentiment_score": 0.9957937002182007,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6036092638969421
+    },
+    {
+        "tweet_id": "641082932740947972",
+        "content": "judy carne, \u2018sock it to me girl\u2019 on \u2018laugh-in,\u2019 dies at 76 URL",
+        "sentiment_score": 0.9969443678855896,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7201834917068481
+    },
+    {
+        "tweet_id": "498430783699554305",
+        "content": "witness: police allegedly stopped mike brown after yelling at him to walk on sidewalk. #ferguson URL",
+        "sentiment_score": 0.9961711764335632,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6439574956893921
+    },
+    {
+        "tweet_id": "623599854661541888",
+        "content": "obama; - hours to light up white house in rainbow colors for gay marriage. - 5 days to lower flag for dead marines. URL",
+        "sentiment_score": 0.9268122315406799,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4288521111011505
+    },
+    {
+        "tweet_id": "614607711368519680",
+        "content": "photo: white house lit in rainbow colors after high court's gay marriage ruling URL URL",
+        "sentiment_score": 0.988455057144165,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5921193957328796
+    },
+    {
+        "tweet_id": "614671961801785344",
+        "content": "the white house is glowing with pride URL | ap photo URL",
+        "sentiment_score": 0.9992710947990417,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9533039927482605
+    },
+    {
+        "tweet_id": "675490515748425728",
+        "content": "america's first muslim female judge; carolyn walker-diallo. URL",
+        "sentiment_score": 0.5994201302528381,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8478555083274841
+    },
+    {
+        "tweet_id": "552984502063337472",
+        "content": "#update three men including two brothers identified in france newspaper attack: source URL #jesuischarlie #charliehebdo",
+        "sentiment_score": 0.9883909225463867,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.696826696395874
+    },
+    {
+        "tweet_id": "650128194209730561",
+        "content": "an openly gay man said that he and his partner met with pope francis a day before kim davis did URL",
+        "sentiment_score": 0.986522376537323,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.7627758383750916
+    },
+    {
+        "tweet_id": "524995771587108864",
+        "content": "this afternoon we've lowered our flags to half mast in honour of the canadian reservist who lost his life in ottawa. URL",
+        "sentiment_score": 0.9895445704460144,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9031593203544617
+    },
+    {
+        "tweet_id": "552832817089236992",
+        "content": "stills from eyewitness video show two #charliehebdo attackers wearing hoods & black clothing shoot a wounded man URL",
+        "sentiment_score": 0.9808117151260376,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6018499732017517
+    },
+    {
+        "tweet_id": "544291965513134080",
+        "content": "according to seven, this is a picture of the gunman URL",
+        "sentiment_score": 0.9909430146217346,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6909310817718506
+    },
+    {
+        "tweet_id": "649881917534433280",
+        "content": "pope francis\u2019 meeting wasn\u2019t an endorsement of kim davis, vatican says URL",
+        "sentiment_score": 0.9960839748382568,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8936411738395691
+    },
+    {
+        "tweet_id": "628319096606732290",
+        "content": "whole foods' $6 asparagus water is just water with three stalks of asparagus in it URL URL",
+        "sentiment_score": 0.9954192638397217,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9280369877815247
+    },
+    {
+        "tweet_id": "524936872666353664",
+        "content": "more shots fired just off parliament hill. police telling everyone to take cover.",
+        "sentiment_score": 0.991256833076477,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5612040162086487
+    },
+    {
+        "tweet_id": "544289409294553088",
+        "content": "full statement from pm abbott on #sydneysiege #martinplace #lindt. URL",
+        "sentiment_score": 0.9894002079963684,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8590693473815918
+    },
+    {
+        "tweet_id": "553587303172833280",
+        "content": "police taking people out of #paris grocery where hostages were being held. URL",
+        "sentiment_score": 0.9950023293495178,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7482610940933228
+    },
+    {
+        "tweet_id": "544381485591982083",
+        "content": "reports on @channeltennews #sydneysiege gunman wants #isil flag delivered to cafe and he also wants to speak to pm or people will be killed.",
+        "sentiment_score": 0.9968692660331726,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9572944045066833
+    },
+    {
+        "tweet_id": "614638036593299456",
+        "content": "this is how the white house celebrated what obama called \"a victory for america.\" #lovewins URL URL",
+        "sentiment_score": 0.9898877739906311,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.892537534236908
+    },
+    {
+        "tweet_id": "553587672137334785",
+        "content": "afp: suspected #charliehebdo gunmen have been killed",
+        "sentiment_score": 0.9865890741348267,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.44745197892189026
+    },
+    {
+        "tweet_id": "552811386259386370",
+        "content": "at least 12 dead in the paris shooting. updated story and background info: URL #charliehebdo URL",
+        "sentiment_score": 0.9825894832611084,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.908046305179596
+    },
+    {
+        "tweet_id": "524923676484177920",
+        "content": "breaking - shooting on parliament hill. rcmp have weapons drawn #cdnpoli URL",
+        "sentiment_score": 0.9902605414390564,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7192431092262268
+    },
+    {
+        "tweet_id": "544277117039837184",
+        "content": "flag in window of sydney lindt cafe not an isis flag. reads: \u2018there is no god but allah and muhammad is the messenger of god\u2019 (@liztilley84)",
+        "sentiment_score": 0.9876612424850464,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5865727066993713
+    },
+    {
+        "tweet_id": "544358533819420672",
+        "content": "breaking: three hostages appear to have escaped the sydney cafe where a siege remains ongoing. URL #sydneyseige",
+        "sentiment_score": 0.7079870700836182,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7222478985786438
+    },
+    {
+        "tweet_id": "524965775036387329",
+        "content": "hero. @affanchowdhry: kevin vickers, head of security in parliament, being credited for taking down shooter #ottawa URL \"",
+        "sentiment_score": 0.9846093654632568,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9463574290275574
+    },
+    {
+        "tweet_id": "525025463648137216",
+        "content": "breaking: a source confirms to cp24 that the deceased soldier in ottawa is cpl. nathan cirillo. cirillo was a member of the hamilton argylls",
+        "sentiment_score": 0.9536163210868835,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.46229061484336853
+    },
+    {
+        "tweet_id": "614604580601597953",
+        "content": "watch live: as sun goes down, white house lights up rainbow colors to celebrate scotus ruling URL URL",
+        "sentiment_score": 0.9989666938781738,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.49921658635139465
+    },
+    {
+        "tweet_id": "544518335019229184",
+        "content": "#breaking: at least two people have died following the #sydneysiege. 5 people are being treated by paramedics.",
+        "sentiment_score": 0.9832397103309631,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7994019389152527
+    },
+    {
+        "tweet_id": "614624331717545984",
+        "content": "live from the white house...in rainbow colors. hundreds of people...hundreds URL",
+        "sentiment_score": 0.9979666471481323,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5490805506706238
+    },
+    {
+        "tweet_id": "615840865815298048",
+        "content": "valerie jarrett organized white house rainbow lights URL URL",
+        "sentiment_score": 0.935283362865448,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8584860563278198
+    },
+    {
+        "tweet_id": "544274934835707905",
+        "content": "several people being held hostage at a sydney cafe. australian tv showing people with hands up against a window: URL",
+        "sentiment_score": 0.9916725754737854,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8478779196739197
+    },
+    {
+        "tweet_id": "614617234942656512",
+        "content": "the white house tonight is illuminated in rainbow colors to honor and celebrate marriage equality. bravo! URL",
+        "sentiment_score": 0.9989559650421143,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9249615669250488
+    },
+    {
+        "tweet_id": "544271362022338560",
+        "content": "black islamic flag being held up in window of #lindt chocolate store in martin place, sydney - hostages inside. URL",
+        "sentiment_score": 0.9799463152885437,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7263972759246826
+    },
+    {
+        "tweet_id": "552793679082311680",
+        "content": "11 confirmed dead, francois hollande to visit scene of attack - latest from paris: URL URL",
+        "sentiment_score": 0.9875304698944092,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7921980619430542
+    },
+    {
+        "tweet_id": "544319274072817664",
+        "content": "ray hadley says he spoke with hostage, and could hear the gunman in the background barking orders and demanding to go live on air",
+        "sentiment_score": 0.9945104122161865,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.883051872253418
+    },
+    {
+        "tweet_id": "628681462976528384",
+        "content": "whole foods called out for selling $6 \"asparagus water,\" water with stalks of asparagus in it URL URL",
+        "sentiment_score": 0.9969256520271301,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.47289320826530457
+    },
+    {
+        "tweet_id": "650037735579910145",
+        "content": "the vatican insists pope francis\u2019 encounter with kim davis was not endorsement of her views URL URL",
+        "sentiment_score": 0.9954995512962341,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9155375361442566
+    },
+    {
+        "tweet_id": "544289941996326912",
+        "content": "prime minister tony abbott's statement on the #sydneysiege. updates: URL URL",
+        "sentiment_score": 0.9935351610183716,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5962558388710022
+    },
+    {
+        "tweet_id": "649974380416618496",
+        "content": "vatican official says there is \"a sense of regret\" that pope francis met with kim davis: URL URL",
+        "sentiment_score": 0.9935761094093323,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9603478908538818
+    },
+    {
+        "tweet_id": "616481759329427456",
+        "content": "just a crow riding an eagle, nbd. URL URL",
+        "sentiment_score": 0.9853988885879517,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9527953863143921
+    },
+    {
+        "tweet_id": "552785375161499649",
+        "content": "breaking: 10 reportedly shot dead at paris hq of french weekly charlie hebdo URL",
+        "sentiment_score": 0.9905894994735718,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.896242618560791
+    },
+    {
+        "tweet_id": "524925215235911680",
+        "content": "#breaking news: shots fired at parliament hill. follow developing story: URL URL",
+        "sentiment_score": 0.9918386340141296,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.3647764325141907
+    },
+    {
+        "tweet_id": "525028734991343617",
+        "content": "ctv news confirms that canadian authorities have provided us authorities with the name michael zehaf-bibeau in connection to ottawa shooting",
+        "sentiment_score": 0.9423761963844299,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7381463646888733
+    },
+    {
+        "tweet_id": "674358835675549696",
+        "content": "1.15 million americans have been killed by guns since john lennon's death URL",
+        "sentiment_score": 0.9913262724876404,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8400293588638306
+    },
+    {
+        "tweet_id": "616765822095261700",
+        "content": "a crow tries to fight an eagle\u2014gets a free ride instead: URL",
+        "sentiment_score": 0.9984850287437439,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.45351043343544006
+    },
+    {
+        "tweet_id": "614610364702044164",
+        "content": "white house set aglow with rainbow pride URL | ap photo URL",
+        "sentiment_score": 0.9876108765602112,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8168753981590271
+    },
+    {
+        "tweet_id": "524932935137628160",
+        "content": "the gunman in ottawa has been shot and killed. i'm at a loss for words this morning. that isn't my canada.",
+        "sentiment_score": 0.9994957447052002,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9449024796485901
+    },
+    {
+        "tweet_id": "640967537178472448",
+        "content": "judy carne, \"laugh-in\u2019s\" \"sock it to me\" girl, dies at 76 URL URL",
+        "sentiment_score": 0.9990862607955933,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.30103152990341187
+    },
+    {
+        "tweet_id": "614595106906226688",
+        "content": "the white house bathed in rainbow #scotusgaymarriage URL",
+        "sentiment_score": 0.871828019618988,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8445318937301636
+    },
+    {
+        "tweet_id": "525049639016615937",
+        "content": "this is the soldier who died today at the #ottawa war memorial. his name is cpl. nathan cirillo. #rip #ottawastrong URL",
+        "sentiment_score": 0.9791790246963501,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8514721393585205
+    },
+    {
+        "tweet_id": "614790312955904000",
+        "content": "see the white house light up as a rainbow to celebrate gay marriage URL URL",
+        "sentiment_score": 0.9988335967063904,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.7072158455848694
+    },
+    {
+        "tweet_id": "544520273718812672",
+        "content": "police confirm that #sydneysiege is finally over. two people reportedly injured after suffering gunshot wounds URL",
+        "sentiment_score": 0.9933398365974426,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.707844078540802
+    },
+    {
+        "tweet_id": "544350712365207552",
+        "content": "#breaking reports two customers and an employee have escaped the #sydneysiege URL",
+        "sentiment_score": 0.9962683320045471,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5446902513504028
+    },
+    {
+        "tweet_id": "614702244001382400",
+        "content": "white house set aglow with rainbow pride URL | ap photo URL",
+        "sentiment_score": 0.9876108765602112,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8168753981590271
+    },
+    {
+        "tweet_id": "524925987239120897",
+        "content": "soldier shot at national war memorial in ottawa URL #cdnpoli #hw",
+        "sentiment_score": 0.9881578087806702,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6449193358421326
+    },
+    {
+        "tweet_id": "525019752507658240",
+        "content": "#isis media account posts picture claiming to be michael zehaf-bibeau, dead #ottawashooting suspect. #canada URL",
+        "sentiment_score": 0.993759036064148,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9589076042175293
+    },
+    {
+        "tweet_id": "614620298877513729",
+        "content": "white house lit in rainbow colors following us supreme court ruling that same-sex couples have right to marry. URL",
+        "sentiment_score": 0.9952167272567749,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.464103102684021
+    },
+    {
+        "tweet_id": "552791578893619200",
+        "content": "eleven dead in shooting at paris offices of satirical magazine charlie hebdo \u2013 live updates URL",
+        "sentiment_score": 0.9869810938835144,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8654739260673523
+    },
+    {
+        "tweet_id": "614599587362414592",
+        "content": "white house lit in rainbow colors following us supreme court ruling that same-sex couples have right to marry. URL",
+        "sentiment_score": 0.9952167272567749,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.464103102684021
+    },
+    {
+        "tweet_id": "649889459836710912",
+        "content": "breaking news: pope francis\u2019 encounter with kim davis wasn\u2019t an endorsement of her views, the vatican says. URL",
+        "sentiment_score": 0.9942038655281067,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.46652156114578247
+    },
+    {
+        "tweet_id": "524980744658382848",
+        "content": "#rcmp to hold news conference on #ottawa shootings at 2 pm et, 11 am pt. watch live coverage @ URL",
+        "sentiment_score": 0.9632106423377991,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9144555330276489
+    },
+    {
+        "tweet_id": "544352727971954690",
+        "content": "local media: 3 people appear to escape from martin place, sydney, caf\u00e9, amid hostage situation - @abcnews URL",
+        "sentiment_score": 0.99212247133255,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.705078661441803
+    },
+    {
+        "tweet_id": "614594259900080128",
+        "content": "watch live: as sun goes down, white house lights up rainbow colors to celebrate scotus ruling URL URL",
+        "sentiment_score": 0.9989666938781738,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.49921658635139465
+    },
+    {
+        "tweet_id": "614614133410033664",
+        "content": "the white house goes rainbow to celebrate supreme court marriage ruling URL URL",
+        "sentiment_score": 0.9975922703742981,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.6130073666572571
+    },
+    {
+        "tweet_id": "544278335455776769",
+        "content": "#breaking hostages held inside sydney cafe, islamic flag held up",
+        "sentiment_score": 0.9333420991897583,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.4588753581047058
+    },
+    {
+        "tweet_id": "651018580989972480",
+        "content": "pope francis expected to fire the archbishop who tricked him into meeting kim davis URL",
+        "sentiment_score": 0.9973210692405701,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6130241751670837
+    },
+    {
+        "tweet_id": "667073349974102017",
+        "content": "anne frank was a refugee denied entrance to the united states URL #syrianrefugees URL",
+        "sentiment_score": 0.997913658618927,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6920079588890076
+    },
+    {
+        "tweet_id": "524922729485848576",
+        "content": "only photo i will tweet. cpr being performed on the soldier now. i heard four shots. #ottawa URL",
+        "sentiment_score": 0.9933172464370728,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7375267148017883
+    },
+    {
+        "tweet_id": "668849913678209024",
+        "content": "that superman poster is legit: URL URL",
+        "sentiment_score": 0.9916400909423828,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8135567307472229
+    },
+    {
+        "tweet_id": "524925050739490816",
+        "content": "breaking news: soldier shot at national war memorial in ottawa URL",
+        "sentiment_score": 0.9707127213478088,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8811613917350769
+    },
+    {
+        "tweet_id": "628336948810268673",
+        "content": "whole foods tests the limits of yuppie diet fads with new $6 asparagus water - URL URL",
+        "sentiment_score": 0.9859326481819153,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8787820339202881
+    },
+    {
+        "tweet_id": "552783667052167168",
+        "content": "france: 10 people dead after shooting at hq of satirical weekly newspaper #charliehebdo, according to witnesses URL",
+        "sentiment_score": 0.9932055473327637,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.44863829016685486
+    },
+    {
+        "tweet_id": "552834961762709505",
+        "content": "paris manhunt: 3 #charliehebdo attackers with ak-47 rifles & reportedly rocket-propelled grenade still at large URL",
+        "sentiment_score": 0.9963332414627075,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9756866097450256
+    },
+    {
+        "tweet_id": "553160652567498752",
+        "content": "french police: said kouachi and cherif kouachi wanted in paris terror attack: URL URL",
+        "sentiment_score": 0.9909152388572693,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9774630069732666
+    },
+    {
+        "tweet_id": "544268732046913536",
+        "content": "#breaking: hostages are being held and a siege is taking place at sydney's lindt chocolat cafe in martin place.",
+        "sentiment_score": 0.9489660859107971,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6486527919769287
+    },
+    {
+        "tweet_id": "544282005941530624",
+        "content": "hostages in sydney cafe made to hold up islamic flags URL",
+        "sentiment_score": 0.9865018725395203,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8016638159751892
+    },
+    {
+        "tweet_id": "614609560658161664",
+        "content": "the white house is lit like a rainbow tonight in honor of the #scotusmarriage ruling. URL",
+        "sentiment_score": 0.9953703284263611,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.6085148453712463
+    },
+    {
+        "tweet_id": "580348081100734464",
+        "content": "#germanwings \"sorry to confirm\" 144 passengers & 6 crew on board flight #4u9525 when it crashed in french alps URL",
+        "sentiment_score": 0.9993516802787781,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9631930589675903
+    },
+    {
+        "tweet_id": "553586860334010368",
+        "content": "#charliehebdo killers shot dead by police",
+        "sentiment_score": 0.9855334162712097,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5255013108253479
+    },
+    {
+        "tweet_id": "544291804057960448",
+        "content": "first photos: hostage pressed against a window. #sydneysiege URL",
+        "sentiment_score": 0.9917955994606018,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8670579791069031
+    },
+    {
+        "tweet_id": "628604055644934144",
+        "content": "whole foods' selling asparagus water is a sign the end times are near URL URL",
+        "sentiment_score": 0.9943307638168335,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9041324853897095
+    },
+    {
+        "tweet_id": "524942470472548352",
+        "content": "the university of ottawa, just a five minute walk from the hill, is now on lockdown.",
+        "sentiment_score": 0.9981022477149963,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9254910945892334
+    },
+    {
+        "tweet_id": "552792544132997121",
+        "content": "breaking charlie hebdo latest: 11 dead 10 wounded (five critical) two gunmen unaccounted for URL URL",
+        "sentiment_score": 0.9833613038063049,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9099789261817932
+    },
+    {
+        "tweet_id": "544289311504355328",
+        "content": "statement from prime minister tony abbott on sydney hostage situation. URL",
+        "sentiment_score": 0.9922519326210022,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.82410728931427
+    },
+    {
+        "tweet_id": "614494460747997184",
+        "content": "theres' a double rainbow over the white house URL",
+        "sentiment_score": 0.993961751461029,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.6550125479698181
+    },
+    {
+        "tweet_id": "615592870540488704",
+        "content": "if they can light up the white house like a rainbow, it sure as hell better be red, white & blue for independence day.",
+        "sentiment_score": 0.8961440324783325,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5959328413009644
+    },
+    {
+        "tweet_id": "614610102927147008",
+        "content": "bro there's either a black president in a rainbow whitehouse or i'm having the best trip ever",
+        "sentiment_score": 0.9995561242103577,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7621471881866455
+    },
+    {
+        "tweet_id": "614650850393391104",
+        "content": "wow! what a way to end this historic day! URL #lovewins #loveislove #equalityforall #lgbt URL",
+        "sentiment_score": 0.9962708950042725,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.6343387961387634
+    },
+    {
+        "tweet_id": "614648099542204416",
+        "content": "white house shines rainbow-colored lights in honor of #scotus gay marriage decision #lovewins URL URL",
+        "sentiment_score": 0.9981312155723572,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9149552583694458
+    },
+    {
+        "tweet_id": "544514564407427072",
+        "content": "police seem relaxed, suggesting all hostages are out and gunman no longer a threat URL #sydneysiege",
+        "sentiment_score": 0.8331941366195679,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9609041810035706
+    },
+    {
+        "tweet_id": "553566026030272512",
+        "content": "breaking: two hostage situations in france are linked, paris prosecutor says",
+        "sentiment_score": 0.7200498580932617,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.3695506453514099
+    },
+    {
+        "tweet_id": "614616994499788800",
+        "content": "there's a rainbow over the white house right now, just the same as when dublin had one the day ireland legalized URL",
+        "sentiment_score": 0.9933089017868042,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8253047466278076
+    },
+    {
+        "tweet_id": "553506608203169792",
+        "content": "map shows industrial estate where 2 #charliehebdo suspects are holed up, surrounded by police URL URL",
+        "sentiment_score": 0.9962106943130493,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7929569482803345
+    },
+    {
+        "tweet_id": "524959809402331137",
+        "content": "senior u.s. official: canadian government has informed u.s. that one shooter is dead in ottawa. live blog: URL",
+        "sentiment_score": 0.9794726371765137,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4200880527496338
+    },
+    {
+        "tweet_id": "623533663947517952",
+        "content": "gay marriage ruling? white house in rainbow colors within hours. 4 murdered marines & a murdered sailor? 5 days to lower the flag. nice.",
+        "sentiment_score": 0.9945264458656311,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6642647981643677
+    },
+    {
+        "tweet_id": "614599815280857088",
+        "content": "look: @whitehouse lights up in rainbow colors to celebrate #scotus same-sex marriage ruling URL",
+        "sentiment_score": 0.9983828067779541,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9237954616546631
+    },
+    {
+        "tweet_id": "614615157730357248",
+        "content": "watch live: as sun goes down, white house lights up rainbow colors to celebrate scotus ruling URL URL",
+        "sentiment_score": 0.9989666938781738,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.49921658635139465
+    },
+    {
+        "tweet_id": "619242759359037440",
+        "content": "obama 2008:\"i support traditional marriage, christians vote for me\" obama 2015:\"the white house is a rainbow. bring me my unicorn\" merica.",
+        "sentiment_score": 0.998473584651947,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5888024568557739
+    },
+    {
+        "tweet_id": "552792913910833152",
+        "content": "at least 11 dead in shooting at hq of #charliehebdo in #paris (police source) URL",
+        "sentiment_score": 0.9957979321479797,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6195513606071472
+    },
+    {
+        "tweet_id": "667487418388488192",
+        "content": "the picture of a syrian child \"surrendering\" to a camera is real. URL URL",
+        "sentiment_score": 0.9971394538879395,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8873895406723022
+    },
+    {
+        "tweet_id": "553586897168392192",
+        "content": "#breaking : both charlie hebdo suspects killed as police storm building (police sources) URL URL",
+        "sentiment_score": 0.9287949800491333,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7790398001670837
+    },
+    {
+        "tweet_id": "553221600955621376",
+        "content": "clarissa, 27 years old, police trainee of montrouge police in #france. victim of this morning's attack. via @_batou_ URL",
+        "sentiment_score": 0.9890439510345459,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8835806846618652
+    },
+    {
+        "tweet_id": "544399927045283840",
+        "content": "nsw police confirm 5 hostages have emerged from #sydneysiege and they are negotiating: \"it might take a bit of time\" URL",
+        "sentiment_score": 0.9951828122138977,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9510204195976257
+    },
+    {
+        "tweet_id": "524947674164760577",
+        "content": "breaking news: new york times is reporting the canadian soldier who was shot has died from their injuries. heartbreaking. #cdnpoli #ableg",
+        "sentiment_score": 0.7083777785301208,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9543325304985046
+    },
+    {
+        "tweet_id": "552792802309181440",
+        "content": "#charliehebdo - 11 dead including 2 police in paris shooting. photo @martinbureau1 #afp URL",
+        "sentiment_score": 0.9958194494247437,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8017640113830566
+    },
+    {
+        "tweet_id": "614891047886434304",
+        "content": "the white house was lit up with rainbow lights to celebrate marriage equality: URL URL",
+        "sentiment_score": 0.9958853125572205,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.44770699739456177
+    },
+    {
+        "tweet_id": "525023025792835585",
+        "content": "#ripnathancirillo rt @globeandmail: soldier killed at war memorial identified as cpl. nathan cirillo #ottawashooting URL",
+        "sentiment_score": 0.9889484643936157,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8061777949333191
+    },
+    {
+        "tweet_id": "544282227035869184",
+        "content": "breaking news: gunmen take hostages at sydney cafe, wave islamic flag URL URL",
+        "sentiment_score": 0.9668607711791992,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8666898012161255
+    },
+    {
+        "tweet_id": "553558982476828674",
+        "content": "on israeli tv, an israeli woman speaks of her nephew,a mother with 6 month old baby, held hostage in the supermarket in paris. #jesuisjuif",
+        "sentiment_score": 0.9423494338989258,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9139256477355957
+    },
+    {
+        "tweet_id": "544290258951892992",
+        "content": "central sydney shut down by police amid ongoing hostage situation: URL",
+        "sentiment_score": 0.9982031583786011,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.553693413734436
+    },
+    {
+        "tweet_id": "544329935943237632",
+        "content": "uber sydney trips from cbd will be free for riders. higher rates are still in place to encourage drivers to get into the cbd.",
+        "sentiment_score": 0.9871184825897217,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7833462357521057
+    },
+    {
+        "tweet_id": "552802654641225728",
+        "content": "charlie hebdo shooting latest: 12 dead and gunmen still at large URL URL",
+        "sentiment_score": 0.9942852854728699,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6336644887924194
+    },
+    {
+        "tweet_id": "544305540286148609",
+        "content": "a man believed to be the gunman filmed wearing a black headband inside the cafe URL URL",
+        "sentiment_score": 0.9960441589355469,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8343783617019653
+    },
+    {
+        "tweet_id": "524923462398513152",
+        "content": "shots fired on parliament hill after a man walked up with a gun. i'm locked in a security office on parliament hill",
+        "sentiment_score": 0.9928646087646484,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.774149477481842
+    },
+    {
+        "tweet_id": "616421546702336000",
+        "content": "woah, nature. URL URL",
+        "sentiment_score": 0.9970445036888123,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.9370743632316589
+    },
+    {
+        "tweet_id": "524944399890124801",
+        "content": "recap: gunman shot dead inside parliament buildings; police believe there may be others on loose. cdn soldier shot earlier at war memorial.",
+        "sentiment_score": 0.9945757389068604,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.40278929471969604
+    },
+    {
+        "tweet_id": "544391176137089024",
+        "content": "hostage taker in sydney cafe demands isis flag and call with australian pm, sky news reports. URL #sydneysiege",
+        "sentiment_score": 0.9929938912391663,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7114661931991577
+    },
+    {
+        "tweet_id": "524969201102901248",
+        "content": "mps credit sergeant-at-arms for saving lives in parliament hill shootings URL URL",
+        "sentiment_score": 0.9691911339759827,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.42867907881736755
+    },
+    {
+        "tweet_id": "552806757672964097",
+        "content": "update: 12 now confirmed dead in #charliehebdo attack in paris, @ap is reporting. story: URL (ap) URL",
+        "sentiment_score": 0.9899901151657104,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6753402352333069
+    },
+    {
+        "tweet_id": "544350567183556608",
+        "content": "we can see people coming out a firedoor near the lindt cafe to waiting police. 2-3 people. hard to see. #sydneysiege",
+        "sentiment_score": 0.998389482498169,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.855657696723938
+    },
+    {
+        "tweet_id": "614593386188828672",
+        "content": "white house lit in rainbow colors following us supreme court ruling that same-sex couples have right to marry. URL",
+        "sentiment_score": 0.9952167272567749,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.464103102684021
+    },
+    {
+        "tweet_id": "650046859537448960",
+        "content": "an openly gay man said that he and his partner met with pope francis a day before kim davis did URL",
+        "sentiment_score": 0.986522376537323,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.7627758383750916
+    },
+    {
+        "tweet_id": "544269749405097984",
+        "content": "breaking: live coverage of hostage situation unfolding in sydney's martin place URL URL",
+        "sentiment_score": 0.7739968299865723,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.39456677436828613
+    }
+]

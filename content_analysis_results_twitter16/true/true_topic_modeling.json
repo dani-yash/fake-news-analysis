@@ -1,0 +1,7 @@
+{
+    "Topic 1": "0.096*\"url\" + 0.067*\"rainbow\" + 0.062*\"white\" + 0.059*\"hous\" + 0.038*\"color\" + 0.026*\"rule\" + 0.024*\"marriag\" + 0.024*\"celebr\" + 0.021*\"lit\" + 0.021*\"light\"",
+    "Topic 2": "0.087*\"url\" + 0.021*\"soldier\" + 0.021*\"ottawa\" + 0.019*\"break\" + 0.015*\"hostag\" + 0.015*\"shot\" + 0.014*\"cirillo\" + 0.012*\"new\" + 0.012*\"nathan\" + 0.011*\"pari\"",
+    "Topic 3": "0.090*\"url\" + 0.019*\"polic\" + 0.016*\"parliament\" + 0.016*\"suspect\" + 0.014*\"charliehebdo\" + 0.013*\"hill\" + 0.013*\"suprem\" + 0.012*\"kill\" + 0.012*\"shot\" + 0.011*\"right\"",
+    "Topic 4": "0.078*\"url\" + 0.030*\"hostag\" + 0.023*\"sydnei\" + 0.020*\"shoot\" + 0.018*\"cafe\" + 0.016*\"pari\" + 0.014*\"live\" + 0.014*\"polic\" + 0.014*\"kill\" + 0.013*\"gunman\"",
+    "Topic 5": "0.063*\"url\" + 0.029*\"hostag\" + 0.026*\"sydnei\" + 0.022*\"polic\" + 0.018*\"break\" + 0.018*\"place\" + 0.017*\"cafe\" + 0.017*\"lindt\" + 0.017*\"sydneysieg\" + 0.016*\"peopl\""
+}

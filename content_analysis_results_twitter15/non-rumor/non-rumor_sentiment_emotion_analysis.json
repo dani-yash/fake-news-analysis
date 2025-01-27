@@ -1,0 +1,2994 @@
+[
+    {
+        "tweet_id": "691809004356501505",
+        "content": "\"america is a nation of second chances\" \u2014@potus on new reforms to solitary confinement: URL URL",
+        "sentiment_score": 0.9804336428642273,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8137614130973816
+    },
+    {
+        "tweet_id": "693204708933160960",
+        "content": "brandon marshall visits and offers advice, support to brother of fallen hero zaevion dobson: URL URL",
+        "sentiment_score": 0.9822664856910706,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8176327347755432
+    },
+    {
+        "tweet_id": "767223774072676354",
+        "content": "former 3 doors down guitarist matt roberts has died at age 38, according to his father. URL URL",
+        "sentiment_score": 0.996616542339325,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9418718218803406
+    },
+    {
+        "tweet_id": "766989078294306816",
+        "content": "report: more american fifth-graders taking gap year to unwind before middle school URL URL",
+        "sentiment_score": 0.9846560955047607,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.49283653497695923
+    },
+    {
+        "tweet_id": "767515401831997440",
+        "content": "\u2018keep it,\u2019 says simone biles throwing gold medal to adoring men's gymnastics team URL #rio2016 URL",
+        "sentiment_score": 0.9953676462173462,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.7385789155960083
+    },
+    {
+        "tweet_id": "767715489485205505",
+        "content": "nothing to see here. just nuggets forward wilson chandler catching a 350-pound fish: URL URL",
+        "sentiment_score": 0.995995283126831,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.783932626247406
+    },
+    {
+        "tweet_id": "687945926774800385",
+        "content": "several in critical condition - one in a coma - after clinical trial of new drug in france, health minister says URL",
+        "sentiment_score": 0.9945641756057739,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6531865000724792
+    },
+    {
+        "tweet_id": "767360696761905153",
+        "content": "this is @jackalltimelow asking you to watch the #vma #weekendbrunch that's starting right now. \ud83d\ude4c URL",
+        "sentiment_score": 0.8348256945610046,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8592669367790222
+    },
+    {
+        "tweet_id": "689214940679409664",
+        "content": "#eagles co-founder glenn frey has died aged 67",
+        "sentiment_score": 0.7803013920783997,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9756665229797363
+    },
+    {
+        "tweet_id": "693554344298467328",
+        "content": "how to raise a creative child step one: back off URL URL",
+        "sentiment_score": 0.5406821370124817,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8592106103897095
+    },
+    {
+        "tweet_id": "692838349036326912",
+        "content": "when you spend the whole day thinking it's friday, but it's not... URL",
+        "sentiment_score": 0.9944080114364624,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.8068000078201294
+    },
+    {
+        "tweet_id": "693696168908423168",
+        "content": "ex-president of el salvador, francisco flores, dies at 56, government says. URL URL",
+        "sentiment_score": 0.9986339211463928,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9328283071517944
+    },
+    {
+        "tweet_id": "692892472729415680",
+        "content": "the las vegas raiders? URL URL",
+        "sentiment_score": 0.9910292625427246,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5898587107658386
+    },
+    {
+        "tweet_id": "693806234026188801",
+        "content": "teenage girl 'made up' migrant rape claim that caused uproar in germany URL",
+        "sentiment_score": 0.9861186742782593,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8086002469062805
+    },
+    {
+        "tweet_id": "692082337333534720",
+        "content": ".@potus's reforms to solitary confinement will expand treatment for the mentally ill: URL URL",
+        "sentiment_score": 0.9942726492881775,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6597793698310852
+    },
+    {
+        "tweet_id": "689719109785907200",
+        "content": "death toll from #bachakhanuniattack rises to at least 19; army official says firing has stopped as campus searched URL",
+        "sentiment_score": 0.9989227652549744,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8767423629760742
+    },
+    {
+        "tweet_id": "693122199536934912",
+        "content": "forty percent of germans want angela merkel to resign over her refugee policy, poll shows: URL URL",
+        "sentiment_score": 0.9976167678833008,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6470813751220703
+    },
+    {
+        "tweet_id": "692046121250586624",
+        "content": "wind and solar could power most of the u.s. by 2030 without raising electricity prices URL URL",
+        "sentiment_score": 0.9946742057800293,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8447504043579102
+    },
+    {
+        "tweet_id": "689650617464311813",
+        "content": "leonardo dicaprio is giving away $15 million to environmental causes: URL URL",
+        "sentiment_score": 0.9823019504547119,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.6335642337799072
+    },
+    {
+        "tweet_id": "693595814401327104",
+        "content": "make way for leonardo dicaprio. #sagawards \u2764 URL",
+        "sentiment_score": 0.9740841388702393,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5219133496284485
+    },
+    {
+        "tweet_id": "767710245779103744",
+        "content": "in a historic first, the international criminal court has classified destroying cultural artifacts as a war crime. URL",
+        "sentiment_score": 0.6786280274391174,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.48776760697364807
+    },
+    {
+        "tweet_id": "675434959939756032",
+        "content": "'do you know me? do you know my heart?' muslims in new york share their experiences URL URL",
+        "sentiment_score": 0.7217234969139099,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.81329345703125
+    },
+    {
+        "tweet_id": "665317131597291520",
+        "content": "breaking: police operation at bataclan concert venue over, two attackers killed: bfm tv URL",
+        "sentiment_score": 0.9782918691635132,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6405441164970398
+    },
+    {
+        "tweet_id": "693711272014155776",
+        "content": "zika fever: a newly emerging disease is threatening the americas URL URL",
+        "sentiment_score": 0.9984847903251648,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9154222011566162
+    },
+    {
+        "tweet_id": "693821069879160832",
+        "content": "from @otlonespn: baylor faces accusations of ignoring sex assault claims against athletes, not supporting victims: URL",
+        "sentiment_score": 0.9979800581932068,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.4678795039653778
+    },
+    {
+        "tweet_id": "767528171520524288",
+        "content": "japanese prime minister shinzo abe at #rio2016 closing ceremony is all our super mario dreams. URL",
+        "sentiment_score": 0.9952593445777893,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.620086669921875
+    },
+    {
+        "tweet_id": "690137637810761728",
+        "content": "uk home secretary theresa may says litvinenko's murder was \"blatant and unacceptable\" breach of international law URL",
+        "sentiment_score": 0.9991539716720581,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8698499798774719
+    },
+    {
+        "tweet_id": "759653274605740032",
+        "content": "poll: five percent of americans would vote harambe the dead ape for president URL URL",
+        "sentiment_score": 0.9762016534805298,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8545002937316895
+    },
+    {
+        "tweet_id": "693102023764492288",
+        "content": "uk mother tareena shakil, who took son to syria, guilty of joining so-called islamic state and encouraging terror URL",
+        "sentiment_score": 0.9544848799705505,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7474607825279236
+    },
+    {
+        "tweet_id": "692707593991643136",
+        "content": "breaking news: u.s. detects activity in north korea suggesting plans toward space launch",
+        "sentiment_score": 0.5570308566093445,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4156286418437958
+    },
+    {
+        "tweet_id": "693934062445187072",
+        "content": "bernie sanders and donald trump continue to hold wide leads in new hampshire primary races, cnn/wmur poll finds. URL",
+        "sentiment_score": 0.9586641788482666,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8193815350532532
+    },
+    {
+        "tweet_id": "689529955294777344",
+        "content": "colombian government and left-wing farc rebel movement agree ceasefire to end decades-long conflict URL",
+        "sentiment_score": 0.9000348448753357,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7210342884063721
+    },
+    {
+        "tweet_id": "691299810553384960",
+        "content": "fact: up to 129 million americans with pre-existing conditions can no longer be denied coverage. #acaworks URL",
+        "sentiment_score": 0.9833754897117615,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5980602502822876
+    },
+    {
+        "tweet_id": "674713782778654721",
+        "content": "#ceres captured by dawn spacecraft. check out those bright spots! video: URL URL",
+        "sentiment_score": 0.9817669987678528,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.717003345489502
+    },
+    {
+        "tweet_id": "689799953330368513",
+        "content": "gop strategist says trump supporters are \"childless single men who masturbate to anime\" URL URL",
+        "sentiment_score": 0.9848363995552063,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.4808741509914398
+    },
+    {
+        "tweet_id": "693490132440129536",
+        "content": "baseball players had \"fight club\" at texas high school, investigation finds: URL URL",
+        "sentiment_score": 0.9923800230026245,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7664608955383301
+    },
+    {
+        "tweet_id": "767300637012951040",
+        "content": "iraq executes 36 jihadists over 2014 massacre of up to 1,700 army recruits at camp speicher URL",
+        "sentiment_score": 0.9691847562789917,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6742760539054871
+    },
+    {
+        "tweet_id": "686527768327274497",
+        "content": "rip david bowie. can we also rip the \"battle with cancer\" cliche? implies you've \"lost\" the battle, as if you didn't fight hard enough.",
+        "sentiment_score": 0.9990335702896118,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.781995415687561
+    },
+    {
+        "tweet_id": "764158239089029120",
+        "content": "young people have the power and potential to change the world. happy #youthday! URL URL",
+        "sentiment_score": 0.9991758465766907,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8569450974464417
+    },
+    {
+        "tweet_id": "765631087867367426",
+        "content": "good news: 185 businesses answered @potus's call to give americans with a criminal record a fair chance at a future. URL",
+        "sentiment_score": 0.9846490025520325,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.6104728579521179
+    },
+    {
+        "tweet_id": "687632433483759616",
+        "content": "#oscarnoms: nominations for best picture URL URL",
+        "sentiment_score": 0.9809637069702148,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5437560677528381
+    },
+    {
+        "tweet_id": "692357775859564544",
+        "content": "neurotic woman turns to neurotic friends for support URL URL",
+        "sentiment_score": 0.970828652381897,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8980247378349304
+    },
+    {
+        "tweet_id": "670380354822348801",
+        "content": "they left syria in 2013 for a camp in jordan and arrived in detroit last week. their story URL URL",
+        "sentiment_score": 0.9819657206535339,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8503960967063904
+    },
+    {
+        "tweet_id": "692134022839955456",
+        "content": "man at salad bar has to say every item aloud as he adds it to salad URL URL",
+        "sentiment_score": 0.9798566699028015,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9298611879348755
+    },
+    {
+        "tweet_id": "693605375803813889",
+        "content": "\"look at this stage, this is what we talk about when we talk about diversity. \" #sagawards URL",
+        "sentiment_score": 0.9968547821044922,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5155487060546875
+    },
+    {
+        "tweet_id": "693524179597955072",
+        "content": "ben simmons could be 1st sec player since shaq to average a 20-10. t-minus 2 hours till he faces no. 1 ou on espn. URL",
+        "sentiment_score": 0.9724854826927185,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8542025089263916
+    },
+    {
+        "tweet_id": "692581635594694658",
+        "content": "icymi: mammoth bones from the ice age were unearthed at oregon state's football stadium. URL URL",
+        "sentiment_score": 0.9704619646072388,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6812620162963867
+    },
+    {
+        "tweet_id": "687631811560763392",
+        "content": "#oscarnoms: nominations for best actress in a leading role URL URL",
+        "sentiment_score": 0.9813313484191895,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.6125878095626831
+    },
+    {
+        "tweet_id": "767068504277344260",
+        "content": "older brother of syrian boy in iconic image dies of injuries from airstrike on family home. URL URL",
+        "sentiment_score": 0.9977589845657349,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9282703399658203
+    },
+    {
+        "tweet_id": "688096910217879554",
+        "content": ".@potus's favorite movie of the year? hint: he loves saying \"science the heck out of this thing\" #youtubeasksobama URL",
+        "sentiment_score": 0.9300376176834106,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.7876047492027283
+    },
+    {
+        "tweet_id": "767355611277168642",
+        "content": "amid the chaos of winning gold, @neymarjr found a moment with his son. URL",
+        "sentiment_score": 0.9981069564819336,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.26341521739959717
+    },
+    {
+        "tweet_id": "690670464440504320",
+        "content": ".@potus in the oval office on a snowy afternoon at the white house. URL",
+        "sentiment_score": 0.9788328409194946,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.551118016242981
+    },
+    {
+        "tweet_id": "692816955837804544",
+        "content": "this doesn't help our score, @ianmckellen! are you team #batman or team #superman? let us know with '#empirebvs'. URL",
+        "sentiment_score": 0.9968910813331604,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.46656736731529236
+    },
+    {
+        "tweet_id": "693899062098137088",
+        "content": "officials say at least 86 people died in the latest attack by nigeria's homegrown islamic extremists, boko haram URL",
+        "sentiment_score": 0.9929825067520142,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.787625789642334
+    },
+    {
+        "tweet_id": "689922870689009664",
+        "content": "yes, trump really said, \"the whites don't get any nominations\" at the bet awards: URL URL",
+        "sentiment_score": 0.985816240310669,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6075595617294312
+    },
+    {
+        "tweet_id": "691632933170450435",
+        "content": "unpopular police officer thinking about committing racially motivated offense for a little support URL",
+        "sentiment_score": 0.997260570526123,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7641136050224304
+    },
+    {
+        "tweet_id": "689833530197671936",
+        "content": "it's official. 2015 was officially the hottest year ever. and 2016 will be even hotter URL URL",
+        "sentiment_score": 0.9972825050354004,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4126110076904297
+    },
+    {
+        "tweet_id": "691976624665919488",
+        "content": "a rare white giraffe has been spotted in tanzania... perhaps the only one in the world. URL URL",
+        "sentiment_score": 0.9808176755905151,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5448058843612671
+    },
+    {
+        "tweet_id": "693118410444636161",
+        "content": "after 40-year ban, u.s. starts exporting crude oil URL URL",
+        "sentiment_score": 0.9628128409385681,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4551008343696594
+    },
+    {
+        "tweet_id": "693722259740069889",
+        "content": "bbc reports that broadcaster sir terry wogan has died of cancer aged 77",
+        "sentiment_score": 0.9943737983703613,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9472713470458984
+    },
+    {
+        "tweet_id": "688757736310484994",
+        "content": "\"this is a good day. once again, we\u2019re seeing what\u2019s possible with strong american diplomacy.\" \u2014@potus #irandeal URL",
+        "sentiment_score": 0.999816358089447,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9653041362762451
+    },
+    {
+        "tweet_id": "691064699853606913",
+        "content": "nyc breaks record for snowiest day in its history URL #davidsnowie #blizzard2016 URL",
+        "sentiment_score": 0.8061013221740723,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5743182897567749
+    },
+    {
+        "tweet_id": "767668607803359234",
+        "content": "our quote of the day is from american writer dorothy parker URL",
+        "sentiment_score": 0.9597163200378418,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7772991061210632
+    },
+    {
+        "tweet_id": "767823175480647681",
+        "content": "mike pence: \"when donald trump becomes president, we won't be pay ransom to terrorists or terror-sponsoring states.\" URL",
+        "sentiment_score": 0.9788396954536438,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5845447778701782
+    },
+    {
+        "tweet_id": "693795905049329664",
+        "content": "more than a million observations by amateur bird watchers helped collect data for this map URL URL",
+        "sentiment_score": 0.9852198362350464,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.760942816734314
+    },
+    {
+        "tweet_id": "692440373449396224",
+        "content": "federal reserve declines to raise key interest rate, citing slowing economic growth. URL URL",
+        "sentiment_score": 0.9993252754211426,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.576018214225769
+    },
+    {
+        "tweet_id": "692451275930234880",
+        "content": "it's time to make two years of community college free for responsible students \u2192 URL URL",
+        "sentiment_score": 0.9988297820091248,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.856019914150238
+    },
+    {
+        "tweet_id": "766299560415223808",
+        "content": "us olympic swimmers \"invented\" robbery story to cover up petrol station altercation, rio police sources tell bbc URL",
+        "sentiment_score": 0.9927613735198975,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.40709564089775085
+    },
+    {
+        "tweet_id": "693509689418588160",
+        "content": "what was your favorite moment from this week's #teenwolf? watch + let me know: URL URL",
+        "sentiment_score": 0.9812672138214111,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.3871854543685913
+    },
+    {
+        "tweet_id": "689100941119848449",
+        "content": "morocco says it has arrested a belgian national linked to men who carried out paris attack, in which 130 people died URL",
+        "sentiment_score": 0.9846376776695251,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.44204697012901306
+    },
+    {
+        "tweet_id": "691380348379201536",
+        "content": "an afternoon with bo and sunny in the snow.\u2744 URL",
+        "sentiment_score": 0.9934560656547546,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.7345628142356873
+    },
+    {
+        "tweet_id": "693091255685787648",
+        "content": "joseph pena is 17. joseph pena is in high school. joseph pena can squat 875(!) pounds. watch: URL",
+        "sentiment_score": 0.9826144576072693,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7291511297225952
+    },
+    {
+        "tweet_id": "764653644138450945",
+        "content": "hard work, focus, and a dream\u2014that\u2019s the spirit of @michaelphelps. tonight, we congratulate him and all of @teamusa on making history.",
+        "sentiment_score": 0.9998219609260559,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9596526622772217
+    },
+    {
+        "tweet_id": "693830499047989248",
+        "content": "boko haram burns kids alive in northeast nigeria, witness says URL",
+        "sentiment_score": 0.989971399307251,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.668356716632843
+    },
+    {
+        "tweet_id": "693785810311778304",
+        "content": "america\u2019s biggest toy company is changing the most famous body in the world URL URL",
+        "sentiment_score": 0.9689896106719971,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4841495156288147
+    },
+    {
+        "tweet_id": "692746621218656258",
+        "content": "update - french media: 28-year-old man carrying two guns arrested at #eurodisney near #paris was carrying box of bullets & copy of the koran",
+        "sentiment_score": 0.9760470390319824,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5931246876716614
+    },
+    {
+        "tweet_id": "693600369281253376",
+        "content": "kentucky leads kansas 46-40 at the half. tyler ulis has scored or assisted on 11 of the wildcats' 17 field goals. URL",
+        "sentiment_score": 0.9955283999443054,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4244631230831146
+    },
+    {
+        "tweet_id": "692105324111761408",
+        "content": "actor abe vigoda, known for roles in 'the godfather' and 'barney miller,' has died. URL URL",
+        "sentiment_score": 0.9991565942764282,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9504685997962952
+    },
+    {
+        "tweet_id": "692759090469212160",
+        "content": "half a sleeve of oreos lost in house fire URL URL",
+        "sentiment_score": 0.9976170063018799,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.42593303322792053
+    },
+    {
+        "tweet_id": "693465666259656705",
+        "content": "turkey claims russian plane violated its airspace and summons ambassador URL",
+        "sentiment_score": 0.9967047572135925,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9478799700737
+    },
+    {
+        "tweet_id": "690145844318834689",
+        "content": "happy #nationalhugday URL",
+        "sentiment_score": 0.9973504543304443,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9471142292022705
+    },
+    {
+        "tweet_id": "767520433247809536",
+        "content": "hugs! @simone_biles & @aly_raisman during the #closingceremony (photo: rob schumacher, @usatodaysports) URL",
+        "sentiment_score": 0.9497953653335571,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9542230367660522
+    },
+    {
+        "tweet_id": "761027420849745920",
+        "content": "after two weeks, thousands of gravity falls fans completed this global scavenger hunt URL URL",
+        "sentiment_score": 0.9848945736885071,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.668858528137207
+    },
+    {
+        "tweet_id": "693411834808946688",
+        "content": "michael jackson told oprah he doesn't want a white actor playing him in 1993 URL URL",
+        "sentiment_score": 0.9949144124984741,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7344740629196167
+    },
+    {
+        "tweet_id": "693032076543655936",
+        "content": "#zika virus: everything you need to know about the mosquito that spreads it URL URL",
+        "sentiment_score": 0.9974732995033264,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.4275771677494049
+    },
+    {
+        "tweet_id": "687734662249246724",
+        "content": "we have some bad news, friends fans. the whole cast won't be reuniting in february: URL URL",
+        "sentiment_score": 0.9837067127227783,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8778415322303772
+    },
+    {
+        "tweet_id": "761675705956655109",
+        "content": "exclusive! angelina jolie will be a visiting professor at georgetown university: URL URL",
+        "sentiment_score": 0.9899863600730896,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4198264181613922
+    },
+    {
+        "tweet_id": "688763993633107968",
+        "content": "\"we have now cut off every single path that iran could have used to build a bomb.\" \u2014@potus #irandeal URL",
+        "sentiment_score": 0.9953483939170837,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5033872723579407
+    },
+    {
+        "tweet_id": "693272659447119873",
+        "content": "report: breast-feeding increase could save more than 800,000 lives annually URL URL",
+        "sentiment_score": 0.9774707555770874,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4194796085357666
+    },
+    {
+        "tweet_id": "693533469922693120",
+        "content": "still sobbing over @onedirection's #1dhistoryvideo, hbu? URL URL",
+        "sentiment_score": 0.9989105463027954,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9675843715667725
+    },
+    {
+        "tweet_id": "692780496590254081",
+        "content": "an undefeated high school wrestler lost on purpose against an opponent with down syndrome: URL URL",
+        "sentiment_score": 0.9415103793144226,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5502862930297852
+    },
+    {
+        "tweet_id": "761381302260031489",
+        "content": "happy birthday, @potus! URL",
+        "sentiment_score": 0.9995046854019165,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.7707986831665039
+    },
+    {
+        "tweet_id": "644321231618076673",
+        "content": "breaking: 15.1 foot tsunami reported in coquimbo. #earthquake #tsunami",
+        "sentiment_score": 0.9350013732910156,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9897627830505371
+    },
+    {
+        "tweet_id": "693240976970752004",
+        "content": "the broadcast premiere of @zaynmalik's #pillowtalk is on mtv right now \ud83d\udca5 URL URL",
+        "sentiment_score": 0.9927445650100708,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5228258967399597
+    },
+    {
+        "tweet_id": "692745208421679104",
+        "content": "surprise surprise, @shaq. on @jimmykimmellive, the lakers icon learned he'd be honored w/ a staples center statue. URL",
+        "sentiment_score": 0.9972227811813354,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.8476450443267822
+    },
+    {
+        "tweet_id": "684118654418419712",
+        "content": "dammit, janet! fox\u2019s rocky horror picture show casts @victoriajustice URL URL",
+        "sentiment_score": 0.9963300824165344,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9902840256690979
+    },
+    {
+        "tweet_id": "693718533239365633",
+        "content": "1 billion young people will start work in the next decade\u2014only 40% in jobs that now exist URL URL",
+        "sentiment_score": 0.9857048988342285,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.786357581615448
+    },
+    {
+        "tweet_id": "691986377584549888",
+        "content": "videos show suffering of starving in syrian town of #madaya. URL URL",
+        "sentiment_score": 0.9970351457595825,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9489488005638123
+    },
+    {
+        "tweet_id": "692727606718824448",
+        "content": "\"this ball feels a little flat to me!\" icymi: von miller joked about the patriots football he intercepted: URL",
+        "sentiment_score": 0.9995585083961487,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.30042725801467896
+    },
+    {
+        "tweet_id": "693185488644149248",
+        "content": "poll shows 40 percent of germans want merkel to resign over her refugee policy: URL URL",
+        "sentiment_score": 0.9948378205299377,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6481117606163025
+    },
+    {
+        "tweet_id": "688110059553861634",
+        "content": "here's what @potus keeps in his pockets to remind himself of the people he meets along the way. #youtubeasksobama URL",
+        "sentiment_score": 0.8718780279159546,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.28352436423301697
+    },
+    {
+        "tweet_id": "693549273468764160",
+        "content": "her father shot her in the head, as an \"honor killing\" URL via @nytopinion URL",
+        "sentiment_score": 0.9988825917243958,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7724838256835938
+    },
+    {
+        "tweet_id": "689208632148365314",
+        "content": "eagles guitarist glenn frey has died, the band announces URL",
+        "sentiment_score": 0.9907492995262146,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9666752815246582
+    },
+    {
+        "tweet_id": "693068611951300608",
+        "content": "ooooh my, d-rose. URL",
+        "sentiment_score": 0.8730707764625549,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.939302921295166
+    },
+    {
+        "tweet_id": "693643778033344512",
+        "content": "nonwhite actors nearly swept every nominated category at the #sagawards URL URL",
+        "sentiment_score": 0.9896687865257263,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.28278133273124695
+    },
+    {
+        "tweet_id": "690296550803636224",
+        "content": "\"our children should not have to be worried about the water that they're drinking\" \u2014@potus on the situation in flint URL",
+        "sentiment_score": 0.8197696805000305,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8533923029899597
+    },
+    {
+        "tweet_id": "684878165714563072",
+        "content": "as of january 12th, microsoft will no longer support internet explorer 8, 9 or 10. URL",
+        "sentiment_score": 0.9996367692947388,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5817934274673462
+    },
+    {
+        "tweet_id": "693234925252775936",
+        "content": "meet quasimodo, the dog with the short spine URL URL",
+        "sentiment_score": 0.7088062167167664,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8942841291427612
+    },
+    {
+        "tweet_id": "687786822475366401",
+        "content": "woah! olivia pope ditches the white hat for a hot new look in this badass scandal promo: URL URL",
+        "sentiment_score": 0.9978147745132446,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5079188346862793
+    },
+    {
+        "tweet_id": "692098463262216192",
+        "content": "\u2728 happy #gossipgirlday \u2728 URL",
+        "sentiment_score": 0.9945547580718994,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9682308435440063
+    },
+    {
+        "tweet_id": "683731779342188545",
+        "content": "oregon militiamen receive fitting nickname: #yallqaeda URL URL",
+        "sentiment_score": 0.9914968609809875,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6829021573066711
+    },
+    {
+        "tweet_id": "692374052082708480",
+        "content": "report: spider URL",
+        "sentiment_score": 0.993301510810852,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7990490794181824
+    },
+    {
+        "tweet_id": "764573523713011713",
+        "content": "\"we've set the first-ever national standards limiting the amount of carbon pollution power plants\" can emit \u2014@potus: URL",
+        "sentiment_score": 0.9879364371299744,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7081778049468994
+    },
+    {
+        "tweet_id": "693673606279229440",
+        "content": "how 2 little-known actors became the obamas URL URL",
+        "sentiment_score": 0.9932859539985657,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.8860541582107544
+    },
+    {
+        "tweet_id": "691656866972209152",
+        "content": "boss wants friendly, relaxed company culture in place by friday URL URL",
+        "sentiment_score": 0.6998546123504639,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6775578856468201
+    },
+    {
+        "tweet_id": "690431187916099584",
+        "content": "north korea says it has arrested a us student on charges of committing a \"hostile act\" URL",
+        "sentiment_score": 0.9947746396064758,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5138197541236877
+    },
+    {
+        "tweet_id": "687674548712505346",
+        "content": "alan rickman's goodbye letter to harry potter is just perfect: URL URL",
+        "sentiment_score": 0.9995073080062866,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4027368426322937
+    },
+    {
+        "tweet_id": "686493272806576128",
+        "content": "bowie's last album was 'parting gift' for fans, in carefully planned finale URL URL",
+        "sentiment_score": 0.8394246697425842,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.515933632850647
+    },
+    {
+        "tweet_id": "693537938425171968",
+        "content": "when an iowa man asked ted cruz an uncomfortable question, the room went silent URL URL",
+        "sentiment_score": 0.9987021684646606,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.3672681152820587
+    },
+    {
+        "tweet_id": "693284114724700160",
+        "content": "boeing wins contract to build new air force one presidential jets URL URL",
+        "sentiment_score": 0.8810146450996399,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7249630093574524
+    },
+    {
+        "tweet_id": "692566765822435328",
+        "content": "whether on the sideline or at a retirement community in nc ... just gotta dab on 'em. (via piedmont crossing/fb) URL",
+        "sentiment_score": 0.9984315037727356,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.887819230556488
+    },
+    {
+        "tweet_id": "693822949456007169",
+        "content": "german forest ranger finds that trees have social networks, too URL URL",
+        "sentiment_score": 0.9965560436248779,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8203872442245483
+    },
+    {
+        "tweet_id": "693217698482933760",
+        "content": ".@cornelwest joins @berniesanders for rally in davenport, iowa. watch live: URL URL",
+        "sentiment_score": 0.9021828770637512,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.43622687458992004
+    },
+    {
+        "tweet_id": "699252269414354944",
+        "content": "a eulogy for the show that changed kids' tv forever: #gravityfalls URL URL",
+        "sentiment_score": 0.7168914675712585,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.3584918677806854
+    },
+    {
+        "tweet_id": "690954487322796032",
+        "content": "fact: for the first time ever, more than 90% of americans have health coverage. #acaworks URL",
+        "sentiment_score": 0.6003097295761108,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.3437618613243103
+    },
+    {
+        "tweet_id": "692745861978263552",
+        "content": "one more day until friday... URL",
+        "sentiment_score": 0.9911380410194397,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5678733587265015
+    },
+    {
+        "tweet_id": "692692529779707904",
+        "content": "the @who sets up zika \"emergency team\" after \"explosive\" spread of the virus URL URL",
+        "sentiment_score": 0.9970801472663879,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.59134840965271
+    },
+    {
+        "tweet_id": "686701278785843200",
+        "content": ".@selenagomez was on the prowl for hot guys at the #instyleglobes after-party: URL URL",
+        "sentiment_score": 0.9871776103973389,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.634323239326477
+    },
+    {
+        "tweet_id": "621025025806577664",
+        "content": "sure, first you dump pluto by calling it a dwarf planet, then you drive by its house to make sure it\u2019s not dating any other solar systems.",
+        "sentiment_score": 0.9986547231674194,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9529389142990112
+    },
+    {
+        "tweet_id": "693123067204243456",
+        "content": ".@potus announces new rule aimed to advance #equalpay URL URL",
+        "sentiment_score": 0.9596200585365295,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.44947516918182373
+    },
+    {
+        "tweet_id": "692453106622275585",
+        "content": "chat about @mtvteenwolf with @mandaaabearr + @kaitiii URL",
+        "sentiment_score": 0.9829666614532471,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7630462050437927
+    },
+    {
+        "tweet_id": "685232704774787072",
+        "content": "traffic camera accidentally snaps beautiful photo of a snowy owl \u2014 URL URL",
+        "sentiment_score": 0.9800501465797424,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6058937907218933
+    },
+    {
+        "tweet_id": "685473149291479040",
+        "content": "elvis presley was born on this day in 1935 URL URL",
+        "sentiment_score": 0.7607362270355225,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5987110733985901
+    },
+    {
+        "tweet_id": "676970570160988160",
+        "content": "talk times @ 2nd brk cruz 13:18 rubio 12:01 trump 10:30 paul 9:00 christie 8:39 bush 8:27 kasich 8:21 carson 7:55 fiorina 7:27 #nprdebate",
+        "sentiment_score": 0.8823851346969604,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.32061174511909485
+    },
+    {
+        "tweet_id": "767580827513397252",
+        "content": "mexican president pena nieto plagiarized law thesis, report says URL URL",
+        "sentiment_score": 0.9909046292304993,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7600097060203552
+    },
+    {
+        "tweet_id": "691700082601758720",
+        "content": "\"ted cruz is by far the most consistent conservative in that crowd.\" URL | ap photo URL",
+        "sentiment_score": 0.9930383563041687,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8519726395606995
+    },
+    {
+        "tweet_id": "665498651742085124",
+        "content": "poland says cannot accept migrants under eu quotas after paris attacks. more updates: URL URL",
+        "sentiment_score": 0.9932194352149963,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6286060214042664
+    },
+    {
+        "tweet_id": "693501482721681408",
+        "content": "on this date in 1996, magic johnson returned to the nba more than four years after testing positive for hiv. URL",
+        "sentiment_score": 0.9176246523857117,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7921712398529053
+    },
+    {
+        "tweet_id": "692922211338981377",
+        "content": "the bank of japan introduces negative interest rates to counter the ongoing economic slump, in a surprise move. URL",
+        "sentiment_score": 0.985160231590271,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.9178683161735535
+    },
+    {
+        "tweet_id": "687956181646753792",
+        "content": "here's the letter alan rickman wrote for us back in 2011, upon completing harry potter & the deathly hallows: URL",
+        "sentiment_score": 0.9872086644172668,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6065192818641663
+    },
+    {
+        "tweet_id": "689555819059351552",
+        "content": "so-called islamic state's propaganda magazine confirms british militant known as jihadi john died in november URL",
+        "sentiment_score": 0.9971674084663391,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8337535858154297
+    },
+    {
+        "tweet_id": "689549346875031552",
+        "content": "islamic state has confirmed 'jihadi john' is dead following reports he was killed in a drone strike in raqqa last year",
+        "sentiment_score": 0.9962530136108398,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.70164954662323
+    },
+    {
+        "tweet_id": "762775964224847872",
+        "content": "watch @potus and @flotus share their favorite olympic memories\u2014and cheer on #teamusa: URL URL",
+        "sentiment_score": 0.9626968502998352,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9902749061584473
+    },
+    {
+        "tweet_id": "692405195796529152",
+        "content": "convicted killer levi bellfield finally admits to murder of schoolgirl milly dowler in 2002, police say URL",
+        "sentiment_score": 0.979303240776062,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6636823415756226
+    },
+    {
+        "tweet_id": "767355933919997952",
+        "content": "suicide bomber who killed at least 50 in turkey was aged 12-14, state-run news agency quotes president as saying. URL",
+        "sentiment_score": 0.9826127290725708,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.3607850968837738
+    },
+    {
+        "tweet_id": "692840850141753347",
+        "content": "james mcavoy makes that another vote for #batman. do you agree? let us know with '#empirebvs'. URL",
+        "sentiment_score": 0.9233843684196472,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4697440266609192
+    },
+    {
+        "tweet_id": "767462297270968321",
+        "content": "this was team usa's largest margin of victory in a gold-medal game since the dream team beat croatia by 32 in 1992. URL",
+        "sentiment_score": 0.9994301199913025,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4051748812198639
+    },
+    {
+        "tweet_id": "693456387880402944",
+        "content": "get ready to binge watch - the #gilmoregirls are coming back, this time to @netflix URL URL",
+        "sentiment_score": 0.9804054498672485,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.629184901714325
+    },
+    {
+        "tweet_id": "766299795833102336",
+        "content": "after initial dq, us women reinstated, will re-run 4x100m relay in bid to make final. URL URL",
+        "sentiment_score": 0.9895110726356506,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9110845923423767
+    },
+    {
+        "tweet_id": "693618217667928068",
+        "content": "just when we thought we couldn't love steve carell more, he helps carol burnett up to the #sagawards stage. \u2764 URL",
+        "sentiment_score": 0.9916661381721497,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.3461388647556305
+    },
+    {
+        "tweet_id": "692336523090509824",
+        "content": "ai weiwei closes his copenhagen exhibit in protest of denmark's new asylum seeker law URL",
+        "sentiment_score": 0.9980798959732056,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9685607552528381
+    },
+    {
+        "tweet_id": "692537942439501824",
+        "content": "astronomers say they have confirmed the existence of the galaxy's largest solar system. URL",
+        "sentiment_score": 0.9760322570800781,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8117435574531555
+    },
+    {
+        "tweet_id": "682629960826224646",
+        "content": "live: dubai hotel on fire near the burj khalifa tower. URL URL",
+        "sentiment_score": 0.9817625284194946,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8761784434318542
+    },
+    {
+        "tweet_id": "692217618778972161",
+        "content": "2 people killed & 3 hurt at seattle area homeless encampment, police say. the shooter is at large. URL",
+        "sentiment_score": 0.9771046042442322,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.643384575843811
+    },
+    {
+        "tweet_id": "692382471061663744",
+        "content": "today marks 71 yrs since the liberation of auschwitz, \u201ccity of death\u201d URL #holocaustmemorialday URL",
+        "sentiment_score": 0.9205000400543213,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7924244999885559
+    },
+    {
+        "tweet_id": "693408117225299968",
+        "content": "the challenges saudi women face as they vote and stand in elections for the first time \ud83d\udcfa URL URL",
+        "sentiment_score": 0.9748722314834595,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6058471202850342
+    },
+    {
+        "tweet_id": "688281442162352128",
+        "content": "siege over at burkina faso hotel taken by suspected islamist gunmen, but reports say nearby hotel attacked URL",
+        "sentiment_score": 0.9940869808197021,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6473422050476074
+    },
+    {
+        "tweet_id": "691327238353129472",
+        "content": "congress allocates $90 million to protect remaining eagles members URL URL",
+        "sentiment_score": 0.9788137674331665,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9105193018913269
+    },
+    {
+        "tweet_id": "690985215691354112",
+        "content": "trump on supporters: \"i could stand in the middle of 5th ave. and shoot somebody and i wouldn't lose any voters.\" URL",
+        "sentiment_score": 0.6420422792434692,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5883413553237915
+    },
+    {
+        "tweet_id": "691564354567798784",
+        "content": "explorer henry worsley dies after suffering exhaustion and dehydration during solo antarctic crossing attempt URL",
+        "sentiment_score": 0.9995336532592773,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8913803100585938
+    },
+    {
+        "tweet_id": "692287441168900097",
+        "content": "appeal court judges rule so-called bedroom tax is discriminatory in two cases brought against uk government URL",
+        "sentiment_score": 0.9892906546592712,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6829643845558167
+    },
+    {
+        "tweet_id": "687639526282498049",
+        "content": "congratulations, jennifer lawrence! URL #oscarnoms #oscars URL",
+        "sentiment_score": 0.9992507100105286,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.7513957619667053
+    },
+    {
+        "tweet_id": "693807822971236353",
+        "content": ".@berniesanders: @hillaryclinton's emails are a \"very serious issue\" URL URL",
+        "sentiment_score": 0.969600260257721,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8251690864562988
+    },
+    {
+        "tweet_id": "693560600471863296",
+        "content": "miami was desperate for a turnover. instead, nc state got this dunk. and a big upset win: URL",
+        "sentiment_score": 0.9949984550476074,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.32729899883270264
+    },
+    {
+        "tweet_id": "691351064868732928",
+        "content": "this week in sports: bill belichick visits hospital to watch terminally ill fan die URL URL",
+        "sentiment_score": 0.9937602877616882,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5203542113304138
+    },
+    {
+        "tweet_id": "767482587879051265",
+        "content": "crowd chants 'do your job!' at cnn crew... URL",
+        "sentiment_score": 0.9570923447608948,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8751916885375977
+    },
+    {
+        "tweet_id": "767845555313774593",
+        "content": "minor leaguer hits grand slam, later finds out that he broke his own windshield URL URL",
+        "sentiment_score": 0.9966357350349426,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.6197367906570435
+    },
+    {
+        "tweet_id": "767094580634202112",
+        "content": "\"as fdr once said: 'there is nothing so american as our national parks'\" \u2014@potus #nps100 #findyourpark URL",
+        "sentiment_score": 0.9819155931472778,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7682002782821655
+    },
+    {
+        "tweet_id": "692391757775028228",
+        "content": ".@justinbieber and @kendalljenner strip down for their new @calvinklein ads: URL \ud83d\ude0d URL",
+        "sentiment_score": 0.9974117875099182,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7314749360084534
+    },
+    {
+        "tweet_id": "693198912660885505",
+        "content": "area dad just wants to watch one 7-hour block of television without interruption URL URL",
+        "sentiment_score": 0.7207432985305786,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9087862968444824
+    },
+    {
+        "tweet_id": "766316494695305218",
+        "content": " URL to end operations next week: URL",
+        "sentiment_score": 0.9886016249656677,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8832600116729736
+    },
+    {
+        "tweet_id": "693162950358622208",
+        "content": "one direction fans have a lot of mixed emotions about zayn's #pillowtalk. what do you think? URL URL",
+        "sentiment_score": 0.9911059737205505,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.40864136815071106
+    },
+    {
+        "tweet_id": "691027026552229888",
+        "content": "donald trump spokesperson decried lack of \"pure breeds\" running for president URL URL",
+        "sentiment_score": 0.9918105602264404,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6223427057266235
+    },
+    {
+        "tweet_id": "689236842454106113",
+        "content": "\"i believe we\u2019ve got to take steps to modernize our unemployment insurance system.\" \u2014@potus URL URL",
+        "sentiment_score": 0.9979242086410522,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.37492474913597107
+    },
+    {
+        "tweet_id": "693629063932596224",
+        "content": "leo's first sag. #sagawards URL",
+        "sentiment_score": 0.9994033575057983,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.32847264409065247
+    },
+    {
+        "tweet_id": "693921710383337472",
+        "content": "a conversation with x japan\u2019s yoshiki and documentarian stephen kijak URL URL",
+        "sentiment_score": 0.9769709706306458,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4162554442882538
+    },
+    {
+        "tweet_id": "692800345274241025",
+        "content": "13 truth bombs @zaynmalik dropped in his first solo broadcast interview: URL #zaynonbeats1 URL",
+        "sentiment_score": 0.9948175549507141,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.30847468972206116
+    },
+    {
+        "tweet_id": "690252631822864384",
+        "content": "2009: @potus bet big on rescuing the american auto industry. today: it's roaring back. URL URL",
+        "sentiment_score": 0.9870362877845764,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.41654032468795776
+    },
+    {
+        "tweet_id": "693443289370882049",
+        "content": "\"we have to make sure all our kids are equipped for the jobs of the future.\" \u2014@potus #csforall URL",
+        "sentiment_score": 0.9960810542106628,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.39743945002555847
+    },
+    {
+        "tweet_id": "692127290998784001",
+        "content": "disney world opens new ordeal kingdom for family meltdowns URL URL",
+        "sentiment_score": 0.9513705372810364,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.562487006187439
+    },
+    {
+        "tweet_id": "692792765852286977",
+        "content": "dorm room decorated with empty bottles of adderall URL",
+        "sentiment_score": 0.9996370077133179,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.2800067365169525
+    },
+    {
+        "tweet_id": "686421576904916992",
+        "content": "sister \u2764\ufe0f @kyliejenner @kourtneykardash at the #instyleglobes bash #goldenglobes URL",
+        "sentiment_score": 0.9767287969589233,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.582001805305481
+    },
+    {
+        "tweet_id": "767170849472405508",
+        "content": "olympics: us women win 6th straight 4x400m-relay gold, giving allyson felix 6 career golds. URL URL",
+        "sentiment_score": 0.9759077429771423,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.7218780517578125
+    },
+    {
+        "tweet_id": "692031514943582208",
+        "content": "briton who filmed himself abusing girls as young as eight in the philippines sentenced in uk to more than 19 years URL",
+        "sentiment_score": 0.9945730566978455,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.44845864176750183
+    },
+    {
+        "tweet_id": "692056985513123840",
+        "content": "no evidence found of gunfire at naval medical center san diego, but building search continues, military says. URL",
+        "sentiment_score": 0.9968211650848389,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.4651668667793274
+    },
+    {
+        "tweet_id": "693662456393134080",
+        "content": "donald trump is the least favorably viewed presidential candidate since at least 1992 URL",
+        "sentiment_score": 0.9930053353309631,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.863541841506958
+    },
+    {
+        "tweet_id": "692024256520179712",
+        "content": ".@onedirection's new music video for \"history\" is a walk down memory lane: URL #1dhistoryvideo URL",
+        "sentiment_score": 0.9665327072143555,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.603300154209137
+    },
+    {
+        "tweet_id": "693729678306189313",
+        "content": "\"an extraordinary broadcaster\" - tributes paid to sir terry wogan who has died aged 77 URL URL",
+        "sentiment_score": 0.9987381100654602,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5061039924621582
+    },
+    {
+        "tweet_id": "692472216135569409",
+        "content": "michigan gov. @onetoughnerd: #flintwatercrisis may affect \"many more\" children. URL URL",
+        "sentiment_score": 0.9672776460647583,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9795179963111877
+    },
+    {
+        "tweet_id": "693853982293254144",
+        "content": ".@drzuhdijasser: \"it's disgraceful that this is...the mosque that [@potus] picked to be the first visit.\" @ffweekend URL",
+        "sentiment_score": 0.9996755123138428,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7393258810043335
+    },
+    {
+        "tweet_id": "688441130271289350",
+        "content": "from the bb vault: donald trump's dad arrested in kkk brawl with cops URL URL",
+        "sentiment_score": 0.9907658100128174,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7275380492210388
+    },
+    {
+        "tweet_id": "693140568143220736",
+        "content": "jack white and avett brothers premiered a six-part music doc at #sundance. our report URL URL",
+        "sentiment_score": 0.9841989278793335,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5456172823905945
+    },
+    {
+        "tweet_id": "690174644071047168",
+        "content": "smart people are as racist as less-smart people\u2014but smart enough to hide it: URL URL",
+        "sentiment_score": 0.5536091923713684,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6244415640830994
+    },
+    {
+        "tweet_id": "661184793342775296",
+        "content": "14 things successful people do before breakfast URL URL",
+        "sentiment_score": 0.999090313911438,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8971228003501892
+    },
+    {
+        "tweet_id": "693492349142433792",
+        "content": "japan's first stealth fighter unveiled URL URL",
+        "sentiment_score": 0.9383919835090637,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5687883496284485
+    },
+    {
+        "tweet_id": "693136527816331264",
+        "content": "a tiny alpine town in northern italy just welcomed its first baby in 28 years \ud83c\udf7c\ud83d\udc76 URL URL",
+        "sentiment_score": 0.9902653098106384,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.925590455532074
+    },
+    {
+        "tweet_id": "692510002586714113",
+        "content": "\"when any jew anywhere is targeted, just for being jewish, we must respond, together\" \u2014@potus at @israelinusa URL",
+        "sentiment_score": 0.981955349445343,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.4975167512893677
+    },
+    {
+        "tweet_id": "764473554431725568",
+        "content": "we've only got one planet. watch @potus share the progress we've made to protect it. #actonclimate URL",
+        "sentiment_score": 0.9964175224304199,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.3640028238296509
+    },
+    {
+        "tweet_id": "690920430287331328",
+        "content": "internet of things security is so bad, there\u2019s a search engine for sleeping kids URL",
+        "sentiment_score": 0.9998134970664978,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.5102367401123047
+    },
+    {
+        "tweet_id": "692267960686284800",
+        "content": "french justice minister quits in apparent protest at plan to strip citizenship from people convicted of terrorism URL",
+        "sentiment_score": 0.9990466237068176,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8776918053627014
+    },
+    {
+        "tweet_id": "691791477912014850",
+        "content": "obama gently guides michelle\u2019s hand as she maneuvers drone joystick URL URL",
+        "sentiment_score": 0.9967052340507507,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9125360250473022
+    },
+    {
+        "tweet_id": "764620072228970496",
+        "content": "ibtihaj muhammad wins bronze in fencing, becomes first u.s. olympian to compete in a hijab: URL URL",
+        "sentiment_score": 0.9677695631980896,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.47997596859931946
+    },
+    {
+        "tweet_id": "690676539323740161",
+        "content": "at least two people are dead in a shooting at a school in northern saskatchewan, canadian government official said URL",
+        "sentiment_score": 0.9976785778999329,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8226802349090576
+    },
+    {
+        "tweet_id": "692031224227958789",
+        "content": "reports of an active gunman at san diego navy medical centre URL",
+        "sentiment_score": 0.9868462681770325,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9021434783935547
+    },
+    {
+        "tweet_id": "693792605755285504",
+        "content": "at least 45 killed in triple bombing near damascus URL",
+        "sentiment_score": 0.9833446145057678,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6455495357513428
+    },
+    {
+        "tweet_id": "692709993573789701",
+        "content": "icymi: tom brady penned a heartfelt thank-you note to patriots fans. URL URL",
+        "sentiment_score": 0.9980631470680237,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.7746768593788147
+    },
+    {
+        "tweet_id": "693236688538243074",
+        "content": "is the truth out there? in nod to @thexfiles, @cia releases hundreds of declassified docs URL URL",
+        "sentiment_score": 0.9962616562843323,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5700922608375549
+    },
+    {
+        "tweet_id": "693484841011060737",
+        "content": ".@tedcruz: \"bernie is a socialist and he admits it. hillary is a socialist and she pretends she's not.\" @teamcavuto URL",
+        "sentiment_score": 0.9654960036277771,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5921186804771423
+    },
+    {
+        "tweet_id": "693523133920342016",
+        "content": "quote of the day URL URL",
+        "sentiment_score": 0.8056237697601318,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8976916670799255
+    },
+    {
+        "tweet_id": "693804630615166977",
+        "content": "research on which matters more: \"leadership qualities\" or competence URL URL",
+        "sentiment_score": 0.7827406525611877,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9338487386703491
+    },
+    {
+        "tweet_id": "693098795022725120",
+        "content": "the las vegas raiders? URL URL",
+        "sentiment_score": 0.9910292625427246,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5898587107658386
+    },
+    {
+        "tweet_id": "689103487880310785",
+        "content": "at least three french soldiers killed in avalanche in the alps during training exercise - french media URL",
+        "sentiment_score": 0.9933347702026367,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6939859390258789
+    },
+    {
+        "tweet_id": "688147918113538049",
+        "content": "hostages taken and people killed in attack on burkina faso hotel by militants, foreign minister says URL",
+        "sentiment_score": 0.9874836206436157,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.45005521178245544
+    },
+    {
+        "tweet_id": "678733118648524800",
+        "content": "you all do know it\u2019s mostly long articles about books, right? URL",
+        "sentiment_score": 0.993509829044342,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9364461898803711
+    },
+    {
+        "tweet_id": "692134721195786240",
+        "content": "the always hilarious @shelleyhennig has taken over the @mtvteenwolf vine and it's as amazing as it sounds. URL",
+        "sentiment_score": 0.9998489618301392,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9330524206161499
+    },
+    {
+        "tweet_id": "693481256735150082",
+        "content": "up to 100 masked men, dressed in black, involved in \"migrant attack\" in stockholm URL URL",
+        "sentiment_score": 0.9888558983802795,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7666765451431274
+    },
+    {
+        "tweet_id": "693658242044542976",
+        "content": "stephen curry is taking\u2014and making\u2014more absurdly long 3-pointers than ever. URL via @wsjsports URL",
+        "sentiment_score": 0.9968953132629395,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4978750944137573
+    },
+    {
+        "tweet_id": "687911282922631168",
+        "content": "al-shabab militants overrun african union base in somalia, amid unconfirmed claims of dozens of soldiers killed URL",
+        "sentiment_score": 0.9956372380256653,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7298755645751953
+    },
+    {
+        "tweet_id": "693079616072880128",
+        "content": "i'm sorry, but i can't do anything today because i'll be watching #pillowtalk on repeat: URL URL",
+        "sentiment_score": 0.9986714124679565,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9647963643074036
+    },
+    {
+        "tweet_id": "692932696645865472",
+        "content": "\"i almost started crying ... but i didn't want them to make me the crying face instead of jordan.\" --draymond green URL",
+        "sentiment_score": 0.9823119640350342,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6768427491188049
+    },
+    {
+        "tweet_id": "692742353736568833",
+        "content": "man arrested with two firearms at entrance to hotel at disneyland paris, french media report URL",
+        "sentiment_score": 0.982657253742218,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.39644667506217957
+    },
+    {
+        "tweet_id": "693485676881403905",
+        "content": "a sloth clings to a pole in ecuador ... and so much more. see the week in 37 photos URL URL",
+        "sentiment_score": 0.9733549952507019,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5155173540115356
+    },
+    {
+        "tweet_id": "692736398462300162",
+        "content": "house for sale. asking price? super bowl 50 tickets. well-played, steelers fan. URL URL",
+        "sentiment_score": 0.9962013363838196,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4198106527328491
+    },
+    {
+        "tweet_id": "688763099298529280",
+        "content": "oregon domestic terrorists now destroying public property in earnest URL URL",
+        "sentiment_score": 0.9992172718048096,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8836154937744141
+    },
+    {
+        "tweet_id": "693131575261659137",
+        "content": "\"let's not make the next two weeks about a 'black qb.' let's just talk about the greatness of this guy.\" -c. barkley URL",
+        "sentiment_score": 0.9480699300765991,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9339919090270996
+    },
+    {
+        "tweet_id": "692491478619262976",
+        "content": "#sweden's interior minister says the country intends to expel up to 80,000 migrants whose applications for asylum have been rejected",
+        "sentiment_score": 0.9740238785743713,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.35803860425949097
+    },
+    {
+        "tweet_id": "692925163994796033",
+        "content": "home. URL",
+        "sentiment_score": 0.5807083249092102,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9210830330848694
+    },
+    {
+        "tweet_id": "692735354240114688",
+        "content": "why the year's most anticipated pop lp, rihanna's 'anti,' is an inward-searching curveball URL URL",
+        "sentiment_score": 0.5446653366088867,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7453717589378357
+    },
+    {
+        "tweet_id": "693573042111270912",
+        "content": ".@danaperino\u200b: \"if i were in... legal trouble, i would call @hillaryclinton to find out how do you get out of it.\" URL",
+        "sentiment_score": 0.9976664781570435,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.44128814339637756
+    },
+    {
+        "tweet_id": "682548344690970624",
+        "content": "live: follow the #nye2016 celebrations around the world. currently live from sydney: URL URL",
+        "sentiment_score": 0.5154474973678589,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8695566058158875
+    },
+    {
+        "tweet_id": "693631772639145984",
+        "content": "@eonline started from the bottom now the whole team's here. #sagawards URL",
+        "sentiment_score": 0.7920017242431641,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7325207591056824
+    },
+    {
+        "tweet_id": "692881863644282880",
+        "content": "paul kantner, founding member of jefferson airplane, dies at 74, publicist says - san francisco gate URL",
+        "sentiment_score": 0.9994382262229919,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9167736172676086
+    },
+    {
+        "tweet_id": "693476901772513280",
+        "content": "at least 39 migrants, including children, drown as boat sinks between turkey & greece URL URL",
+        "sentiment_score": 0.9993064403533936,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8006014823913574
+    },
+    {
+        "tweet_id": "690915657106526208",
+        "content": "36 best quotes from davos 2016 URL URL",
+        "sentiment_score": 0.9947832226753235,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5905861854553223
+    },
+    {
+        "tweet_id": "693487871806689280",
+        "content": "doctor of \"concussion\" fame willing to \"bet my medical license\" that o.j. simpson has cte: URL URL",
+        "sentiment_score": 0.9786078333854675,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8377775549888611
+    },
+    {
+        "tweet_id": "693121477491757056",
+        "content": "\"the typical woman who works full-time still earns 79 cents for every dollar the typical man does.\" \u2014@potus URL",
+        "sentiment_score": 0.9889618754386902,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7113059163093567
+    },
+    {
+        "tweet_id": "692924229017309184",
+        "content": "the real takeaway from the #gopdebate? this ted cruz snub. URL",
+        "sentiment_score": 0.9975792765617371,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.3199101388454437
+    },
+    {
+        "tweet_id": "688027085730897921",
+        "content": "ninety took drug in french clinical trial that left one brain-dead and five more hospitalised, health minister says URL",
+        "sentiment_score": 0.9918165802955627,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7960391640663147
+    },
+    {
+        "tweet_id": "692063305297453060",
+        "content": "teacher picks wrong student to believe in every fucking year URL URL",
+        "sentiment_score": 0.9982203841209412,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.881127119064331
+    },
+    {
+        "tweet_id": "693355140284334081",
+        "content": "russian fighter came within 15 feet of u.s. air force jet. URL URL",
+        "sentiment_score": 0.974045991897583,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7207000255584717
+    },
+    {
+        "tweet_id": "689722724470620161",
+        "content": "taliban says it is behind #bachakhanuniattack that left at least 19 dead, pakistani media report URL",
+        "sentiment_score": 0.9950593709945679,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8600645065307617
+    },
+    {
+        "tweet_id": "766358933296517121",
+        "content": "american swimmers who claimed that they were robbed in rio should apologize to residents, brazilian police said. URL",
+        "sentiment_score": 0.9951268434524536,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6096460819244385
+    },
+    {
+        "tweet_id": "651858133304782848",
+        "content": "maximum-security inmates just destroyed the harvard debate team in prison competition. URL URL",
+        "sentiment_score": 0.9996610879898071,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7153740525245667
+    },
+    {
+        "tweet_id": "766307327922335745",
+        "content": "us justice department will phase out use of privately owned prisons, citing safety concerns URL",
+        "sentiment_score": 0.9992175102233887,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.43031030893325806
+    },
+    {
+        "tweet_id": "765141361033109504",
+        "content": "man who died after being shot with taser by police in shropshire believed to be ex-football star dalian atkinson URL",
+        "sentiment_score": 0.9963982105255127,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8624396324157715
+    },
+    {
+        "tweet_id": "767737100347191297",
+        "content": ".@realdonaldtrump's son, eric, slams @hillaryclinton & @potus for their response to flooding in #louisiana. URL",
+        "sentiment_score": 0.9876255393028259,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7209292054176331
+    },
+    {
+        "tweet_id": "691410231549530112",
+        "content": "deadline to enroll for 2016 health coverage is almost here\u2014sign up by jan. 31: URL #getcovered URL",
+        "sentiment_score": 0.9934203028678894,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8074506521224976
+    },
+    {
+        "tweet_id": "692818857187213313",
+        "content": "lego reveals new young disabled figure after #toylikeme campaign URL URL",
+        "sentiment_score": 0.962445855140686,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5721977949142456
+    },
+    {
+        "tweet_id": "767154835993063425",
+        "content": "olympics: matthew centrowitz wins men's 1,500m race, first gold for us in event since 1908. URL URL",
+        "sentiment_score": 0.9953108429908752,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.45144176483154297
+    },
+    {
+        "tweet_id": "764505291853627392",
+        "content": "rip kenny baker, the actor behind legendary star wars droid r2-d2: URL URL",
+        "sentiment_score": 0.9807116389274597,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.69386225938797
+    },
+    {
+        "tweet_id": "693622130735484929",
+        "content": "saudi prince takes on trump on twitter: \"i bailed you out twice\" URL URL",
+        "sentiment_score": 0.9663199186325073,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6500952839851379
+    },
+    {
+        "tweet_id": "692497796956561408",
+        "content": "uk to accept some child refugees from syria and other conflict zones but not those who have fled to europe URL",
+        "sentiment_score": 0.9718073606491089,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5387002825737
+    },
+    {
+        "tweet_id": "688752484966363136",
+        "content": "\"we still have sanctions on iran for its violations of human rights\u2014for its support for terrorism &...its ballistic missile program\" \u2014@potus",
+        "sentiment_score": 0.9654313325881958,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8019120693206787
+    },
+    {
+        "tweet_id": "766638613320859648",
+        "content": "donald trump's campaign chairman paul manafort resigns URL",
+        "sentiment_score": 0.9991482496261597,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7195443511009216
+    },
+    {
+        "tweet_id": "693344498953383936",
+        "content": "u.s. navy sends ship near contested island in south china sea to challenge claims by china, taiwan and vietnam. URL",
+        "sentiment_score": 0.928623616695404,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8366983532905579
+    },
+    {
+        "tweet_id": "688437279405305856",
+        "content": "we're keeping c\u00e9line dion in our thoughts--her brother daniel has died of cancer at age 59: URL URL",
+        "sentiment_score": 0.9971901774406433,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9468961358070374
+    },
+    {
+        "tweet_id": "693087256727388161",
+        "content": "maoist cult leader aravindan balakrishnan jailed for 23 years for string of sex assaults in london URL",
+        "sentiment_score": 0.9925652742385864,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.3604987561702728
+    },
+    {
+        "tweet_id": "693082547664883712",
+        "content": "person one season ahead in tv show doling out counsel like wise elder URL URL",
+        "sentiment_score": 0.8917955756187439,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8451234102249146
+    },
+    {
+        "tweet_id": "691600834707247104",
+        "content": "top snowfall totals by state #blizzard2016 URL",
+        "sentiment_score": 0.8189985156059265,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4751564562320709
+    },
+    {
+        "tweet_id": "687617735833026560",
+        "content": "he was severus snape. he was the sheriff of nottingham. he was alexander dane. he was, of course, hans gruber. we are devastated.",
+        "sentiment_score": 0.9925997257232666,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9814961552619934
+    },
+    {
+        "tweet_id": "692734579141185536",
+        "content": "oracle is finally killing, java. rest in hell, java. URL URL",
+        "sentiment_score": 0.999639630317688,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.4954163730144501
+    },
+    {
+        "tweet_id": "692047663211085825",
+        "content": "have you seen our exclusive @batmanvsuperman pics yet? URL URL",
+        "sentiment_score": 0.9937773942947388,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6941617131233215
+    },
+    {
+        "tweet_id": "693160939802214400",
+        "content": "first on cnn: @tommychong wants @berniesanders for next \"commander in kush\" URL URL",
+        "sentiment_score": 0.9947057366371155,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6039178371429443
+    },
+    {
+        "tweet_id": "692142338890661888",
+        "content": "ex-new york giants safety tyler sash, who died at 27, found to have degenerative brain disease c.t.e. - ny times URL",
+        "sentiment_score": 0.9956824779510498,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8248211145401001
+    },
+    {
+        "tweet_id": "693554007785234432",
+        "content": "one person dead, many taken to hospital after shootings, stabbing at denver coliseum, police say. URL",
+        "sentiment_score": 0.9970290064811707,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8654278516769409
+    },
+    {
+        "tweet_id": "688751183645782016",
+        "content": "\"we\u2019ve achieved this historic progress through diplomacy, without resorting to another war in the middle east.\" \u2014@potus #irandeal",
+        "sentiment_score": 0.9994714856147766,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6035935878753662
+    },
+    {
+        "tweet_id": "693769968199061504",
+        "content": "dozens of people were killed in car bomb, 2 suicide bombings near damascus, syria, state media says. URL",
+        "sentiment_score": 0.996319055557251,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7611531615257263
+    },
+    {
+        "tweet_id": "693916809125351425",
+        "content": "study: 90% of workplace injuries caused by bare-knuckle boxing URL URL",
+        "sentiment_score": 0.9929400682449341,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.592508852481842
+    },
+    {
+        "tweet_id": "693139276708585472",
+        "content": "retreating clinton campaign torches iowa town to slow advance of sanders volunteers URL URL",
+        "sentiment_score": 0.9980738162994385,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7964310050010681
+    },
+    {
+        "tweet_id": "767330549262278658",
+        "content": "part 1: nate diaz part 2: conor mcgregor can we expect a trilogy? URL",
+        "sentiment_score": 0.9803745150566101,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7967382073402405
+    },
+    {
+        "tweet_id": "665302351742275584",
+        "content": "breaking: hollande decides state of emergency for all of france, borders closed. URL URL",
+        "sentiment_score": 0.8968702554702759,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.618887186050415
+    },
+    {
+        "tweet_id": "691206970074738688",
+        "content": "greek islanders to be nominated for nobel peace prize URL URL",
+        "sentiment_score": 0.7770504951477051,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4157677888870239
+    },
+    {
+        "tweet_id": "767463109778894848",
+        "content": "a golden send-off. in his final olympics, carmelo anthony becomes the first man to win three hoops gold medals. URL",
+        "sentiment_score": 0.9970868229866028,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8928926587104797
+    },
+    {
+        "tweet_id": "693802524579618816",
+        "content": ".@tedcruz: @marcorubio \"broke his promise to the american people\" on immigration URL #cnnsotu URL",
+        "sentiment_score": 0.9889184832572937,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.3155810236930847
+    },
+    {
+        "tweet_id": "693122701569974273",
+        "content": "\"we\u2019ve still got to make sure women aren\u2019t penalized or held back in the workplace simply for starting a family. \" \u2014@potus #womensucceed",
+        "sentiment_score": 0.8656575679779053,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6801157593727112
+    },
+    {
+        "tweet_id": "693629498177253376",
+        "content": "kate winslet and leonardo dicaprio #sagawards embrace, we repeat kate and leo sag awards embrace. \u2764 URL",
+        "sentiment_score": 0.9887154698371887,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5915564298629761
+    },
+    {
+        "tweet_id": "641665203046907904",
+        "content": "apple just invented the pencil. #appleevent URL",
+        "sentiment_score": 0.9902980923652649,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4123068153858185
+    },
+    {
+        "tweet_id": "691889802724118532",
+        "content": "an american woman on vacation in grenada was killed after she was attacked by a man with a machete. URL",
+        "sentiment_score": 0.9969423413276672,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5867053270339966
+    },
+    {
+        "tweet_id": "692463948076093440",
+        "content": "some #wednesdaywisdom from #thelionking \ud83c\udf1f URL",
+        "sentiment_score": 0.9884804487228394,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5582544207572937
+    },
+    {
+        "tweet_id": "691006265137299456",
+        "content": "changing jobs? going back to school? small business owner? here's how the affordable care act is working for you. URL",
+        "sentiment_score": 0.9943602681159973,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.520426332950592
+    },
+    {
+        "tweet_id": "692946556396244992",
+        "content": "this young warriors fan wants riley curry to be his valentine. what does pops have to say about that? URL",
+        "sentiment_score": 0.991802990436554,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9361122846603394
+    },
+    {
+        "tweet_id": "689798164287741953",
+        "content": "suspected suicide car bomb blast near russian embassy in afghan capital, kabul - reports URL",
+        "sentiment_score": 0.9924867153167725,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8647107481956482
+    },
+    {
+        "tweet_id": "693125234317086720",
+        "content": "the on air broadcast premiere of @zaynmalik's #pillowtalk is on mtv at 8:15p. be there \ud83d\udd25 URL URL",
+        "sentiment_score": 0.9921063184738159,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.35291892290115356
+    },
+    {
+        "tweet_id": "690680310061756416",
+        "content": "five people killed and two others seriously wounded in school shooting in western canada, pm justin trudeau says URL",
+        "sentiment_score": 0.9915040135383606,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8660576939582825
+    },
+    {
+        "tweet_id": "693512850539683842",
+        "content": "obama gently guides michelle\u2019s hand as she maneuvers drone joystick URL URL",
+        "sentiment_score": 0.9967052340507507,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9125360250473022
+    },
+    {
+        "tweet_id": "693670046497935361",
+        "content": "the times editorial board endorses hillary clinton for the democratic nomination URL via @nytopinion",
+        "sentiment_score": 0.806484043598175,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6329508423805237
+    },
+    {
+        "tweet_id": "693116426824093696",
+        "content": "most companies pay little attention to how employees are feeling. this is a mistake. URL URL",
+        "sentiment_score": 0.9997736811637878,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5785716772079468
+    },
+    {
+        "tweet_id": "687766167558164481",
+        "content": "caitlyn jenner mourns the loss of bruce: \"maybe he didn't deserve to be gone.\" URL URL",
+        "sentiment_score": 0.995461642742157,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.978914737701416
+    },
+    {
+        "tweet_id": "643807909856415744",
+        "content": "the closest that adults can get to believing in santa claus again is when they forget that they\u2019ve ordered something from amazon.",
+        "sentiment_score": 0.9935571551322937,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8973002433776855
+    },
+    {
+        "tweet_id": "693912520923295745",
+        "content": "phil robertson: \"the reason i'm going for @tedcruz is that cruz loves god and james madison.\" @teamcavuto URL",
+        "sentiment_score": 0.8412982225418091,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9199994206428528
+    },
+    {
+        "tweet_id": "692854695262445568",
+        "content": "erm, will, that's not quite what we asked. let us know where you stand on #batman and #superman with '#empirebvs'. URL",
+        "sentiment_score": 0.9996980428695679,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.449138343334198
+    },
+    {
+        "tweet_id": "684488313512800256",
+        "content": "photos of the day URL URL",
+        "sentiment_score": 0.9420418739318848,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8214888572692871
+    },
+    {
+        "tweet_id": "765934198297362432",
+        "content": "judge issues search warrants, seizure of passports for 2 us swimmers, including ryan lochte, around alleged robbery. URL",
+        "sentiment_score": 0.9800698757171631,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.4915405809879303
+    },
+    {
+        "tweet_id": "693824042164436992",
+        "content": "boko haram burned children alive in attack on nigerian village, witness says URL",
+        "sentiment_score": 0.9900922179222107,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.86452716588974
+    },
+    {
+        "tweet_id": "693866093123915776",
+        "content": "officials: boko haram burns kids alive in nigeria, kill 86 people: URL",
+        "sentiment_score": 0.9955915808677673,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7546219825744629
+    },
+    {
+        "tweet_id": "692099058811453440",
+        "content": "apple reports slowest iphone sales growth since product's 2007 launch URL",
+        "sentiment_score": 0.9996378421783447,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5092193484306335
+    },
+    {
+        "tweet_id": "691380138710306816",
+        "content": "pentagon holds gala to celebrate 25 years of bombing iraq URL URL",
+        "sentiment_score": 0.9532818794250488,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8194159865379333
+    },
+    {
+        "tweet_id": "692113839387709444",
+        "content": "sad man tears 2 bananas off larger bunch URL URL",
+        "sentiment_score": 0.9892428517341614,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8053402900695801
+    },
+    {
+        "tweet_id": "692332739824095234",
+        "content": "greece has \"seriously neglected\" obligations to control external borders, european commission says in draft report URL",
+        "sentiment_score": 0.9958385229110718,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.3691120743751526
+    },
+    {
+        "tweet_id": "764449685897568256",
+        "content": "happy #lefthandersday URL",
+        "sentiment_score": 0.9905559420585632,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8786489963531494
+    },
+    {
+        "tweet_id": "767444114229059584",
+        "content": "halftime in rio. usa: 52 serbia: 29 kevin durant: 24 we see you, kd. URL",
+        "sentiment_score": 0.9989805817604065,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6439415812492371
+    },
+    {
+        "tweet_id": "692290126282649601",
+        "content": "the government's spare room subsidy or #bedroomtax has been declared discriminatory by court of appeal judges following two legal challenges",
+        "sentiment_score": 0.9984245300292969,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9149471521377563
+    },
+    {
+        "tweet_id": "766719302401613825",
+        "content": "dog dies after protecting 8-month-old baby girl from house fire in baltimore URL URL",
+        "sentiment_score": 0.9988744854927063,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8292854428291321
+    },
+    {
+        "tweet_id": "693686290408181760",
+        "content": "today\u2019s work world requires continuous growth and learning. here's a process to decide what skill to work on next: URL",
+        "sentiment_score": 0.9867847561836243,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9149231910705566
+    },
+    {
+        "tweet_id": "692023417575448576",
+        "content": "doctors should screen all adults for depression at least once, task force recommends. URL",
+        "sentiment_score": 0.9845814108848572,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8799279928207397
+    },
+    {
+        "tweet_id": "689853056440221696",
+        "content": "\u2018planet nine\u2019 may exist on the edge of our solar system, claim astronomers URL URL",
+        "sentiment_score": 0.8931859731674194,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9291722774505615
+    },
+    {
+        "tweet_id": "693102420688121856",
+        "content": "rt the good news: we're taking new steps to advance #equalpay for women \u2192 URL URL",
+        "sentiment_score": 0.9834195375442505,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.7358213067054749
+    },
+    {
+        "tweet_id": "688814621034213376",
+        "content": "al arabiya television station says three americans have reportedly been kidnapped in baghdad in iraq",
+        "sentiment_score": 0.9902051687240601,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6544800996780396
+    },
+    {
+        "tweet_id": "692364468442021889",
+        "content": ".@camilacabello97 played around with @justinbieber's #loveyourself and the outcome is absolutely beautiful. URL",
+        "sentiment_score": 0.9998373985290527,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9790888428688049
+    },
+    {
+        "tweet_id": "765863022506151937",
+        "content": "irish and european ioc chief patrick hickey arrested in rio over illegal olympic ticket sales, brazil media report URL",
+        "sentiment_score": 0.9957555532455444,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.3988626003265381
+    },
+    {
+        "tweet_id": "693239731031683072",
+        "content": "he's 17 and can squat 875(!) pounds. joseph pena is not of this world. URL",
+        "sentiment_score": 0.9949408769607544,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8614551424980164
+    },
+    {
+        "tweet_id": "687617323235147776",
+        "content": "extraordinarily sad news. the guardian is reporting that the great alan rickman has died at the age of 69. URL",
+        "sentiment_score": 0.9968752861022949,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9655566811561584
+    },
+    {
+        "tweet_id": "686422922894815233",
+        "content": ".@bilodope @emilybett @aishataylor at the #instyleglobes bash #goldenglobes URL",
+        "sentiment_score": 0.9764408469200134,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5248136520385742
+    },
+    {
+        "tweet_id": "693676692309700609",
+        "content": "an unexpected bond has developed between damaged parrots and traumatized veterans URL URL",
+        "sentiment_score": 0.9950940608978271,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.3614583909511566
+    },
+    {
+        "tweet_id": "693071700200722433",
+        "content": "forty percent of germans say merkel should resign over refugee policy: poll - URL URL",
+        "sentiment_score": 0.9959069490432739,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4166718125343323
+    },
+    {
+        "tweet_id": "692765809425408000",
+        "content": "gerrymandering is even more infuriating when you can actually see it URL URL",
+        "sentiment_score": 0.9985982775688171,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.979168176651001
+    },
+    {
+        "tweet_id": "691667941314662400",
+        "content": "from the vault: anatomical maquettes of fanciful creatures URL URL",
+        "sentiment_score": 0.6987007856369019,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7802472710609436
+    },
+    {
+        "tweet_id": "693534177694609409",
+        "content": "icymi: joe parsons's snowmobile sit-n-spin backflip was unreal. see more epic #xgames action on abc all afternoon: URL",
+        "sentiment_score": 0.999238133430481,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.765282154083252
+    },
+    {
+        "tweet_id": "693204483501887488",
+        "content": "it's official: #gilmoregirls is coming back! get the details on the netflix revival: URL",
+        "sentiment_score": 0.9602428674697876,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.44236111640930176
+    },
+    {
+        "tweet_id": "692842124841123842",
+        "content": "nicoderm introduces new nicotine eye patch URL URL",
+        "sentiment_score": 0.9790800213813782,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8826268315315247
+    },
+    {
+        "tweet_id": "693107789007339521",
+        "content": "our daughters should get paid the same as our sons for doing the same work. period. URL URL",
+        "sentiment_score": 0.9991160035133362,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.701444685459137
+    },
+    {
+        "tweet_id": "764753085675761664",
+        "content": "nigerian islamist group boko haram releases video purporting to show kidnapped chibok schoolgirls URL",
+        "sentiment_score": 0.9953804016113281,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7861148715019226
+    },
+    {
+        "tweet_id": "677950378785271808",
+        "content": "#stevenuniverse will finally return to our screens in january! URL URL",
+        "sentiment_score": 0.9843953847885132,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4473915100097656
+    },
+    {
+        "tweet_id": "692376812022792196",
+        "content": "happy #nationalchocolatecakeday! URL",
+        "sentiment_score": 0.9971774816513062,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9161483645439148
+    },
+    {
+        "tweet_id": "763404633217835009",
+        "content": "kendall jenner and a$ap rocky are \"full-on dating\" \u2014 exclusive details! URL URL",
+        "sentiment_score": 0.8553024530410767,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8199984431266785
+    },
+    {
+        "tweet_id": "693926742814281729",
+        "content": "these aerial photos of dutch tulip fields are stunning URL URL",
+        "sentiment_score": 0.9994874000549316,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5101940035820007
+    },
+    {
+        "tweet_id": "689694470779097088",
+        "content": "two gunmen killed in pakistan university attack, police say, with reports others still firing URL",
+        "sentiment_score": 0.9934859871864319,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.638217031955719
+    },
+    {
+        "tweet_id": "690926324903317504",
+        "content": "\"as the affordable care act has taken effect, nearly 18 million americans have gained coverage\" \u2014@potus URL",
+        "sentiment_score": 0.8627324104309082,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4494730830192566
+    },
+    {
+        "tweet_id": "693855615618322432",
+        "content": "happy birthday to the man who brought sexy back! \ud83c\udf89\ud83d\udd25 URL URL",
+        "sentiment_score": 0.9988992214202881,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8489254117012024
+    },
+    {
+        "tweet_id": "690522824797196288",
+        "content": "woman who stabbed paedophile to death in east london has three-and-a-half-year jail term more than doubled URL",
+        "sentiment_score": 0.9918707609176636,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.3258315324783325
+    },
+    {
+        "tweet_id": "690567125128351744",
+        "content": "\"every single one of us deserves the rights, freedoms, and opportunities to fulfill our dreams.\" \u2014@potus #roe43 URL",
+        "sentiment_score": 0.802432119846344,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5933347344398499
+    },
+    {
+        "tweet_id": "693803472806760448",
+        "content": "icymi: this wayne selden dunk was absolutely absurd. URL",
+        "sentiment_score": 0.998689591884613,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.3930412530899048
+    },
+    {
+        "tweet_id": "688502260779843587",
+        "content": "american leadership in action: iran's four pathways to a nuclear weapon have now been blocked. #irandeal URL",
+        "sentiment_score": 0.9979915618896484,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7641408443450928
+    },
+    {
+        "tweet_id": "678277910537588737",
+        "content": "the 17 #thexfiles episodes to watch before it returns URL @thexfiles @gilliana @davidduchovny URL",
+        "sentiment_score": 0.9958765506744385,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.3650152087211609
+    },
+    {
+        "tweet_id": "693459931022913536",
+        "content": "the beatles' rooftop concert happened 47 years ago today. here are 15 things you didn't know URL URL",
+        "sentiment_score": 0.9922500848770142,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.6592608690261841
+    },
+    {
+        "tweet_id": "767218194385866752",
+        "content": "#ufc202 was conor mcgregor's first fight ever to go into the championship rounds. he made the most of it. URL",
+        "sentiment_score": 0.9973944425582886,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.482051819562912
+    },
+    {
+        "tweet_id": "688520025754304512",
+        "content": "thanks to the #irandeal, iran's four pathways to a nuclear weapon have been blocked \u2192 URL URL",
+        "sentiment_score": 0.9990482926368713,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5444363355636597
+    },
+    {
+        "tweet_id": "692812029611089920",
+        "content": "justin bieber must be loving himself right now. URL",
+        "sentiment_score": 0.9969885945320129,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.500456690788269
+    },
+    {
+        "tweet_id": "683158807959089152",
+        "content": "man helps woman to safety before being crushed to death by elevator in nyc URL URL",
+        "sentiment_score": 0.954648494720459,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7458741664886475
+    },
+    {
+        "tweet_id": "692688891174739968",
+        "content": "say \"aloha\" to the happiest, healthiest u.s. states! 1. hawaii 2. alaska 3. montana URL URL",
+        "sentiment_score": 0.8932978510856628,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9113566875457764
+    },
+    {
+        "tweet_id": "693452449173086210",
+        "content": "study finds girls outperforming future employers in school URL URL",
+        "sentiment_score": 0.984567403793335,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.44273242354393005
+    },
+    {
+        "tweet_id": "688932211714818048",
+        "content": "clinton: \"every single american should be outraged\" by what's happening in flint, mich. #nprdebate",
+        "sentiment_score": 0.9943354725837708,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9889436960220337
+    },
+    {
+        "tweet_id": "693594331735683072",
+        "content": "deadline: if you don't have health insurance, you've only got one more day to #getcovered: URL URL",
+        "sentiment_score": 0.9981176853179932,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6771734952926636
+    },
+    {
+        "tweet_id": "693925198630821889",
+        "content": "sources: calvin johnson told detroit lions he plans on retiring from the nfl. URL URL",
+        "sentiment_score": 0.9899661540985107,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7919874787330627
+    },
+    {
+        "tweet_id": "693456340790804480",
+        "content": "fbi 'super pissed off' at white house meddling... URL",
+        "sentiment_score": 0.9996821880340576,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8357328772544861
+    },
+    {
+        "tweet_id": "693216311502073856",
+        "content": "why digital companies need more liberal arts majors: creativity, empathy, and listening are more important than ever URL",
+        "sentiment_score": 0.8392348289489746,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6738393902778625
+    },
+    {
+        "tweet_id": "687673284436082689",
+        "content": "harry potter stars react to the tragic news of alan rickman's death: URL URL",
+        "sentiment_score": 0.9942625164985657,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9417985081672668
+    },
+    {
+        "tweet_id": "692927739066740741",
+        "content": "study: 90% of workplace injuries caused by bare-knuckle boxing URL URL",
+        "sentiment_score": 0.9929400682449341,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.592508852481842
+    },
+    {
+        "tweet_id": "693083689098477568",
+        "content": "cam newton and steph curry have more in common than just north carolina. here's proof: URL URL",
+        "sentiment_score": 0.8411446213722229,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8676061630249023
+    },
+    {
+        "tweet_id": "766452700049473536",
+        "content": "olympics: usain bolt wins 200m gold, staying on track for 3 golds in 3 events at 3 olympics URL URL",
+        "sentiment_score": 0.9919169545173645,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.39832833409309387
+    },
+    {
+        "tweet_id": "693457310824468480",
+        "content": "watch @potus's weekly address on giving every student an opportunity to learn through computer science for all: URL",
+        "sentiment_score": 0.8628618121147156,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.841049313545227
+    },
+    {
+        "tweet_id": "692113799546048513",
+        "content": "hey. can we take a minute (or all the minutes) to talk about @niallofficial + his glasses? URL URL",
+        "sentiment_score": 0.991758406162262,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8281648755073547
+    },
+    {
+        "tweet_id": "761355585724055553",
+        "content": "every summer since taking office, our interns surprised @potus with a birthday card. #tbt to the 1st one from 2009: URL",
+        "sentiment_score": 0.9901461005210876,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.8269627094268799
+    },
+    {
+        "tweet_id": "692190570140340229",
+        "content": "britain's johanna konta clinches australian open semi-final place by beating zhang shuai 6-4 6-1 in melbourne URL",
+        "sentiment_score": 0.996462881565094,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.637401819229126
+    },
+    {
+        "tweet_id": "692506143147606016",
+        "content": "it's a boy! meet mac, the budweiser family's new baby clydesdale. #budweiser #clydesdale URL",
+        "sentiment_score": 0.9944105744361877,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8768212199211121
+    },
+    {
+        "tweet_id": "633397936563560449",
+        "content": "10 ways lean startup methodology can impact your business URL by @scottgerber",
+        "sentiment_score": 0.9549797773361206,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.689545750617981
+    },
+    {
+        "tweet_id": "692423131726749697",
+        "content": "today marks 71 yrs since the liberation of auschwitz, \u201ccity of death\u201d URL #holocaustmemorialday URL",
+        "sentiment_score": 0.9205000400543213,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7924244999885559
+    },
+    {
+        "tweet_id": "767715524222578688",
+        "content": "college graduate first person in family to waste $160,000 URL URL",
+        "sentiment_score": 0.9969658255577087,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.34749260544776917
+    },
+    {
+        "tweet_id": "693056396250652672",
+        "content": "dog finds absolutely perfect place to shit URL",
+        "sentiment_score": 0.9932585954666138,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.43417057394981384
+    },
+    {
+        "tweet_id": "691616143161819136",
+        "content": "virginia woolf was born today in 1882. listen to the only known recording of her voice here. URL URL",
+        "sentiment_score": 0.9920696020126343,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8226073980331421
+    },
+    {
+        "tweet_id": "616686132387028992",
+        "content": "one more reason to abolish the penny: \"when plastic money is worth more than your real money, you need new money.\" URL",
+        "sentiment_score": 0.9985492825508118,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.866983950138092
+    },
+    {
+        "tweet_id": "688461902821855232",
+        "content": "watchdog says iran has taken all steps to start implementing nuclear deal, paving way for lifting of sanctions URL",
+        "sentiment_score": 0.8518927097320557,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8951538801193237
+    },
+    {
+        "tweet_id": "692528931459694592",
+        "content": "north korea may be preparing for a missile launch. URL URL",
+        "sentiment_score": 0.9916149377822876,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.52373868227005
+    },
+    {
+        "tweet_id": "692748204064927745",
+        "content": "watch donald trump tell megyn kelly, back in 2012, that skipping debates is cowardly URL URL",
+        "sentiment_score": 0.9990353584289551,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8379535675048828
+    },
+    {
+        "tweet_id": "693873151659249669",
+        "content": "\"i\u2019ve got a plan to help make sure all our kids get an opportunity to learn computer science.\" \u2014@potus #csforall URL",
+        "sentiment_score": 0.9588757157325745,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.48025184869766235
+    },
+    {
+        "tweet_id": "693126696132804608",
+        "content": ".@potus just announced new actions to advance #equalpay. here's what you need to know: URL URL",
+        "sentiment_score": 0.9920299053192139,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4198474884033203
+    },
+    {
+        "tweet_id": "693492159635443714",
+        "content": "donald trump admits he says horrible things just to keep people interested in him URL URL",
+        "sentiment_score": 0.9979074001312256,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8041912317276001
+    },
+    {
+        "tweet_id": "687630364936957952",
+        "content": "rip alan rickman, who gave us villains to root for URL URL",
+        "sentiment_score": 0.9750102758407593,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8620120882987976
+    },
+    {
+        "tweet_id": "693214543615561729",
+        "content": "a #gilmoregirls revival is coming to @netflix, with @thelaurengraham and @alexisbledel URL URL",
+        "sentiment_score": 0.9851016998291016,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5082839131355286
+    },
+    {
+        "tweet_id": "692764799315398656",
+        "content": "french police arrest woman who was with man carrying weapons & ammunition at disneyland paris hotel. URL",
+        "sentiment_score": 0.9893698692321777,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6940577626228333
+    },
+    {
+        "tweet_id": "767768054163996672",
+        "content": "it wasn't even close. URL",
+        "sentiment_score": 0.9996445178985596,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5371949076652527
+    },
+    {
+        "tweet_id": "692747901815119872",
+        "content": "cdc: 31 cases of zika virus in 11 us states; all patients had traveled, 19 were to puerto rico - @blythebernhard URL",
+        "sentiment_score": 0.9900144338607788,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.479555606842041
+    },
+    {
+        "tweet_id": "685633217160998912",
+        "content": "happy 74th birthday, stephen hawking! URL",
+        "sentiment_score": 0.9998307228088379,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5740748643875122
+    },
+    {
+        "tweet_id": "692004901455556608",
+        "content": ".@potus just announced new reforms to address the overuse of solitary confinement: URL URL",
+        "sentiment_score": 0.9967021346092224,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6064386963844299
+    }
+]

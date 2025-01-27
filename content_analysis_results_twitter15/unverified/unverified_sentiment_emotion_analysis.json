@@ -1,0 +1,2994 @@
+[
+    {
+        "tweet_id": "731166399389962242",
+        "content": "\ud83d\udd25ca kkk grand wizard \ud83d\udd25 endorses @hillaryclinton #neverhillary #trump2016 URL",
+        "sentiment_score": 0.6418111324310303,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9265748262405396
+    },
+    {
+        "tweet_id": "714598641827246081",
+        "content": "an open letter to trump voters from his top strategist-turned-defector URL via @xojanedotcom",
+        "sentiment_score": 0.9110612273216248,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6523234844207764
+    },
+    {
+        "tweet_id": "715515982584881152",
+        "content": "craigslist ad: \u2018get paid $15 an hour to protest at the trump rally\u2019 - URL URL",
+        "sentiment_score": 0.998189389705658,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7696228623390198
+    },
+    {
+        "tweet_id": "500319801344929795",
+        "content": "the day #ferguson cops told a dirty, bloody lie (via @thedailybeast): URL URL",
+        "sentiment_score": 0.9991403818130493,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9598872065544128
+    },
+    {
+        "tweet_id": "524925730053181440",
+        "content": "shooter still on loose after uniformed soldier shot at #ottawa's war memorial, across road from parliament. mp's being taken out of offices.",
+        "sentiment_score": 0.9957647323608398,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5267395377159119
+    },
+    {
+        "tweet_id": "499530130487017472",
+        "content": "a woman in #ferguson was shot in head last night and released this selfie. conflicting reports of how it happened: URL",
+        "sentiment_score": 0.9972883462905884,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.3832361698150635
+    },
+    {
+        "tweet_id": "553467311261503488",
+        "content": "reports of shooting at dammartin en goele on route n2 north east of paris - french media says car chase under way",
+        "sentiment_score": 0.9445322155952454,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9492196440696716
+    },
+    {
+        "tweet_id": "500303431928922113",
+        "content": "reminder: forget the robbery, forget the minor looting. nothing justifies militarized police pointing sniper rifles at journalists #ferguson",
+        "sentiment_score": 0.9974802136421204,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6923686861991882
+    },
+    {
+        "tweet_id": "538900739880665088",
+        "content": "afghan woman picked up her dead son's gun and helped kill 25 taliban militants to save village URL URL",
+        "sentiment_score": 0.8192866444587708,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.78026282787323
+    },
+    {
+        "tweet_id": "516420964834611201",
+        "content": "from #ferguson to #hongkong. #hongkongdemocracy protests adopt \"hands up, don't shoot\" URL",
+        "sentiment_score": 0.9890303015708923,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5050617456436157
+    },
+    {
+        "tweet_id": "576513463738109954",
+        "content": "putin reappears on tv amid claims he is unwell and under threat of coup URL URL",
+        "sentiment_score": 0.9926601052284241,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8083813190460205
+    },
+    {
+        "tweet_id": "522782267215982592",
+        "content": "a passenger at dulles international airport has been spotted wearing a homemade hazmat suit (via @dailycaller) #ebola URL",
+        "sentiment_score": 0.9989845156669617,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7500763535499573
+    },
+    {
+        "tweet_id": "706665777332621314",
+        "content": ".@berniesanders: in 2016, \"we will end institutional racism and reform a broken criminal justice system.\u201d #demdebate",
+        "sentiment_score": 0.8563640117645264,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7003869414329529
+    },
+    {
+        "tweet_id": "531530591427391488",
+        "content": "iraqi officials say isis leader wounded in airstrike URL",
+        "sentiment_score": 0.9961258769035339,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7450659275054932
+    },
+    {
+        "tweet_id": "503498696273965056",
+        "content": "\u201ckey [foley beheading] suspect is abdel majed bary, 23, who left his $1m west london home last year\u2026.\u201d URL",
+        "sentiment_score": 0.9944432377815247,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8594539165496826
+    },
+    {
+        "tweet_id": "553184482241814530",
+        "content": "i am still confused as to why these \"highly trained\" individuals left their id in the getaway car. #charliehebdo",
+        "sentiment_score": 0.9994445443153381,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6862331628799438
+    },
+    {
+        "tweet_id": "580320684305416192",
+        "content": "accident aircraft looks to be germanwings (airline code 4u or gwi) flight 9525, barcelona to dusseldorf. #4u9525 URL",
+        "sentiment_score": 0.9977709054946899,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5172489285469055
+    },
+    {
+        "tweet_id": "550284252672450560",
+        "content": "transgender teen leelah alcorn publishes suicide note on tumblr: \"my death needs to mean something\" URL",
+        "sentiment_score": 0.9974205493927002,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9491803050041199
+    },
+    {
+        "tweet_id": "499612545909415938",
+        "content": "nearly 7k blacks were murdered last yr--almost all by other blacks. a tiny % were unarmed-killed-by-cop. where's al, jesse? #tcot #ferguson",
+        "sentiment_score": 0.9944188594818115,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.44984349608421326
+    },
+    {
+        "tweet_id": "527131140721623040",
+        "content": "poster girl for kobane resistance reportedly beheaded. sickening. URL #rehana #kobane URL",
+        "sentiment_score": 0.9974772334098816,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5787291526794434
+    },
+    {
+        "tweet_id": "726043971911213057",
+        "content": "target boycott crosses 1 million signers, stock sinks by $1.5 billion URL",
+        "sentiment_score": 0.9996204376220703,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6205320954322815
+    },
+    {
+        "tweet_id": "730939370765754368",
+        "content": "ca grand dragon endorses hillary clinton on behalf of the kkk. #trump2016 URL URL",
+        "sentiment_score": 0.5188153982162476,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6082967519760132
+    },
+    {
+        "tweet_id": "723365789378584578",
+        "content": "landmarks around world turn purple, in honor of #prince. #princerip #purplerain URL",
+        "sentiment_score": 0.9908786416053772,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.322933167219162
+    },
+    {
+        "tweet_id": "525327108520673281",
+        "content": "video: hero sergeant-at-arms kevin vickers returns to parliament - and an incredible welcome URL URL",
+        "sentiment_score": 0.9996532201766968,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5966622233390808
+    },
+    {
+        "tweet_id": "553503184174710784",
+        "content": "#charliehebdo shooting suspects tell police they 'prepared to die as martyrs' - french media URL URL",
+        "sentiment_score": 0.9959447979927063,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9360392689704895
+    },
+    {
+        "tweet_id": "550131732805328896",
+        "content": "transgender teen leaves heartbreaking suicide note on tumblr begging us to \"fix society\" URL #leelahalcorn",
+        "sentiment_score": 0.9973065853118896,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.931302547454834
+    },
+    {
+        "tweet_id": "516545908813475841",
+        "content": "#hongkong\u2019s protesters are using the \u201chands up, don\u2019t shoot\u201d gesture from #ferguson URL URL",
+        "sentiment_score": 0.9851636290550232,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6947216987609863
+    },
+    {
+        "tweet_id": "549927969032916993",
+        "content": "a transgender 17-year old left a suicide note on tumblr pleading: \"fix society\" URL URL",
+        "sentiment_score": 0.9985024929046631,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8766828179359436
+    },
+    {
+        "tweet_id": "544523550519218176",
+        "content": "meet barak hussein obama's appointment for our next assistant director of homeland security: fatima noor URL",
+        "sentiment_score": 0.9778604507446289,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6359584927558899
+    },
+    {
+        "tweet_id": "714531423273746432",
+        "content": "an open letter to @realdonaldtrump from his top strategist-turned-defector: URL URL",
+        "sentiment_score": 0.9949491024017334,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.866644561290741
+    },
+    {
+        "tweet_id": "651809229842608128",
+        "content": "avoid 5p bag charge using these from @trolleybagsuk enter here to #win a set with @star100x URL URL",
+        "sentiment_score": 0.9926772117614746,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5911178588867188
+    },
+    {
+        "tweet_id": "500377145349521411",
+        "content": "to be clear: an unarmed teenager possibly stealing a box of cigars does not warrant being shot to death by the police. #ferguson",
+        "sentiment_score": 0.9983097314834595,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7529321908950806
+    },
+    {
+        "tweet_id": "500327120770301952",
+        "content": "how many white celebrities have been caught shoplifting and end up dead in streets? i'll wait. #ferguson",
+        "sentiment_score": 0.9976540207862854,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.45287400484085083
+    },
+    {
+        "tweet_id": "546028163134808064",
+        "content": "interested in growing your follower base on twitter? set up a followers campaign today. URL URL",
+        "sentiment_score": 0.979484498500824,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7840895652770996
+    },
+    {
+        "tweet_id": "522815405451407360",
+        "content": "a passenger at an african airport? no, the man in a homemade hazmat suit is flying out of dulles, washington: #ebola URL",
+        "sentiment_score": 0.9989147186279297,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.8596003651618958
+    },
+    {
+        "tweet_id": "531531382611513344",
+        "content": "breaking news: iraqi state tv confirms isis group leader al-baghdadi wounded in airstrike - URL URL",
+        "sentiment_score": 0.9718116521835327,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.3461484909057617
+    },
+    {
+        "tweet_id": "500319675797209088",
+        "content": "if we shot everyone in the street for stealing, imagine the carnage on wall st. #mikebrown #ferguson",
+        "sentiment_score": 0.9972820281982422,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5242593288421631
+    },
+    {
+        "tweet_id": "521770744855134208",
+        "content": "#isis barbarians are using chemical weapons , against kurds in #kobane #airdrop2kobane #\u0643\u0648\u0628\u0627\u0646\u064a @barackobama #un URL",
+        "sentiment_score": 0.9928025603294373,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5910739898681641
+    },
+    {
+        "tweet_id": "553575232867672064",
+        "content": "more: official: gunman holding at least five hostages in paris market has threatened to kill them if police approach: URL",
+        "sentiment_score": 0.9929352402687073,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9791935086250305
+    },
+    {
+        "tweet_id": "543436472842334209",
+        "content": "obama appoints fatima noor to homeland security post!! the fox in the henhouse!! #ccot #tcot #pjnet URL",
+        "sentiment_score": 0.9540849924087524,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9404992461204529
+    },
+    {
+        "tweet_id": "500377906305327104",
+        "content": "#ferguson pd charged #henrydavis w/ \"destruction of property\" for bleeding on their uniforms: URL URL",
+        "sentiment_score": 0.9992172718048096,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8089844584465027
+    },
+    {
+        "tweet_id": "650952376954650629",
+        "content": "pathetic little twat can\u2019t wait to argue over 5p bag\u00a0charge URL URL",
+        "sentiment_score": 0.9988340735435486,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5916761755943298
+    },
+    {
+        "tweet_id": "522453569702989824",
+        "content": "passenger wears personal protective equipment (ppe) for flight at dulles #ebola URL URL",
+        "sentiment_score": 0.9987679123878479,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.636677086353302
+    },
+    {
+        "tweet_id": "580325090367315968",
+        "content": "flight #4u9525 initially climbed to 38,000 feet before before it started to descend and lost signal at 6,800 feet. URL",
+        "sentiment_score": 0.998544454574585,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7103678584098816
+    },
+    {
+        "tweet_id": "522684367647559681",
+        "content": "isis militants are beheading their own fighters URL URL",
+        "sentiment_score": 0.996147871017456,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.47845691442489624
+    },
+    {
+        "tweet_id": "550175324634619904",
+        "content": "\ud83d\ude14\ud83d\ude14\ud83d\ude14 \u201c@buzzfeed: a transgender 17-year-old left a suicide note on tumblr pleading \u201cfix society\u201d URL \u201d",
+        "sentiment_score": 0.9974632263183594,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8982734084129333
+    },
+    {
+        "tweet_id": "763738618573623297",
+        "content": "hillary clinton strategist bob beckel called for wikileaks editor julian assange to be assassinated: i do not... URL",
+        "sentiment_score": 0.99671471118927,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.4245465397834778
+    },
+    {
+        "tweet_id": "531498841158082562",
+        "content": "isis confirms: leader al-baghdadi wounded in u.s. airstrike URL URL",
+        "sentiment_score": 0.985216498374939,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5877585411071777
+    },
+    {
+        "tweet_id": "757367391202471937",
+        "content": "\"laziness is a trait in blacks,\" 1991 book quotes trump as saying: URL URL",
+        "sentiment_score": 0.9904168844223022,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8279814720153809
+    },
+    {
+        "tweet_id": "500413818368184321",
+        "content": "remarkably, despite the military-style police presence in #ferguson, a known killer was able to skip town URL",
+        "sentiment_score": 0.9959767460823059,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.4530245363712311
+    },
+    {
+        "tweet_id": "756282236375277568",
+        "content": "\"laziness is a trait in blacks,\" 1991 book quotes trump as saying: URL URL",
+        "sentiment_score": 0.9904168844223022,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8279814720153809
+    },
+    {
+        "tweet_id": "553538058440941568",
+        "content": "more: france: shooting, hostage-taking at kosher market in paris; several reported wounded: URL",
+        "sentiment_score": 0.9828193783760071,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.672824501991272
+    },
+    {
+        "tweet_id": "550003619303788545",
+        "content": "transgender teen pleads for us to \"fix society\" in tumblr suicide note: URL URL",
+        "sentiment_score": 0.9976170063018799,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5133866667747498
+    },
+    {
+        "tweet_id": "516727880571572225",
+        "content": "hong kong's protesters are using the \"hands up, don't shoot\" gesture from ferguson URL URL",
+        "sentiment_score": 0.9917323589324951,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5499380230903625
+    },
+    {
+        "tweet_id": "516423807394131968",
+        "content": "beautiful global solidarity in #hongkong where protesters are marching with \"hands up, don't shoot\" gesture #ferguson URL",
+        "sentiment_score": 0.9995495676994324,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.6401330232620239
+    },
+    {
+        "tweet_id": "716461257025581056",
+        "content": ".@berniesanders is pulling magic tricks out of a hat in nevada. we just officially won! URL",
+        "sentiment_score": 0.9993342757225037,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.46533945202827454
+    },
+    {
+        "tweet_id": "745236050407194624",
+        "content": "the big one: 'large scale motion' detected along san andreas fault URL URL",
+        "sentiment_score": 0.9035995602607727,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7153993248939514
+    },
+    {
+        "tweet_id": "729647367457230850",
+        "content": "leading causes of death in the u.s.: 1. heart disease 2. cancer 3. medical error URL URL",
+        "sentiment_score": 0.999281108379364,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7375291585922241
+    },
+    {
+        "tweet_id": "726442550266044416",
+        "content": "because target believes men can pee with girls, their stock has taken a huge hit. good. keep boycotting target. URL",
+        "sentiment_score": 0.6527408957481384,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8206073045730591
+    },
+    {
+        "tweet_id": "516345893139001346",
+        "content": "hands up don't shoot is being used by tens of thousands as a form of protest in hong kong. powerful. URL",
+        "sentiment_score": 0.9972500205039978,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.955977737903595
+    },
+    {
+        "tweet_id": "553501357156876290",
+        "content": "#charliehebdo suspects \"prepared to die as martyrs\", they tell police after making contact - french media URL",
+        "sentiment_score": 0.9891999959945679,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7609593272209167
+    },
+    {
+        "tweet_id": "538010064591028224",
+        "content": "mother\u2019s revenge: afghan woman 'kills 25 #taliban militants' after son shot dead URL URL",
+        "sentiment_score": 0.9913936257362366,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.983299195766449
+    },
+    {
+        "tweet_id": "535282587325833216",
+        "content": "\"fuck you\" in advance to writers, sites, late night show hosts, etc. who will makes jokes about michael phelps' girlfriend being intersex.",
+        "sentiment_score": 0.9937930107116699,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.49954599142074585
+    },
+    {
+        "tweet_id": "727966590084485120",
+        "content": ".@caitlyn_jenner will reportedly pose nude for sports illustrated URL URL",
+        "sentiment_score": 0.9572806358337402,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.45686638355255127
+    },
+    {
+        "tweet_id": "715671763808493569",
+        "content": "\u2606\u2606craigslist ad allegedly posted by bernie supporters offered $15 to protest at trump's rally in wisconsin. trump already creating jobs!",
+        "sentiment_score": 0.994509756565094,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7924460172653198
+    },
+    {
+        "tweet_id": "553518472798683136",
+        "content": "more: official: french terror suspects want to be martyrs; are holed up with hostage north of paris: URL",
+        "sentiment_score": 0.9910764694213867,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9241886138916016
+    },
+    {
+        "tweet_id": "656361703664451585",
+        "content": "well done scotland! 5p carrier bag charge 1 yr old today - 80% cut in usage - 650m less bags -\u00a36.7m for good causes. URL",
+        "sentiment_score": 0.6913252472877502,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.6843295693397522
+    },
+    {
+        "tweet_id": "714560810266132480",
+        "content": "letter to trump voters from his top strategist-turned-defector - i don\u2019t know if this is real, but it\u2019s believable. URL",
+        "sentiment_score": 0.9997028708457947,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7756177186965942
+    },
+    {
+        "tweet_id": "722885778448121857",
+        "content": "a new transgender bathroom policy at @target is real, and it's fabulous: URL URL",
+        "sentiment_score": 0.9997565150260925,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.6725689172744751
+    },
+    {
+        "tweet_id": "706933939953344514",
+        "content": "bernie sanders speaking about institutional racism \ud83d\udc4f\ud83c\udffd\ud83d\ude4c\ud83c\udffd URL",
+        "sentiment_score": 0.940301239490509,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.48323652148246765
+    },
+    {
+        "tweet_id": "503609826128044032",
+        "content": "suspect in beheading of journalist james foley named as 24 y/o abdel-majed abdel bary. URL",
+        "sentiment_score": 0.9958756566047668,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7980501651763916
+    },
+    {
+        "tweet_id": "500290456845299714",
+        "content": "here's the police report. somehow #ferguson cops valued a box of swishers at nearly $50. time to stop smokin i guess URL",
+        "sentiment_score": 0.9984902143478394,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.8431485295295715
+    },
+    {
+        "tweet_id": "714755546285477888",
+        "content": "donald spunktrumpet's former communications director stephanie cegielski has resigned and written this - URL",
+        "sentiment_score": 0.9972165822982788,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8340727090835571
+    },
+    {
+        "tweet_id": "553164985460068352",
+        "content": "the #charliehebdo attack suspects have reportedly fired shots while robbing a petrol station URL URL",
+        "sentiment_score": 0.9984997510910034,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5529568791389465
+    },
+    {
+        "tweet_id": "531543620856197121",
+        "content": "islamic state leader al-baghdadi wounded in airstrikes, iraqi officials say URL #isis URL",
+        "sentiment_score": 0.9976003766059875,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7018182873725891
+    },
+    {
+        "tweet_id": "531193369465470976",
+        "content": "breaking: isis leader al-baghdadi \u201ccritically wounded\u201d after coalition airstrikes near mosul URL URL",
+        "sentiment_score": 0.9595540761947632,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7708073258399963
+    },
+    {
+        "tweet_id": "763428684850094080",
+        "content": "breaking video : hillary surrogate calls for the assassination of julian assange. URL",
+        "sentiment_score": 0.9569699168205261,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6760397553443909
+    },
+    {
+        "tweet_id": "752875379765968897",
+        "content": "ted cruz is apparently riding with the president on air force one en route to dallas. man, barack obama is a saint.",
+        "sentiment_score": 0.9844842553138733,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.48126447200775146
+    },
+    {
+        "tweet_id": "742114513726623744",
+        "content": "a tweet from @realdonaldtrump about the #orlando shooting: URL URL",
+        "sentiment_score": 0.995452880859375,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9633436799049377
+    },
+    {
+        "tweet_id": "716457799392342018",
+        "content": "bernie sanders has actually won nevada, not hillary clinton! the people have spoken! URL URL",
+        "sentiment_score": 0.9836443066596985,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7906562089920044
+    },
+    {
+        "tweet_id": "499366666300846081",
+        "content": "line of police cars with high beams on greets anyone trying to enter #ferguson. it's shut down. no media allowed. URL",
+        "sentiment_score": 0.999297022819519,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4973925054073334
+    },
+    {
+        "tweet_id": "778625026144792577",
+        "content": "massachusetts court finds that it\u2019s \u2018reasonable\u2019 for black men to run from police to avoid racial profiling\u2026 URL",
+        "sentiment_score": 0.9112813472747803,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.651725709438324
+    },
+    {
+        "tweet_id": "715254040289021952",
+        "content": "donald trump tells chris matthews: women deserve \u2018some form of punishment\u2019 for abortion URL URL",
+        "sentiment_score": 0.9605730772018433,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8574258685112
+    },
+    {
+        "tweet_id": "724624672604610562",
+        "content": "people are over here boycotting @target over their new transgender bathroom policy and i'm just like URL",
+        "sentiment_score": 0.9978704452514648,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9473143815994263
+    },
+    {
+        "tweet_id": "655432919595548672",
+        "content": "thousands of people in china claim they have seen a 'floating city' in the sky URL",
+        "sentiment_score": 0.5245246887207031,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6256401538848877
+    },
+    {
+        "tweet_id": "742571519105077248",
+        "content": "considering the #orlando shooter was a registered democrat i'd like to just put these back here: URL",
+        "sentiment_score": 0.9984595775604248,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9341719150543213
+    },
+    {
+        "tweet_id": "535148463609356288",
+        "content": "this russian kid got zapped by a faulty electrical wire and now he's a real-life magneto URL URL",
+        "sentiment_score": 0.9960017800331116,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.47653627395629883
+    },
+    {
+        "tweet_id": "537976883150077952",
+        "content": "mother\u2019s revenge: afghan woman 'kills 25 #taliban militants' after son shot dead URL URL",
+        "sentiment_score": 0.9913936257362366,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.983299195766449
+    },
+    {
+        "tweet_id": "521777301470871553",
+        "content": "#isis used chemical weapons in #kobani . against civilian #kurds\u2022 #retweeet to #savekobani _ #twitterkurds #kobane URL",
+        "sentiment_score": 0.9966691136360168,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8814481496810913
+    },
+    {
+        "tweet_id": "707786906189303808",
+        "content": "meet kenny the tiger. he was born with down syndrome. he's proof you don't have to be perfect to be beautiful \u2764\ufe0f URL",
+        "sentiment_score": 0.8288901448249817,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.504741907119751
+    },
+    {
+        "tweet_id": "763524712853102596",
+        "content": "hillary clinton strategist bob beckel called for wikileaks editor julian assange to be assassinated. #dncleaks URL",
+        "sentiment_score": 0.9943195581436157,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7167810201644897
+    },
+    {
+        "tweet_id": "553212962044149761",
+        "content": "paris says highest alert level extended north to region where attack suspects spotted - @afp, @melissabellf24 URL",
+        "sentiment_score": 0.6776796579360962,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.844878077507019
+    },
+    {
+        "tweet_id": "733242244522725376",
+        "content": "\ud83c\udfaf #target backlash over transgender bathroom policy hits \"boiling\u2668\ufe0fpoint\"\u2757\ufe0f URL #boycotttarget URL",
+        "sentiment_score": 0.9975169897079468,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9818331003189087
+    },
+    {
+        "tweet_id": "714555825122107392",
+        "content": "an open letter to trump voters from his top strategist-turned-defector URL @juddapatow @andylassner @bettemidler",
+        "sentiment_score": 0.5301605463027954,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8135842084884644
+    },
+    {
+        "tweet_id": "778681502825451520",
+        "content": "black men have legitimate reason to run from police \u2013 #massachusetts supreme court URL URL",
+        "sentiment_score": 0.9923439621925354,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7953551411628723
+    },
+    {
+        "tweet_id": "532928419051622400",
+        "content": "islamic state releases audio it says is of leader abu bakr al-baghdadi days after reports he was killed or injured URL",
+        "sentiment_score": 0.9906001091003418,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9266480207443237
+    },
+    {
+        "tweet_id": "740791134146965504",
+        "content": "dear @hillaryclinton you're not the 1st woman presidential candidate. victoria woodhull is. look @realdonaldtrump URL",
+        "sentiment_score": 0.9898880124092102,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9110685586929321
+    },
+    {
+        "tweet_id": "500280838710247424",
+        "content": "police reports released this morning indicate mike brown was a suspect in a \"strong-armed\" robbery in #ferguson",
+        "sentiment_score": 0.9812381863594055,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9677901864051819
+    },
+    {
+        "tweet_id": "500295393301647360",
+        "content": "the other day i asked a manager at the #ferguson market if police had requested surveillance video. she said no.",
+        "sentiment_score": 0.998843789100647,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7389135360717773
+    },
+    {
+        "tweet_id": "500286058664579072",
+        "content": "update: #ferguson police release stills from convenience store footage showing robbery URL URL",
+        "sentiment_score": 0.9938362240791321,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6998178958892822
+    },
+    {
+        "tweet_id": "499456140044824576",
+        "content": "st. louis co police tell me ofcr shot a man who pointed handgun at him at chambers & sheffingdell at about 1 a.m. man in critical. #ferguson",
+        "sentiment_score": 0.9794064164161682,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.3590710461139679
+    },
+    {
+        "tweet_id": "544333764814323713",
+        "content": "gunman's headband reads, \"we are your soldiers o muhammad\". #martinplace #sydneysiege URL",
+        "sentiment_score": 0.9831680655479431,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8406552076339722
+    },
+    {
+        "tweet_id": "531526274003771392",
+        "content": "2 iraqi officials and state tv say airstrike wounds islamic state group leader al-baghdadi - @ap URL",
+        "sentiment_score": 0.9987795948982239,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.40922603011131287
+    },
+    {
+        "tweet_id": "655812191233417216",
+        "content": "when refusing to pay the 5p bag charge backfires URL \ud83d\ude02\ud83d\ude48",
+        "sentiment_score": 0.9977133274078369,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.874241828918457
+    },
+    {
+        "tweet_id": "538137715293061120",
+        "content": "afghan woman 'kills 25 taliban' militants after son shot dead URL URL",
+        "sentiment_score": 0.9878859519958496,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9019126296043396
+    },
+    {
+        "tweet_id": "531131094276382720",
+        "content": "reports indicate #isis leader abu bakr al-baghdadi has been injured in a us air strike. #syria #iraq",
+        "sentiment_score": 0.9884992241859436,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.48894011974334717
+    },
+    {
+        "tweet_id": "727854332188577792",
+        "content": "perhaps media should ask hillary about this clinton campaign made payments to hard drive destruction company URL",
+        "sentiment_score": 0.9931007623672485,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9039163589477539
+    },
+    {
+        "tweet_id": "742012307694223361",
+        "content": "#orlando oh look the muslim shooter was also a democrat! URL",
+        "sentiment_score": 0.9867210388183594,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5241838693618774
+    },
+    {
+        "tweet_id": "707332312724283392",
+        "content": "obama to skip nancy reagan's funeral for music, film festival in austin, tx URL via @waynedupreeshow",
+        "sentiment_score": 0.9659061431884766,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9232494831085205
+    },
+    {
+        "tweet_id": "516386101766782976",
+        "content": "some authoritarian americans are pissed that i'm helping this hong kong \"hands up, don't shoot\" picture go viral: URL",
+        "sentiment_score": 0.9993098974227905,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9014909863471985
+    },
+    {
+        "tweet_id": "755447443009916929",
+        "content": "police shut down restaurant after officer cuts mouth on shards of glass found in sandwich URL URL",
+        "sentiment_score": 0.9973100423812866,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.755966067314148
+    },
+    {
+        "tweet_id": "705092738224525312",
+        "content": "breaking news: search \"how can i move to canada\" skyrocketed following #supertuesday URL",
+        "sentiment_score": 0.9978393316268921,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.406856507062912
+    },
+    {
+        "tweet_id": "500394061887709184",
+        "content": "the press conf makes #ferguson pd look like they've gone from stonewalling to counter punching. we give up a name, we drag his thru the mud.",
+        "sentiment_score": 0.9996500015258789,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8260090947151184
+    },
+    {
+        "tweet_id": "724661834419048448",
+        "content": "hey guys, target isn't backing down check the usa today article about the boycott URL",
+        "sentiment_score": 0.9702762961387634,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.38357535004615784
+    },
+    {
+        "tweet_id": "757190314880884736",
+        "content": "donald trump: \"...laziness is a trait in blacks. it really is, i believe that. it\u2019s not anything they can control.\u201d URL",
+        "sentiment_score": 0.9992994070053101,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8557529449462891
+    },
+    {
+        "tweet_id": "775672628493357057",
+        "content": "clinton hides failing health? full disclosure now: covert doctors and nurses URL via @mailonline #maga @realdonaldtrump",
+        "sentiment_score": 0.9942147135734558,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5965192317962646
+    },
+    {
+        "tweet_id": "522534012544638976",
+        "content": "report: christian bale will play steve jobs URL URL",
+        "sentiment_score": 0.9753848314285278,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4583725333213806
+    },
+    {
+        "tweet_id": "725983128444129280",
+        "content": "starve the beasts destroying our #civilsociety #target stock \u27a1\ufe0f sinks $1.5 billion URL URL",
+        "sentiment_score": 0.9997422099113464,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8422658443450928
+    },
+    {
+        "tweet_id": "500327106824245249",
+        "content": "all weekend ppl will be talking about the \"robbery\" instead of the shooting bc #ferguson pd didn't release any info about the shooting.",
+        "sentiment_score": 0.9930463433265686,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8788843750953674
+    },
+    {
+        "tweet_id": "552821069036670976",
+        "content": "4 #charliehebdo cartoonists killed: - charb - cabu - tignous - georges wolinski #jesuischarlie URL",
+        "sentiment_score": 0.996557354927063,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8848904967308044
+    },
+    {
+        "tweet_id": "766808183696351233",
+        "content": "\"laziness is a trait in blacks\"-trump, according to former president of trump plaza hotel and casino @vitico46 URL",
+        "sentiment_score": 0.9939543604850769,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8870506286621094
+    },
+    {
+        "tweet_id": "723511860516016128",
+        "content": "all in purple: memorials and landmarks across the globe honor #prince after his death. URL URL",
+        "sentiment_score": 0.8312902450561523,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6931425929069519
+    },
+    {
+        "tweet_id": "516705572373397504",
+        "content": "fierce fighting reported on the outskirts of baghdad as isis jihadists fight one mile from western city boundary. so much for airstrikes.",
+        "sentiment_score": 0.9770382642745972,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9277408719062805
+    },
+    {
+        "tweet_id": "501934077612941312",
+        "content": "wapo: 'british examining [foley] video...to compare it with former guantanamo bay prisoners...believed to have joined the islamic state.'",
+        "sentiment_score": 0.9879002571105957,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4287784695625305
+    },
+    {
+        "tweet_id": "521769631519092736",
+        "content": "#recall iraqi chem weapons gwb lied about? kobani kurds report isis using chem weapons! URL URL",
+        "sentiment_score": 0.9984979629516602,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.37770169973373413
+    },
+    {
+        "tweet_id": "650975967146602496",
+        "content": "uk \u2022 you're right to be nervous about the 5p plastic bag charge. when they implemented this in california the streets ran red with blood.",
+        "sentiment_score": 0.9938734769821167,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9788268804550171
+    },
+    {
+        "tweet_id": "524926472432410625",
+        "content": "one person shot outside centre block, a second wounded inside the building in parliament hill shooting URL",
+        "sentiment_score": 0.9970947504043579,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5207073092460632
+    },
+    {
+        "tweet_id": "500363740311982081",
+        "content": "what's so frustrating is that now we are talking about a robbery and not the killing of an unarmed kid. #ferguson",
+        "sentiment_score": 0.9970431923866272,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9295561909675598
+    },
+    {
+        "tweet_id": "658755852199927808",
+        "content": "test finds human dna in hot dogs, meat in vegetarian products URL URL",
+        "sentiment_score": 0.9710439443588257,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.5541011095046997
+    },
+    {
+        "tweet_id": "748543642323783681",
+        "content": "obama cuts military pay third year in a row, while pushing $15 min. wage for burger flippers URL URL",
+        "sentiment_score": 0.9783535599708557,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8183715343475342
+    },
+    {
+        "tweet_id": "732004388181434368",
+        "content": "target\u2019s new transgender policy raises all sorts of questions. URL",
+        "sentiment_score": 0.8814907670021057,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8736252188682556
+    },
+    {
+        "tweet_id": "538193964479045633",
+        "content": "afghan woman kills 25 #taliban militants after son shot dead URL #bravo URL v @sydrza",
+        "sentiment_score": 0.980847954750061,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5753595232963562
+    },
+    {
+        "tweet_id": "521772674155286528",
+        "content": "alarming isis uses chemical weapons against kurds in #kobane \u261b URL #savekobane #drwidad\u262e URL",
+        "sentiment_score": 0.99566251039505,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8079730272293091
+    },
+    {
+        "tweet_id": "727187859367546880",
+        "content": "good news!: target stock plummets #lbgtq #bathroombill URL #tcot #pjnet #rednationrising URL",
+        "sentiment_score": 0.9918112754821777,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7912033200263977
+    },
+    {
+        "tweet_id": "522654603675176960",
+        "content": "spider burrows through man's appendix scar and crawls under his skin URL URL",
+        "sentiment_score": 0.995681881904602,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7021580934524536
+    },
+    {
+        "tweet_id": "747275598347837440",
+        "content": "newsflash\u26a1\ufe0fthe #orlando shooter was a muslim and a democrat\u2714\ufe0f not a republican or christian\u274c #gaypride2016 URL",
+        "sentiment_score": 0.9973822236061096,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9840365052223206
+    },
+    {
+        "tweet_id": "774833492865593344",
+        "content": "nurses save lives of all different races and colors, but @hillaryclinton thinks we belong in a #basketofdeplorables. URL",
+        "sentiment_score": 0.9703415036201477,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6339870095252991
+    },
+    {
+        "tweet_id": "760928376668454912",
+        "content": "before hillary clinton, there was victoria woodhull, a pro-life feminist who ran and was nominated for president. URL",
+        "sentiment_score": 0.6819315552711487,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7297156453132629
+    },
+    {
+        "tweet_id": "728013148788154368",
+        "content": "report: caitlyn jenner will pose nude for sports illustrated URL URL",
+        "sentiment_score": 0.7527017593383789,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.39527642726898193
+    },
+    {
+        "tweet_id": "723644048867774464",
+        "content": "niagara falls turned purple on the day prince died: URL URL",
+        "sentiment_score": 0.9769863486289978,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.42925935983657837
+    },
+    {
+        "tweet_id": "742050150307246080",
+        "content": "shooter in orlando was: a. muslim b. registered democrat voter c. isis d. homophobic e. ready for hillary URL",
+        "sentiment_score": 0.9940195083618164,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6097144484519958
+    },
+    {
+        "tweet_id": "516434071631974400",
+        "content": "breaking: show of solidarity from #hongkong to #ferguson; hands up, don't shoot URL",
+        "sentiment_score": 0.9947690367698669,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5211585760116577
+    },
+    {
+        "tweet_id": "749286768554438658",
+        "content": "what's the no. 1 killer of americans? these rankings have changed little over the years URL URL",
+        "sentiment_score": 0.9900830984115601,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4575953185558319
+    },
+    {
+        "tweet_id": "538133250066366464",
+        "content": "don't underestimate women. an afghan woman called reza gul killed 25 taliban in a 7 hour gun battle. URL",
+        "sentiment_score": 0.9528593420982361,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.3638360798358917
+    },
+    {
+        "tweet_id": "727179214546456577",
+        "content": "target's stock has taken a $2.5 billion hit over its insistence on insulting regular customers URL",
+        "sentiment_score": 0.9996160268783569,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7592853307723999
+    },
+    {
+        "tweet_id": "516371936604352513",
+        "content": "oh, my. rt @dangillmor hong kong \"hands up, don't shoot\" emulation of ferguson protests is such a powerful image: URL",
+        "sentiment_score": 0.9993621706962585,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5839249491691589
+    },
+    {
+        "tweet_id": "651486105628463105",
+        "content": "black people can be so stubborn to change.... #5pbagcharge URL",
+        "sentiment_score": 0.9963334798812866,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6014970541000366
+    },
+    {
+        "tweet_id": "524972443308683264",
+        "content": "statement from ottawa hospital: received 3 patients. 2 in stable condition. URL",
+        "sentiment_score": 0.9124311208724976,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.607613742351532
+    },
+    {
+        "tweet_id": "516313006427602944",
+        "content": "incredible! rt @ryan \"hands up don't shoot has travelled from #ferguson, missouri to #hongkong\" URL",
+        "sentiment_score": 0.9986163377761841,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.640034019947052
+    },
+    {
+        "tweet_id": "676586804242309121",
+        "content": "isis has been killing babies afflicted with down syndrome and other disabilities, activists claim URL",
+        "sentiment_score": 0.9929366707801819,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.4479290246963501
+    },
+    {
+        "tweet_id": "525285199530455040",
+        "content": "man cut off penis and threw it in bin after girlfriend dumped him over small manhood URL URL",
+        "sentiment_score": 0.9988119602203369,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.4319540858268738
+    },
+    {
+        "tweet_id": "726086935903494144",
+        "content": "target boycott crosses 1 million signers, stock sinks by $1.5 billion - breitbart URL",
+        "sentiment_score": 0.9996510744094849,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6727637648582458
+    },
+    {
+        "tweet_id": "707308274270539777",
+        "content": "no one is surprised by this.of course obama is skipping nancy reagan's funeral.dignity isn't his strongest attribute URL",
+        "sentiment_score": 0.9896728992462158,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.9786952137947083
+    },
+    {
+        "tweet_id": "500354773133299713",
+        "content": "in 2009, #ferguson police beat a man and charged him for bleeding on them: URL",
+        "sentiment_score": 0.9940484762191772,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9533500075340271
+    },
+    {
+        "tweet_id": "549975297160802304",
+        "content": "dammit - a transgender 17-year-old left a suicide note on tumblr pleading \u201cfix society\u201d URL via @jobarrow @buzzfeednews",
+        "sentiment_score": 0.9992197751998901,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9217692613601685
+    },
+    {
+        "tweet_id": "516377014790782977",
+        "content": "protestors in hong kong mimicking the \"hands up, don't shoot\" of ferguson demonstrations (alex ogle/getty) URL",
+        "sentiment_score": 0.988158643245697,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7396695017814636
+    },
+    {
+        "tweet_id": "553461741917863936",
+        "content": "rural region of northern france searched in hunt for #charliehebdo gunmen - latest updates URL URL",
+        "sentiment_score": 0.9913083910942078,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9776571393013
+    },
+    {
+        "tweet_id": "716424773216022530",
+        "content": "it seems @berniesanders has won back nevada! don't let @clarkcountynv dems rig it against @sensanders! #feelthebern URL",
+        "sentiment_score": 0.975281834602356,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.3655512034893036
+    },
+    {
+        "tweet_id": "717081129627553792",
+        "content": "this is kenny, the tiger with down syndrome. this proves you don't have to perfect to be beautiful \u2764\ufe0f URL",
+        "sentiment_score": 0.9890779852867126,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8031917810440063
+    },
+    {
+        "tweet_id": "652349108653551616",
+        "content": "surprising number of vegetarians secretly eat meat URL URL",
+        "sentiment_score": 0.7205989956855774,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.4855059087276459
+    },
+    {
+        "tweet_id": "503610065769598976",
+        "content": "#breaking: suspect in beheading of journalist james foley named as 24 y/o abdel-majed abdel bary. URL via @israelbreaking",
+        "sentiment_score": 0.984968364238739,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7303045392036438
+    },
+    {
+        "tweet_id": "552810448324943872",
+        "content": "#charliehebdo shooting: gunmen shouted 'we have avenged the prophet\" during attack - reports URL URL",
+        "sentiment_score": 0.9979859590530396,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8204764127731323
+    },
+    {
+        "tweet_id": "716092408920936448",
+        "content": "international criminal george soros & his boi @davidbrockdc are sooo busted #fauxprotests #ringers @realdonaldtrump URL",
+        "sentiment_score": 0.9977350234985352,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9030607342720032
+    },
+    {
+        "tweet_id": "524932056560963584",
+        "content": "breaking: at least 20 shots have been fired in the canadian parliament in ottawa, according to witnesses.",
+        "sentiment_score": 0.924327552318573,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.37154388427734375
+    },
+    {
+        "tweet_id": "727116900983934976",
+        "content": ". @target stock plunges in early days of @americanfamassc boycott. URL",
+        "sentiment_score": 0.9982030391693115,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.4059927761554718
+    },
+    {
+        "tweet_id": "526757033186697216",
+        "content": "female peshmerga warrior rehana - credited with killing 100 isis scumbags - reportedly captured, beheaded #rip URL",
+        "sentiment_score": 0.9946664571762085,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.908173143863678
+    },
+    {
+        "tweet_id": "658938136299511808",
+        "content": "human dna found in hot dogs - and 10% of vegetarian sausages contain meat URL URL",
+        "sentiment_score": 0.9742708206176758,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7260259389877319
+    },
+    {
+        "tweet_id": "522443333831262208",
+        "content": "ok what mt @alexpappas: photo of passenger at dulles waiting for flight -- wearing hazmat suit URL URL",
+        "sentiment_score": 0.9979654550552368,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.582784116268158
+    },
+    {
+        "tweet_id": "544514570367168512",
+        "content": "#sydneysiege: latest video of hostages escaping. URL",
+        "sentiment_score": 0.9812588095664978,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.3934832215309143
+    },
+    {
+        "tweet_id": "549998575330275330",
+        "content": "a transgender 17-year-old left a suicide note on tumblr pleading \u201cfix society\u201d URL",
+        "sentiment_score": 0.9982942938804626,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8131773471832275
+    },
+    {
+        "tweet_id": "500347114975944705",
+        "content": "new link: #ferguson police release video they say shows a robbery involving #michaelbrown: URL URL",
+        "sentiment_score": 0.9956995248794556,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9116119146347046
+    },
+    {
+        "tweet_id": "544939287222165506",
+        "content": "urgent: isis now using bombs containing live scorpions to spread fear in iraq - URL URL",
+        "sentiment_score": 0.9893045425415039,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7831252217292786
+    },
+    {
+        "tweet_id": "652300118205427716",
+        "content": "survey: 1 in 3 vegetarians admits to eating meat when drunk... URL",
+        "sentiment_score": 0.9782710671424866,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.47149983048439026
+    },
+    {
+        "tweet_id": "747443219487678464",
+        "content": "nyc pride parade after orlando: \u201crepublican hate kills\" no. the orlando shooter was a muslim democrat. URL",
+        "sentiment_score": 0.9856717586517334,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.32318833470344543
+    },
+    {
+        "tweet_id": "553474188259102720",
+        "content": "breaking: shots fired, hostages taken in manhunt for #charliehebdo attackers, police say URL URL",
+        "sentiment_score": 0.9825125932693481,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8928239941596985
+    },
+    {
+        "tweet_id": "755548076438196225",
+        "content": "colombus, ohio police officer served sandwich with shards of glass. URL",
+        "sentiment_score": 0.9828401207923889,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6324582695960999
+    },
+    {
+        "tweet_id": "550279538278543360",
+        "content": "transgender teen leelah alcorn publishes suicide note on tumblr: \"my death needs to mean something\" URL",
+        "sentiment_score": 0.9974205493927002,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9491803050041199
+    },
+    {
+        "tweet_id": "728038172270198787",
+        "content": "caitlyn jenner will pose nude on the sports illustrated cover. nothing says sexy like a 66 year old chick with balls.",
+        "sentiment_score": 0.9635719656944275,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6793084144592285
+    },
+    {
+        "tweet_id": "500298752469770240",
+        "content": "shoot unarmed kid. conceal evidence. impose martial law. harass reporters. smear the victim. worst. police. ever. #ferguson #mikebrown",
+        "sentiment_score": 0.9995406866073608,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7462865114212036
+    },
+    {
+        "tweet_id": "724348906096590849",
+        "content": "340,000 pledge to boycott @target over transgender bathroom policy URL URL",
+        "sentiment_score": 0.9887986779212952,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9170641899108887
+    },
+    {
+        "tweet_id": "728207861050970112",
+        "content": "caitlyn jenner will pose nude on the sports illustrated cover. her balls will be censored by a sad michael jordan face.",
+        "sentiment_score": 0.9986238479614258,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9844945073127747
+    },
+    {
+        "tweet_id": "576319832800555008",
+        "content": "hoppla! @l0gg0l: swiss rumors: putin absence due to girlfriend alina giving birth in ticino URL URL",
+        "sentiment_score": 0.998134970664978,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7623375058174133
+    },
+    {
+        "tweet_id": "525032872647065600",
+        "content": "breaking: michael zehaf-bebeau had been designated \"high-risk traveller\" by cdn govt, which confiscated his passport URL",
+        "sentiment_score": 0.9699123501777649,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.44801419973373413
+    },
+    {
+        "tweet_id": "544287209730236416",
+        "content": "sydney opera house evacuated, concourse deserted URL #sydneysiege (via @cberkman) URL",
+        "sentiment_score": 0.9991029500961304,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7359756231307983
+    },
+    {
+        "tweet_id": "531300385248800768",
+        "content": "the head of isis, abu bakr al-baghdadi, is said to have been critically wounded in a us air strike: URL",
+        "sentiment_score": 0.9981153011322021,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7161464095115662
+    },
+    {
+        "tweet_id": "516358319317852160",
+        "content": "hands up don't shoot is being used by tens of thousands as a form of protest in hong kong. powerful. via @mrmedina URL",
+        "sentiment_score": 0.9959069490432739,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9753643274307251
+    },
+    {
+        "tweet_id": "500270780832174080",
+        "content": "police in #ferguson plan to release name of officer who shot unarmed teen michael brown: URL URL",
+        "sentiment_score": 0.9971078038215637,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7447656393051147
+    },
+    {
+        "tweet_id": "663744139666804736",
+        "content": "as you ignore the cold homeless guy sitting outside starbucks, please be sure to complain about the 'non-christian' red cup of $5 coffee.",
+        "sentiment_score": 0.996615469455719,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5103622674942017
+    },
+    {
+        "tweet_id": "531524882325311488",
+        "content": "ap: iraqi officials say u.s. airstrikes have wounded the leader of the islamic state militant group abu bakr al baghdadi",
+        "sentiment_score": 0.9987772107124329,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6852190494537354
+    },
+    {
+        "tweet_id": "727623131494387714",
+        "content": "clinton campaign made payments to hard drive destruction company \ud83e\udd14 destruction of 14 hard drives @hillaryclinton \u2049\ufe0f URL",
+        "sentiment_score": 0.9975524544715881,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8828103542327881
+    },
+    {
+        "tweet_id": "500341884678836224",
+        "content": "hobby lobby asks #ferguson pd for clarification: \"we thought chopping off someone's hand was the maximum penalty for shoplifting\"",
+        "sentiment_score": 0.9984790682792664,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5876543521881104
+    },
+    {
+        "tweet_id": "752965545528528898",
+        "content": "homicide is among the top five causes of death in adolescents URL #endviolence URL",
+        "sentiment_score": 0.996152937412262,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8699221611022949
+    },
+    {
+        "tweet_id": "778572032531427332",
+        "content": "massachusetts court finds that it\u2019s \u2018reasonable\u2019 for black men to run from police to avoid racial profiling\u2026 URL",
+        "sentiment_score": 0.9112813472747803,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.651725709438324
+    },
+    {
+        "tweet_id": "716451800581279744",
+        "content": "it's official, @berniesanders actually won nevada today. came down to 2 factors. 1. enthusiasm 2. organization URL",
+        "sentiment_score": 0.8390273451805115,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7194544076919556
+    },
+    {
+        "tweet_id": "701514249269542912",
+        "content": "no, the polling doesn't prove bernie sanders won the hispanic vote in nevada URL",
+        "sentiment_score": 0.9990729093551636,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9079514741897583
+    },
+    {
+        "tweet_id": "550095745161134080",
+        "content": "transgender teen leaves heartbreaking suicide note on tumblr before getting hit by a truck: URL URL",
+        "sentiment_score": 0.9969782829284668,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9274494647979736
+    },
+    {
+        "tweet_id": "520265722967375872",
+        "content": "kim jong un may have an injured leg - but he is still in control of north korea, source says: URL URL",
+        "sentiment_score": 0.965065062046051,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.48946210741996765
+    },
+    {
+        "tweet_id": "522692223952228353",
+        "content": "passenger waiting for flight at washington airport isn't taking any risks URL URL",
+        "sentiment_score": 0.9809291362762451,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7770547270774841
+    },
+    {
+        "tweet_id": "727172374999666688",
+        "content": "we should pick a company a month. 1.1 million families join afa\u2019s target boycott, stock takes $2.5 billion hit - URL",
+        "sentiment_score": 0.9982216954231262,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.2972901463508606
+    },
+    {
+        "tweet_id": "723772395211862016",
+        "content": "niagara falls turned purple on the day prince died: URL URL",
+        "sentiment_score": 0.9769863486289978,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.42925935983657837
+    },
+    {
+        "tweet_id": "740748123581087745",
+        "content": "first female candidate for president was not @hillaryclinton it was victoria woodhull in 1872 #nhpolitics #tcot URL",
+        "sentiment_score": 0.9812049865722656,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.844380259513855
+    },
+    {
+        "tweet_id": "516539137646542848",
+        "content": "hong kong's protesters are using the \"hands up, don't shoot\" gesture from ferguson URL URL",
+        "sentiment_score": 0.9917323589324951,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5499380230903625
+    },
+    {
+        "tweet_id": "766789709045518336",
+        "content": "donald trump goes to louisiana flooding site, spends a minute handing out play-doh, leaves URL #whereshillary",
+        "sentiment_score": 0.9958723187446594,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.47231239080429077
+    },
+    {
+        "tweet_id": "652982112870662144",
+        "content": "surprising number of vegetarians secretly eat meat URL URL",
+        "sentiment_score": 0.7205989956855774,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.4855059087276459
+    },
+    {
+        "tweet_id": "703234354579898368",
+        "content": "kenny is considered the first tiger with down syndrome. at the age of nine, kenny died in 2008 of cancer. URL",
+        "sentiment_score": 0.9654430150985718,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8320550918579102
+    },
+    {
+        "tweet_id": "655815788675399680",
+        "content": "when refusing to pay the 5p bag charge backfires... URL",
+        "sentiment_score": 0.9989062547683716,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.489539235830307
+    },
+    {
+        "tweet_id": "537484793882361856",
+        "content": "my kinda muslim women. afghan mother daughter and daughter-in-law team kills 25 taliban to avenge her son\u2019s murder. URL",
+        "sentiment_score": 0.9920278191566467,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9660598635673523
+    },
+    {
+        "tweet_id": "726190016435728385",
+        "content": "target boycott crosses 1 million signers, stock sinks by $1.5 billion URL",
+        "sentiment_score": 0.9996204376220703,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6205320954322815
+    },
+    {
+        "tweet_id": "500391222075076610",
+        "content": "store owner told @fox2now monday that there was a theft, but said it was not michaelbrown; said it was someone else #ferguson",
+        "sentiment_score": 0.9983388185501099,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5244059562683105
+    },
+    {
+        "tweet_id": "517034091028676608",
+        "content": "this little ios 8 bug deletes all your icloud data if you try and reset your settings: URL URL",
+        "sentiment_score": 0.9996522665023804,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5710400938987732
+    },
+    {
+        "tweet_id": "748640007934590976",
+        "content": "what's the no. 1 killer of americans? these rankings have changed little over the years URL URL",
+        "sentiment_score": 0.9900830984115601,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4575953185558319
+    },
+    {
+        "tweet_id": "724320681517670400",
+        "content": "340,000 pledge to boycott target over transgender bathroom policy URL URL",
+        "sentiment_score": 0.9692103862762451,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.769547700881958
+    },
+    {
+        "tweet_id": "500381163866062848",
+        "content": "report: #ferguson police beat up wrong suspect then charged him for getting blood on uniforms in 2009 URL",
+        "sentiment_score": 0.9844471216201782,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9336332678794861
+    },
+    {
+        "tweet_id": "516682897864916992",
+        "content": "bug in ios 8's 'reset all settings' option also erases icloud drive documents URL by @julipuli",
+        "sentiment_score": 0.9997527003288269,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7110739946365356
+    },
+    {
+        "tweet_id": "701175292937707520",
+        "content": "\"sanders won 54% of the latino vote, according to the sample data, compared to clinton\u2019s 43%.\" #nvcaucus URL",
+        "sentiment_score": 0.8380109071731567,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.35013821721076965
+    },
+    {
+        "tweet_id": "500280422295937024",
+        "content": "darren wilson is a six year veteran of the #ferguson police and had no disciplinary actions against him.",
+        "sentiment_score": 0.9975168704986572,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8403330445289612
+    },
+    {
+        "tweet_id": "724703995147751424",
+        "content": "american family association gets 500,000 to sign petition boycotting target over its transgender bathroom policy URL",
+        "sentiment_score": 0.9828757047653198,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5497260689735413
+    },
+    {
+        "tweet_id": "723521076446142465",
+        "content": "when your two favorite landmarks...go purple in honor of the world missing prince...beautiful: URL",
+        "sentiment_score": 0.9790586829185486,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8261475563049316
+    },
+    {
+        "tweet_id": "757748522481491968",
+        "content": "tim kaine & his besties the muslim brotherhood URL #demsinphilly #dncconvention URL",
+        "sentiment_score": 0.9652939438819885,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8462594151496887
+    },
+    {
+        "tweet_id": "716439952922312704",
+        "content": "we officially won clark county (70% of the population of nevada) and washoe county +5/6 for @berniesanders -4 for hillary #bernietakesnevada",
+        "sentiment_score": 0.9994497895240784,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8159056305885315
+    },
+    {
+        "tweet_id": "516861311725342722",
+        "content": "report: nasty ios 8 bug could erase your icloud drive documents URL",
+        "sentiment_score": 0.9996103644371033,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.35383132100105286
+    },
+    {
+        "tweet_id": "500294803402137600",
+        "content": "photos of alleged robbery involving michael brown in #ferguson (via police) URL URL",
+        "sentiment_score": 0.9930260181427002,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7344315648078918
+    },
+    {
+        "tweet_id": "553470492565602305",
+        "content": "car chase under way in paris as gunfight breaks out. reports of hostages. latest from paris: URL URL",
+        "sentiment_score": 0.9856441020965576,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.3870213031768799
+    },
+    {
+        "tweet_id": "544512910538838016",
+        "content": "update: hostages fleeing #sydney cafe held by iranian gunman as explosions, gunshots are heard: URL",
+        "sentiment_score": 0.9899640679359436,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9784406423568726
+    },
+    {
+        "tweet_id": "516435293235183617",
+        "content": "no connection between hong kong protesters and ferguson \u201chands up don\u2019t shoot\u201d URL URL",
+        "sentiment_score": 0.999414324760437,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5965155959129333
+    },
+    {
+        "tweet_id": "743058135300988932",
+        "content": "so now we know, orlando shooter was a gay, muslim, registered democrat. no wonder liberals are trying to blame the gun. #orlandoshooting",
+        "sentiment_score": 0.9913135170936584,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5397374629974365
+    },
+    {
+        "tweet_id": "535257207991205888",
+        "content": "russian boy shocked by electricity now claims he has superpowers like magneto URL URL",
+        "sentiment_score": 0.8054394125938416,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.982744038105011
+    },
+    {
+        "tweet_id": "778949749156245504",
+        "content": "\"a black man who runs from police merely might be trying to avoid the recurring indignity of being profiled\" URL",
+        "sentiment_score": 0.999452531337738,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.3969654142856598
+    },
+    {
+        "tweet_id": "715255507506892800",
+        "content": "update: donald trump advocates abortion ban and \"some form of punishment\" for women who have an abortion. URL - @msnbc",
+        "sentiment_score": 0.9759884476661682,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4258383810520172
+    },
+    {
+        "tweet_id": "516361247223058432",
+        "content": "hong kong \"hands up, don't shoot\" emulation of ferguson protests is such a powerful image: URL",
+        "sentiment_score": 0.999350368976593,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6547686457633972
+    },
+    {
+        "tweet_id": "648993731169939456",
+        "content": "woman in hospital after confusing hair mousse with builder's foam: URL",
+        "sentiment_score": 0.9976305961608887,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7146233916282654
+    },
+    {
+        "tweet_id": "651786568592658433",
+        "content": "one third of vegetarians eat meat when they get drunk | URL URL",
+        "sentiment_score": 0.975405216217041,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.8027050495147705
+    },
+    {
+        "tweet_id": "549920761423863808",
+        "content": "a transgender 17-year old left a suicide note on tumblr pleading \"fix society\" URL URL",
+        "sentiment_score": 0.9983053207397461,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8946370482444763
+    },
+    {
+        "tweet_id": "640182854928961536",
+        "content": "plastic bag use in wales has dropped by 71 per cent since the 5p charge was introduced URL URL",
+        "sentiment_score": 0.9985494017601013,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8785485029220581
+    },
+    {
+        "tweet_id": "499368931367608320",
+        "content": "currently the #foxnews website has zero, repeat, zero coverage of the #ferguson protests, probably due to lack of cowboy hats.",
+        "sentiment_score": 0.9997320771217346,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.603383481502533
+    },
+    {
+        "tweet_id": "727588444000526336",
+        "content": "payments to hard drive destruction company... URL",
+        "sentiment_score": 0.9993231296539307,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7013463973999023
+    },
+    {
+        "tweet_id": "701975210044497921",
+        "content": "study concluded that the clinton camp has \u201cno statistical basis\u201d to back claims that it won latino vote in nv. URL",
+        "sentiment_score": 0.9993475079536438,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8002467155456543
+    },
+    {
+        "tweet_id": "742055437932040193",
+        "content": "because the orlando shooter who murdered gay people was a registered democrat and muslim, the media is going silent. URL",
+        "sentiment_score": 0.9993243217468262,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6400334239006042
+    },
+    {
+        "tweet_id": "524924619812511746",
+        "content": "witness tells #cbcnews suspected shooter of uniformed soldier at #ottawa's war memorial was carrying rifle.",
+        "sentiment_score": 0.8101809620857239,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9576511979103088
+    },
+    {
+        "tweet_id": "697992796565741569",
+        "content": "nevada focus group of #pbsdebate says @berniesanders won tonight's debate by a 25 to 9 margin.",
+        "sentiment_score": 0.536359429359436,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5225762724876404
+    },
+    {
+        "tweet_id": "760120409429643266",
+        "content": "pray for parents and school leadership to have wisdom to refuse these after school satan clubs! URL",
+        "sentiment_score": 0.9934631586074829,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5756492018699646
+    },
+    {
+        "tweet_id": "522468118082633729",
+        "content": "christian bale in talks to play steve jobs in danny boyle's #jobs, written by aaron sorkin. URL URL",
+        "sentiment_score": 0.7618597149848938,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5328524112701416
+    },
+    {
+        "tweet_id": "500281094239817728",
+        "content": "#mikebrown wanted to walk down the street. and he is dead. and the #ferguson pd is using his silence in death to make him a criminal.",
+        "sentiment_score": 0.9985557198524475,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5297902226448059
+    },
+    {
+        "tweet_id": "500307001629745152",
+        "content": "it appears that #ferguson pd are trying to assassinate mike brown's character after literally assassinating mike brown.",
+        "sentiment_score": 0.9987643957138062,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8930556774139404
+    },
+    {
+        "tweet_id": "757450526153900032",
+        "content": "victoria woodhull ran for us president 144 years before hillary clinton \ud83d\udcfb URL URL",
+        "sentiment_score": 0.9903016090393066,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9338483810424805
+    },
+    {
+        "tweet_id": "728631482722308096",
+        "content": "afa' rios: target's transgender bathroom policy is 'push from the left to deconstruct the family' URL via @breitbartnews",
+        "sentiment_score": 0.9982187151908875,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.494938462972641
+    },
+    {
+        "tweet_id": "544510450101415936",
+        "content": "several more hostages flee from cafe under siege in sydney, local media say URL",
+        "sentiment_score": 0.99652498960495,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8136582970619202
+    },
+    {
+        "tweet_id": "511330322831507456",
+        "content": "life in obama's america: govt officials threaten to prosecute american families for trying to save their loved ones URL",
+        "sentiment_score": 0.993327260017395,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9836099147796631
+    },
+    {
+        "tweet_id": "547514662695469057",
+        "content": "well this makes us feel old... the sunshine baby from the #teletubbies is 19 and at uni! URL URL",
+        "sentiment_score": 0.9982596039772034,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8358431458473206
+    },
+    {
+        "tweet_id": "780436430732525569",
+        "content": "well, this is a new one: chelsea clinton implies that marijuana can kill you. 2016, y\u2019all. URL #mmot #p2 #tcot #tlot",
+        "sentiment_score": 0.9544391632080078,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7848496437072754
+    },
+    {
+        "tweet_id": "539799806039052288",
+        "content": "'powerful' wife & son of #isis leader abu bakr al-baghdadi have been arrested, sources to @cnn URL URL",
+        "sentiment_score": 0.988409161567688,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.423658549785614
+    },
+    {
+        "tweet_id": "535484342785830912",
+        "content": "magneto boy v science adult: we pit a 'magnetic' russian child against a grown-up scientist. URL URL",
+        "sentiment_score": 0.9946889877319336,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.46658700704574585
+    },
+    {
+        "tweet_id": "553544252563935234",
+        "content": "breaking: at least 2 killed in #paris hostage situation via @afp URL",
+        "sentiment_score": 0.9758473038673401,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.515967845916748
+    },
+    {
+        "tweet_id": "755475529294352385",
+        "content": "ohio police officer hospitalized after eating shards of glass in sandwich from columbus restaurant blackliesmatter URL",
+        "sentiment_score": 0.9976924657821655,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.3653995990753174
+    },
+    {
+        "tweet_id": "500279160795721728",
+        "content": "question for #ferguson police chief? if officer darren wilson was in pursuit of a robbery suspect, why tell kids to get out of the road? lie",
+        "sentiment_score": 0.9990181922912598,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6769645810127258
+    },
+    {
+        "tweet_id": "748558349139058688",
+        "content": "obama cuts military pay 4third year in a row #isis 2nd terrorist attack in a week #wakeupamerica r u ok w this? #2a URL",
+        "sentiment_score": 0.9937005043029785,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.986391544342041
+    },
+    {
+        "tweet_id": "707321278135463936",
+        "content": "president obama to skip nancy reagan\u2019s funeral in order to attend south by southwest: URL URL",
+        "sentiment_score": 0.9972418546676636,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.42872941493988037
+    },
+    {
+        "tweet_id": "716448280201269248",
+        "content": "bernie sanders has won the nevada caucus #nvcaucus URL",
+        "sentiment_score": 0.9762815237045288,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.6579073071479797
+    },
+    {
+        "tweet_id": "533767270091087872",
+        "content": "isis executioner 'jihadi john' reported wounded in air strike URL URL",
+        "sentiment_score": 0.9969459176063538,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6789993643760681
+    },
+    {
+        "tweet_id": "745365403237376000",
+        "content": "causes of death in usa in 2016 (through june 15) URL",
+        "sentiment_score": 0.9940266609191895,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7819322943687439
+    },
+    {
+        "tweet_id": "531606992788287489",
+        "content": "pentagon officials skeptical over iraqi claims of wounded islamic state leader URL #isis URL",
+        "sentiment_score": 0.9772302508354187,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9911730885505676
+    },
+    {
+        "tweet_id": "536915851233202176",
+        "content": "afghan woman kills 25 taliban rebels to avenge her son\u2019s murder URL URL",
+        "sentiment_score": 0.9892253279685974,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9426487684249878
+    },
+    {
+        "tweet_id": "763430916236640256",
+        "content": "hillary surroagte bob beckel calls for assassination of julian assange URL",
+        "sentiment_score": 0.9692745804786682,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7629705667495728
+    },
+    {
+        "tweet_id": "558312304753016832",
+        "content": "the asiago ranch is a \u2018wich of art. call us leonardo da ranchi. actually, please don\u2019t. URL",
+        "sentiment_score": 0.9879955649375916,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8674225211143494
+    },
+    {
+        "tweet_id": "547587399728267264",
+        "content": "viral video: prankster @joshpalerlin gave homeless man $100, was shocked by results URL URL",
+        "sentiment_score": 0.9949486255645752,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.9767855405807495
+    },
+    {
+        "tweet_id": "516425769560866817",
+        "content": "hong kong's pro-democracy protesters use 'hands up don't shoot' symbol of #ferguson via @gettyimages #occupycentral URL",
+        "sentiment_score": 0.992163896560669,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6677249670028687
+    },
+    {
+        "tweet_id": "711994705333112832",
+        "content": "keith richards 'once pulled a knife on donald trump' says rolling stones' ex-event promoter URL URL",
+        "sentiment_score": 0.9970597624778748,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7534196972846985
+    },
+    {
+        "tweet_id": "531287426858487808",
+        "content": "feel good story: u.s. airstrikes 'hit isis leader'. terror group chief 'critically wounded' URL URL",
+        "sentiment_score": 0.9965439438819885,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8758558034896851
+    },
+    {
+        "tweet_id": "516394449065496577",
+        "content": "hong kong's protesters are using the \"hands up, don't shoot\" gesture from ferguson URL",
+        "sentiment_score": 0.98997962474823,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.817517876625061
+    },
+    {
+        "tweet_id": "705093513076015104",
+        "content": "tons of people searching \"how to move to canada\" following trump, clinton wins URL URL",
+        "sentiment_score": 0.9820960760116577,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6766506433486938
+    },
+    {
+        "tweet_id": "556873675941896193",
+        "content": "perfect photos even at 30 mph with optical image stabilization. #galaxynote4 URL",
+        "sentiment_score": 0.9940616488456726,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5322889089584351
+    },
+    {
+        "tweet_id": "755523157700648960",
+        "content": "ohio police officer served sandwich containing shards of glass \u2013 officer has been hospitalized - #rncincle URL",
+        "sentiment_score": 0.9771866798400879,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5572793483734131
+    },
+    {
+        "tweet_id": "742678930516123650",
+        "content": "gay muslim democrat terrorist threatened to kill his classmates. when he was 10. but nra or something. URL",
+        "sentiment_score": 0.9965851306915283,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9899799823760986
+    },
+    {
+        "tweet_id": "500371149713178625",
+        "content": "in what world do you let a cop who killed someone leave town? URL #ferguson",
+        "sentiment_score": 0.9963672161102295,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8530038595199585
+    },
+    {
+        "tweet_id": "732971411157880832",
+        "content": "here's an interesting look at $tgt target's stock price since it implemented it's transgender bathroom policy... URL",
+        "sentiment_score": 0.9805759787559509,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5651572942733765
+    },
+    {
+        "tweet_id": "549964632883232768",
+        "content": "transgender teen leaves heartbreaking suicide note on tumblr before getting hit by a truck: URL URL",
+        "sentiment_score": 0.9969782829284668,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9274494647979736
+    },
+    {
+        "tweet_id": "727982226290442240",
+        "content": "surprise! => @target stock drops since #transgender bathroom policy URL URL",
+        "sentiment_score": 0.9994773268699646,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.9313862919807434
+    },
+    {
+        "tweet_id": "500308076004929537",
+        "content": "possible \"robbery\" took place and bam! like magic it's as if another unarmed black youth being murdered has been forgotten #smh #ferguson",
+        "sentiment_score": 0.9838702082633972,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9184566140174866
+    },
+    {
+        "tweet_id": "778299287293816832",
+        "content": "will ny ag investigate clinton campaign credit card fraud re elderly donors? URL URL",
+        "sentiment_score": 0.9976118803024292,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4369320571422577
+    },
+    {
+        "tweet_id": "517038566061658114",
+        "content": "a new ios 8 bug is deleting users' icloud documents. URL URL",
+        "sentiment_score": 0.9996682405471802,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4748724102973938
+    },
+    {
+        "tweet_id": "714503380476026880",
+        "content": "open letter to trump voters from his top strategist-turned-defector - amazing first person account URL via @xojanedotcom",
+        "sentiment_score": 0.92204350233078,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7175639271736145
+    },
+    {
+        "tweet_id": "500378522788315137",
+        "content": "#ferguson police: officer involved in fatal shooting of michael brown didn't know he was suspect in alleged robbery. URL",
+        "sentiment_score": 0.993847668170929,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7773662209510803
+    },
+    {
+        "tweet_id": "728625967921401856",
+        "content": "the retail giant has taken huge hits as consumers react to their misguided bathroom policy. URL URL",
+        "sentiment_score": 0.8568096160888672,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.39899346232414246
+    },
+    {
+        "tweet_id": "531493734358061056",
+        "content": "breaking news: isis terror group confirmed its leader abu bakr al-baghdadi has been injured in a us air strike yesterday - channel 2",
+        "sentiment_score": 0.905699610710144,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9340768456459045
+    },
+    {
+        "tweet_id": "553576010898497536",
+        "content": "breaking: gunman at paris store threatens to kill hostages if #charliehebdo suspects are harmed. URL",
+        "sentiment_score": 0.987880527973175,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9736034274101257
+    },
+    {
+        "tweet_id": "553548567420628992",
+        "content": "afp reports there are 2 dead, and 5 hostages being held in the kosher store in eastern paris; separate incident to charlie hebdo shooters.",
+        "sentiment_score": 0.987475574016571,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7724610567092896
+    },
+    {
+        "tweet_id": "716416753409081344",
+        "content": "hearing that bernie sanders flipped clark county in nevada at state convention, may have won the entire state #feelthebern",
+        "sentiment_score": 0.7749131321907043,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4667016267776489
+    },
+    {
+        "tweet_id": "516390549012480001",
+        "content": "rt @dangillmor hong kong \"hands up, don't shoot\" emulation of ferguson protests is such a powerful image: URL",
+        "sentiment_score": 0.999352753162384,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.583102822303772
+    },
+    {
+        "tweet_id": "516475930097643520",
+        "content": "breaking: show of solidarity from #hongkong to #ferguson; hands up, don't shoot hong kong protests URL",
+        "sentiment_score": 0.9937477111816406,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5837657451629639
+    },
+    {
+        "tweet_id": "707420972173955072",
+        "content": "obama skipping nancy reagan's funeral to attend sxsw URL URL",
+        "sentiment_score": 0.9677753448486328,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7730523943901062
+    },
+    {
+        "tweet_id": "780882510645370880",
+        "content": "chelsea clinton implies here that marijuana can kill you. uhh URL",
+        "sentiment_score": 0.9939676523208618,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7171940207481384
+    },
+    {
+        "tweet_id": "640118021101604864",
+        "content": "the insane reason why chinese drivers intentionally kill pedestrians they hit \u2014 via @slate URL URL",
+        "sentiment_score": 0.9975226521492004,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8664597868919373
+    },
+    {
+        "tweet_id": "778530869208190976",
+        "content": "hillary overcharges poorest campaign donors @lindasuhler @realdrgina @girlsfortrump @cinderella2b @kamvtv #us #usa\ud83c\uddfa\ud83c\uddf8 URL",
+        "sentiment_score": 0.9982947707176208,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5438846349716187
+    },
+    {
+        "tweet_id": "743126914794037248",
+        "content": "people blame the massacre in orlando on the nra. newsflash: the orlando shooter wasn't a nra member... but he was a registered democrat.",
+        "sentiment_score": 0.9907750487327576,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6834518313407898
+    },
+    {
+        "tweet_id": "521922785254580225",
+        "content": "#live from #kobane border: growing concern that\u00a0#isis has been using chemical weapons against #kurdish fighters. URL",
+        "sentiment_score": 0.9877997636795044,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9911035299301147
+    },
+    {
+        "tweet_id": "653432177632387072",
+        "content": "study finds over a third of vegetarians eat meat...when drunk! URL URL",
+        "sentiment_score": 0.9615045785903931,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.7548759579658508
+    },
+    {
+        "tweet_id": "552816020403269632",
+        "content": "looks like every charlie hebdo cartoonist has been killed: 1. charb - was on al-qaeda's hit list; 2. cabu, 3. wolinski, 4. tignous",
+        "sentiment_score": 0.9988686442375183,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7358179688453674
+    },
+    {
+        "tweet_id": "728273551883534336",
+        "content": "caitlyn jenner will pose nude on the sports illustrated cover. her balls will be censored by a sad michael jordan face.",
+        "sentiment_score": 0.9986238479614258,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9844945073127747
+    },
+    {
+        "tweet_id": "524929497205055488",
+        "content": "canada's parliament hill is on lockdown as police hunt shooting suspect; at least 1 injured - @cbcnews, @torontostar URL",
+        "sentiment_score": 0.992942214012146,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9856109619140625
+    },
+    {
+        "tweet_id": "727834854931435522",
+        "content": "evidence destroyed? campaign made payments to hard drive and document destruction company URL #makeamericagreatagain",
+        "sentiment_score": 0.9992265701293945,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5131974816322327
+    },
+    {
+        "tweet_id": "521882110789824512",
+        "content": "meria: signs #isis is using chemical weapons. URL URL",
+        "sentiment_score": 0.996810257434845,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.48661261796951294
+    },
+    {
+        "tweet_id": "524937542131793920",
+        "content": "we are in full lock down until further notice from ottawa police.",
+        "sentiment_score": 0.9289999008178711,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6091260313987732
+    },
+    {
+        "tweet_id": "724603564946010112",
+        "content": "twenty-five stories proving target\u2019s pro-trans bathroom policy is dangerous URL",
+        "sentiment_score": 0.9976474642753601,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5365920066833496
+    },
+    {
+        "tweet_id": "765735409984806912",
+        "content": "trump: dems \"failed and betrayed the africanamerican community\u201d trump: \u201claziness is a trait in blacks, it really is\" URL",
+        "sentiment_score": 0.99608314037323,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5168531537055969
+    },
+    {
+        "tweet_id": "707305999971921920",
+        "content": "\u2018president petty strikes again\u2019: obama will reportedly skip nancy reagan\u2019s funeral,,, \u2705 URL URL",
+        "sentiment_score": 0.9988865256309509,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8742110133171082
+    },
+    {
+        "tweet_id": "715253497462145024",
+        "content": "just in: donald trump to @msnbc: \"there has to be some form of punishment\" for women who have an abortion.",
+        "sentiment_score": 0.9823845028877258,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5216488242149353
+    },
+    {
+        "tweet_id": "500332933098385408",
+        "content": "if you can justify shooting an unarmed teenager by saying \"he might have been committing a misdemeanor\" you are a fucking asshole. #ferguson",
+        "sentiment_score": 0.9985886216163635,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9870710968971252
+    },
+    {
+        "tweet_id": "715268937873760256",
+        "content": "donald trump goes full anti-woman: \"punishment\" for women who abort URL URL",
+        "sentiment_score": 0.9787035584449768,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.368087500333786
+    },
+    {
+        "tweet_id": "521444489697583104",
+        "content": "photos proved that terrorists used chemical weapons against the kurds #koban\u00ee #airdrop2kobane #kurdistan #isis URL",
+        "sentiment_score": 0.9932716488838196,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8861924409866333
+    },
+    {
+        "tweet_id": "524927281048080385",
+        "content": "snipers set up on national art gallery as we remain barricaded in centre block on parliament hill #cdnpoli. URL",
+        "sentiment_score": 0.9839312434196472,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.939543604850769
+    },
+    {
+        "tweet_id": "553505242554175489",
+        "content": "suspects in #charliehebdo attack spoke to police by phone and said they wanted to die as martyrs, says french mp. URL",
+        "sentiment_score": 0.9955471754074097,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6670598387718201
+    },
+    {
+        "tweet_id": "547670441754914816",
+        "content": "we need to talk about the fact that the teletubby sun baby is 19 years old now: URL",
+        "sentiment_score": 0.9979265928268433,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9139396548271179
+    },
+    {
+        "tweet_id": "500288349924782080",
+        "content": "did anyone think of comparing the clothes that #mikebrown was wearing when he was laying on the street to the security footage? #ferguson",
+        "sentiment_score": 0.9950236082077026,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7054652571678162
+    },
+    {
+        "tweet_id": "533734824905670656",
+        "content": "breaking news: isis executioner jihadi john reportedly wounded in air strike. big scoop in tomorrow's mos > URL",
+        "sentiment_score": 0.9850542545318604,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.849190890789032
+    },
+    {
+        "tweet_id": "500278045597368320",
+        "content": "urgent: darren wilson is the police officer who shot mike brown URL #ferguson URL",
+        "sentiment_score": 0.9230263829231262,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8039602637290955
+    },
+    {
+        "tweet_id": "544306719686656000",
+        "content": "us evacuated consulate in sydney after #sydneysiege. emergency warning to u.s. citizens urging them to \"maintain high level of vigilance\".",
+        "sentiment_score": 0.8229940533638,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9901129007339478
+    },
+    {
+        "tweet_id": "751856580874960897",
+        "content": "should say \"labor unions aligned with @hillaryclinton\" stopped dems from saying no tpp-they don't speak for nurses URL",
+        "sentiment_score": 0.9984104633331299,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.40972116589546204
+    },
+    {
+        "tweet_id": "712223438698627073",
+        "content": "keith richards 'once pulled a knife on donald trump', claims rolling stones' former promoter URL URL",
+        "sentiment_score": 0.9949312806129456,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8205503225326538
+    },
+    {
+        "tweet_id": "707405809181917184",
+        "content": "bachmann: obama \"classless\" for missing nancy reagan\u2019s funeral URL URL",
+        "sentiment_score": 0.9991177916526794,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6270044445991516
+    },
+    {
+        "tweet_id": "500258409988763649",
+        "content": "name of #ferguson cop is expected to be released by 9 et, police chief says: URL (j.b. forbes, ap) URL",
+        "sentiment_score": 0.9991889595985413,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.47717419266700745
+    },
+    {
+        "tweet_id": "524940659778920448",
+        "content": "attack on parliament: soldier shot; gunman on the loose. follow our developing story: URL URL",
+        "sentiment_score": 0.9954310655593872,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.42542606592178345
+    },
+    {
+        "tweet_id": "744390771869102080",
+        "content": "one of the men who wanted to copy the #orlando shooter was stopped in l.a. he was a liberal democrat and #berniebro. URL",
+        "sentiment_score": 0.9996694326400757,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9257060885429382
+    },
+    {
+        "tweet_id": "778689027918618625",
+        "content": "black men may have cause to run from police, massachusetts high court says URL",
+        "sentiment_score": 0.9978941082954407,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.3471814692020416
+    },
+    {
+        "tweet_id": "707412869860696064",
+        "content": "bachmann slams \"classless\" obama for skipping nancy reagan\u2019s funeral URL URL",
+        "sentiment_score": 0.9975134134292603,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.580077588558197
+    },
+    {
+        "tweet_id": "650710483289419776",
+        "content": "local school art project titled \"candlelight\" URL",
+        "sentiment_score": 0.9501543641090393,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7547938823699951
+    },
+    {
+        "tweet_id": "553228463998783488",
+        "content": "a nc town has been forced to remove a statue of a praying soldier and a christian flag at a veterans memorial URL",
+        "sentiment_score": 0.9956498742103577,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.632491946220398
+    },
+    {
+        "tweet_id": "524981436252950528",
+        "content": "canadian authorities have given name of suspect in ottawa attacks to u.s. feds; ask for fbi assistance: sr u.s. law enforcement official",
+        "sentiment_score": 0.9857627153396606,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7996929287910461
+    },
+    {
+        "tweet_id": "714851393861881857",
+        "content": "trump's top strategist, stephanie cegielski, has quit his campaign + just wrote an open letter to trump supporters: URL",
+        "sentiment_score": 0.9988059997558594,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6734328866004944
+    },
+    {
+        "tweet_id": "500279189405433858",
+        "content": "that was very \"slick\" of the police chief to create a narrative that #mikebrown was a \"suspect\" in a robbery! #ferguson",
+        "sentiment_score": 0.9988296627998352,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6871076226234436
+    },
+    {
+        "tweet_id": "500389488217309184",
+        "content": "#ferguson chief let most of day go by b4 disclosing (after repeated qs) that cop who killed #mikebrown knew nothing about robbery. danger",
+        "sentiment_score": 0.999138355255127,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9727757573127747
+    },
+    {
+        "tweet_id": "525008463819464704",
+        "content": "meet kevin vickers, the hero who shot down the parliament hill gunman #ottawashooting URL URL",
+        "sentiment_score": 0.8912574648857117,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9717365503311157
+    },
+    {
+        "tweet_id": "503714147138166784",
+        "content": "looks so innocent without the hood. you would never think this london rapper, abdel-majed abdel bary, beheaded foley URL",
+        "sentiment_score": 0.9726983308792114,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.43617334961891174
+    },
+    {
+        "tweet_id": "500363126294863876",
+        "content": "the #ferguson police chief just basically confirmed #mikebrown was gunned to death for the crime of walking in the street? horrific.",
+        "sentiment_score": 0.998974084854126,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9841455817222595
+    },
+    {
+        "tweet_id": "764368020391223296",
+        "content": "video : clueless hillary clinton calls for americans to respect and empathize with isis URL",
+        "sentiment_score": 0.9923058152198792,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6179335713386536
+    },
+    {
+        "tweet_id": "741995157969592321",
+        "content": "orlando shooter, muslim, omar mateen was a registered democrat. URL",
+        "sentiment_score": 0.9369289875030518,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.753887414932251
+    },
+    {
+        "tweet_id": "533811170889568256",
+        "content": "uk jihadi john is 'wounded in us airstrike on secret bunker meeting of isis high command' URL URL",
+        "sentiment_score": 0.9976862668991089,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.3359752893447876
+    },
+    {
+        "tweet_id": "730516765525082112",
+        "content": "a canadian teen didn't find a lost mayan city: URL URL",
+        "sentiment_score": 0.8327021598815918,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4078761637210846
+    },
+    {
+        "tweet_id": "516411927506206721",
+        "content": "hong kong's protesters are using the \"hands up, don't shoot\" gesture from ferguson, missouri. #handsupdontshoot. URL",
+        "sentiment_score": 0.9899175763130188,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6833009123802185
+    },
+    {
+        "tweet_id": "714998347111669760",
+        "content": "we must address the political marginalization and institutional racism affecting people of color. read my plan: URL",
+        "sentiment_score": 0.9929319620132446,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8423341512680054
+    },
+    {
+        "tweet_id": "553579224402235393",
+        "content": "hostage-taker at paris store demands release of #kouachibrothers, police union spokesman says. URL URL",
+        "sentiment_score": 0.9976561069488525,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.88352370262146
+    },
+    {
+        "tweet_id": "714811995573325828",
+        "content": "an open letter to trump voters from his top strategist: stop supporting him, he doesn't want to win URL",
+        "sentiment_score": 0.9967201352119446,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6193583607673645
+    },
+    {
+        "tweet_id": "728101712762834944",
+        "content": "caitlyn jenner about to post nude for cover of sports illustrated.... \ud83d\ude33",
+        "sentiment_score": 0.9181885123252869,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5989911556243896
+    },
+    {
+        "tweet_id": "553549686129561600",
+        "content": "update: gunman in kosher grocery store is demanding the release of the suspects in #charliehebdo shooting - reports URL",
+        "sentiment_score": 0.9984782338142395,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5894105434417725
+    },
+    {
+        "tweet_id": "701539698452393986",
+        "content": "the 2016 race: no, the polling doesn\u2019t prove bernie sanders won the hispanic vote in nevada URL",
+        "sentiment_score": 0.9992246627807617,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7759286165237427
+    },
+    {
+        "tweet_id": "521788572933062657",
+        "content": "now kurds are being killed by the chemical weapons of isis what more excuses do you have to not help us? #kobane URL",
+        "sentiment_score": 0.9981631636619568,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6657044887542725
+    },
+    {
+        "tweet_id": "653285570383335424",
+        "content": "5p!!! hell no!!!!!! #5pbagcharge \ud83d\ude35\ud83d\ude35 URL",
+        "sentiment_score": 0.9986636638641357,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.4462754726409912
+    },
+    {
+        "tweet_id": "707310135291416576",
+        "content": "obama to skip nancy reagan's funeral, as he did scalia's. this time, he'll be attending sxsw: URL",
+        "sentiment_score": 0.56585693359375,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.710803210735321
+    },
+    {
+        "tweet_id": "765887221736046592",
+        "content": "#whiteliberalproverbs\" i'll have them n*ggers voting democratic for the next two hundred years\". lbj, founder of the modern welfare state",
+        "sentiment_score": 0.9956068396568298,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.43223264813423157
+    },
+    {
+        "tweet_id": "576829262927413248",
+        "content": "very good on #putin coup by @coalsonr: three scenarios for a succession in russia URL via @rferl URL",
+        "sentiment_score": 0.9933233857154846,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6728747487068176
+    },
+    {
+        "tweet_id": "556541489388724224",
+        "content": "hour five of your road trip? time to break out the s pen. URL",
+        "sentiment_score": 0.9963048696517944,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5203912258148193
+    },
+    {
+        "tweet_id": "516414874348298240",
+        "content": "the globalisation of civil disobedience: #hongkong's protesters use the #ferguson \"hands up, don't shoot\" gesture. URL",
+        "sentiment_score": 0.9923356175422668,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.896098256111145
+    },
+    {
+        "tweet_id": "524993533212897281",
+        "content": "fbi assisting in the case of the ottawa shooting, sources have confirmed to ctv news",
+        "sentiment_score": 0.9181089401245117,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7119426131248474
+    },
+    {
+        "tweet_id": "498280126254428160",
+        "content": "mike brown was staying with his grandmother for the summer, who lived in the community. #ferguson",
+        "sentiment_score": 0.9767905473709106,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4570915997028351
+    },
+    {
+        "tweet_id": "650254360727973889",
+        "content": "5p bag charge fi dead #robthisengland URL",
+        "sentiment_score": 0.9986604452133179,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6011102795600891
+    },
+    {
+        "tweet_id": "510507736287961088",
+        "content": "us govt reportedly threatened to prosecute family of kidnapped journalist jim foley if it paid ransom URL h/t @acarvin",
+        "sentiment_score": 0.9956268072128296,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9383327960968018
+    },
+    {
+        "tweet_id": "544328894812549121",
+        "content": "#sydneysiege: hostage-takers \u2018have suicide belts, demand radio convo with #abbott\u2019 \u2013 report URL URL",
+        "sentiment_score": 0.9966806769371033,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8989589810371399
+    },
+    {
+        "tweet_id": "516395112201736192",
+        "content": "hands up, don\u2019t shoot \u2014hong kong edition: URL URL",
+        "sentiment_score": 0.9776694178581238,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.4110085964202881
+    },
+    {
+        "tweet_id": "517712193841037312",
+        "content": "kim jong un broke his ankles because he's too fat...",
+        "sentiment_score": 0.9984185695648193,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5202978849411011
+    },
+    {
+        "tweet_id": "514308277803294721",
+        "content": "#hiphop #rap #news apple to shut down beats music streaming service: insiders at beats and apple sa... URL @djscrill",
+        "sentiment_score": 0.9989166259765625,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7751820683479309
+    },
+    {
+        "tweet_id": "651044059222556674",
+        "content": "the best thing about the 5p plastic bag charge is that the cupboard next to my sink is now worth \u00a3672,348.",
+        "sentiment_score": 0.9963957667350769,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.439564049243927
+    },
+    {
+        "tweet_id": "723477822950395904",
+        "content": "purple pain: landmarks across globe light up in fitting prince tributes #ripprince URL URL",
+        "sentiment_score": 0.9982588887214661,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5390288829803467
+    },
+    {
+        "tweet_id": "763896522790440960",
+        "content": "layton police officer hospitalized after subway worker serves him meth and thc in his drink (video) URL",
+        "sentiment_score": 0.9963582158088684,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4454554617404938
+    },
+    {
+        "tweet_id": "547525843749470208",
+        "content": "can we talk about the fact that the teletubby sun baby is 19 years old now?! URL URL",
+        "sentiment_score": 0.9976348876953125,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.6277742385864258
+    },
+    {
+        "tweet_id": "552848620375261184",
+        "content": "witnesses say the charlie hebdo gunmen identified themselves as members of al-qaida: URL URL",
+        "sentiment_score": 0.9966477751731873,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8199335932731628
+    },
+    {
+        "tweet_id": "553550301886955520",
+        "content": "breaking: one person seriously wounded, six taken hostage in incident at kosher supermarket in paris: police source",
+        "sentiment_score": 0.9928521513938904,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.495656818151474
+    },
+    {
+        "tweet_id": "531525016794697729",
+        "content": "more: officials say they do not know the extent of al-baghdadi's apparent injuries: URL",
+        "sentiment_score": 0.9990237951278687,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5694515109062195
+    },
+    {
+        "tweet_id": "524970851675176960",
+        "content": "canada's parliament building locked down after shooting; at least one guard injured: URL photo: ap URL",
+        "sentiment_score": 0.9970126152038574,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8662263751029968
+    },
+    {
+        "tweet_id": "500284699546517505",
+        "content": "if there is surveillance of a robbery why release stills and not the video itself? #ferguson",
+        "sentiment_score": 0.9973155856132507,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7041414380073547
+    },
+    {
+        "tweet_id": "758825535480864769",
+        "content": "hillary clinton is lying. clinton is not first woman nominated for president. it was victoria woodhull in 1872. to \u2026 URL",
+        "sentiment_score": 0.9889677166938782,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.756751537322998
+    },
+    {
+        "tweet_id": "531733274968989696",
+        "content": "reports that is leader abu bakr al-baghdadi was wounded in a coalition air strike are \"unconfirmed\" - us defense sec john kirby #r4today",
+        "sentiment_score": 0.9830495715141296,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.48011231422424316
+    },
+    {
+        "tweet_id": "707300612862566400",
+        "content": "obama to skip nancy reagan\u2019s funeral, attend entertainment festival instead URL URL",
+        "sentiment_score": 0.9888548254966736,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5614715218544006
+    },
+    {
+        "tweet_id": "760109079133990912",
+        "content": "\u201cafter school satan clubs\u201d? URL",
+        "sentiment_score": 0.9951954483985901,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7710978984832764
+    },
+    {
+        "tweet_id": "500281131057811456",
+        "content": "breaking news: according to documents released to the press, #mikebrown was connected to an earlier robbery #ferguson URL",
+        "sentiment_score": 0.9888665080070496,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8842286467552185
+    },
+    {
+        "tweet_id": "523545090099523584",
+        "content": "concerned airport passenger suits up in homemade hazmat before flight URL URL",
+        "sentiment_score": 0.9967448711395264,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9111643433570862
+    }
+]

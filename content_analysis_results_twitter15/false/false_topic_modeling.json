@@ -1,0 +1,7 @@
+{
+    "Topic 1": "0.089*\"url\" + 0.012*\"talk\" + 0.012*\"angela\" + 0.009*\"person\" + 0.008*\"photo\" + 0.008*\"florida\" + 0.007*\"student\" + 0.007*\"sai\" + 0.007*\"grave\" + 0.007*\"mass\"",
+    "Topic 2": "0.060*\"url\" + 0.020*\"fukushima\" + 0.017*\"water\" + 0.017*\"ocean\" + 0.015*\"leak\" + 0.014*\"radioact\" + 0.008*\"dai\" + 0.008*\"ton\" + 0.008*\"nuclear\" + 0.008*\"plant\"",
+    "Topic 3": "0.131*\"url\" + 0.012*\"chocol\" + 0.009*\"obama\" + 0.008*\"russian\" + 0.007*\"world\" + 0.007*\"peni\" + 0.007*\"expans\" + 0.007*\"nhl\" + 0.007*\"isi\" + 0.006*\"texa\"",
+    "Topic 4": "0.093*\"url\" + 0.020*\"shot\" + 0.014*\"malaysia\" + 0.014*\"airlin\" + 0.013*\"plane\" + 0.012*\"banksi\" + 0.011*\"abc\" + 0.010*\"report\" + 0.010*\"sai\" + 0.010*\"charliehebdo\"",
+    "Topic 5": "0.095*\"url\" + 0.012*\"banksi\" + 0.011*\"obama\" + 0.010*\"alert\" + 0.010*\"new\" + 0.010*\"shutdown\" + 0.010*\"amber\" + 0.009*\"arrest\" + 0.009*\"black\" + 0.007*\"ferguson\""
+}

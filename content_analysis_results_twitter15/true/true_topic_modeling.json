@@ -1,0 +1,7 @@
+{
+    "Topic 1": "0.138*\"url\" + 0.020*\"paul\" + 0.020*\"walker\" + 0.016*\"di\" + 0.011*\"spider\" + 0.009*\"size\" + 0.009*\"puppi\" + 0.008*\"report\" + 0.008*\"rainforest\" + 0.008*\"rippaulwalk\"",
+    "Topic 2": "0.106*\"url\" + 0.034*\"shot\" + 0.026*\"memori\" + 0.025*\"ottawa\" + 0.024*\"war\" + 0.022*\"soldier\" + 0.015*\"paul\" + 0.015*\"walker\" + 0.014*\"shoot\" + 0.013*\"new\"",
+    "Topic 3": "0.046*\"url\" + 0.012*\"wai\" + 0.012*\"isi\" + 0.011*\"walker\" + 0.011*\"paul\" + 0.011*\"man\" + 0.009*\"di\" + 0.007*\"behead\" + 0.007*\"return\" + 0.007*\"reservist\"",
+    "Topic 4": "0.028*\"behead\" + 0.027*\"url\" + 0.022*\"crash\" + 0.017*\"car\" + 0.013*\"david\" + 0.013*\"british\" + 0.012*\"hain\" + 0.011*\"di\" + 0.011*\"oklahoma\" + 0.011*\"alton\"",
+    "Topic 5": "0.074*\"url\" + 0.032*\"di\" + 0.020*\"walker\" + 0.020*\"paul\" + 0.018*\"driver\" + 0.017*\"care\" + 0.017*\"diseas\" + 0.016*\"man\" + 0.015*\"famou\" + 0.015*\"marlboro\""
+}

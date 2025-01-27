@@ -1,0 +1,2978 @@
+[
+    {
+        "tweet_id": "551099691702956032",
+        "content": "rip elly may clampett: so sad to learn #beverlyhillbillies star donna douglas has passed away. URL",
+        "sentiment_score": 0.9966185092926025,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9812605381011963
+    },
+    {
+        "tweet_id": "514106273852174337",
+        "content": "just in: missing afghan soldiers found trying to enter canada near niagara falls URL URL",
+        "sentiment_score": 0.9986139535903931,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5549308657646179
+    },
+    {
+        "tweet_id": "565999191982616577",
+        "content": "let's let our friends know that a state senator in south carolina stated \"women are a lesser cut of meat\" #chewonthis URL",
+        "sentiment_score": 0.9960971474647522,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6535658836364746
+    },
+    {
+        "tweet_id": "407231591191035904",
+        "content": "paul walker died too fast, i'm furious.. :/",
+        "sentiment_score": 0.9995545744895935,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9752202033996582
+    },
+    {
+        "tweet_id": "514057033419849728",
+        "content": "alaskan reporter says \"f*ck this,\" quits on live tv in marijuana legalization protest: URL URL",
+        "sentiment_score": 0.9994551539421082,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9347777962684631
+    },
+    {
+        "tweet_id": "407167258452971520",
+        "content": "paul walker mourned by vin diesel and more 'fast & furious' co-stars URL #rippaulwalker URL",
+        "sentiment_score": 0.9735093116760254,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9874442219734192
+    },
+    {
+        "tweet_id": "509464457836511232",
+        "content": "apparently microsoft are trying to buy mojang, the creators of minecraft, for around $2 billion... o_o",
+        "sentiment_score": 0.9986874461174011,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5754589438438416
+    },
+    {
+        "tweet_id": "407161635439013888",
+        "content": "paul walker dies, millions cried. millions died of human hunger, no one simply gives a fk.",
+        "sentiment_score": 0.9941137433052063,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9036027789115906
+    },
+    {
+        "tweet_id": "519348106836860929",
+        "content": "hp confirmed that it's splitting into two companies. and cutting 5,000 jobs. URL $hp URL",
+        "sentiment_score": 0.99783855676651,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.3866482675075531
+    },
+    {
+        "tweet_id": "524312881823637504",
+        "content": "google south american goliath birdeater. helllll noooooo\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b\u270b",
+        "sentiment_score": 0.9861361980438232,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4630716145038605
+    },
+    {
+        "tweet_id": "510906049549705216",
+        "content": "breaking news: isis beheads a british hostage david haines in message to america's partners. URL",
+        "sentiment_score": 0.9886888861656189,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.3931157886981964
+    },
+    {
+        "tweet_id": "524185876931162112",
+        "content": "puppy-sized spider surprises scientist in rainforest @livescience | URL URL",
+        "sentiment_score": 0.9306167364120483,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5264847874641418
+    },
+    {
+        "tweet_id": "545271117355958272",
+        "content": "a texas plumbing company's truck somehow ended up in syria's civil war URL URL",
+        "sentiment_score": 0.9992214441299438,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7376509308815002
+    },
+    {
+        "tweet_id": "407254590363426816",
+        "content": "fast and furious 7 \"delayed\" but \"won't be scrapped\" following paul walker's death: report URL",
+        "sentiment_score": 0.9724721312522888,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9830515384674072
+    },
+    {
+        "tweet_id": "524941504796962816",
+        "content": "breaking news photo gallery: parliament hill attacked, soldier shot at national war memorial URL URL",
+        "sentiment_score": 0.9910992980003357,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.46457767486572266
+    },
+    {
+        "tweet_id": "514451906211893248",
+        "content": "oregon police officers step in and make delivery after pizza hut driver gets injured in a car crash: URL #odd",
+        "sentiment_score": 0.9919773936271667,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6206129789352417
+    },
+    {
+        "tweet_id": "515519742355185664",
+        "content": "vaughn foods co-worker who witnessed murder tells #news9 murder suspect alton nolen was shouting islamic phrases. fbi investigating",
+        "sentiment_score": 0.975841760635376,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9335322380065918
+    },
+    {
+        "tweet_id": "517487705978966016",
+        "content": "d.a. to seek death in #moore, #oklahoma beheading case. #altonnolen #kellyfile URL",
+        "sentiment_score": 0.997166097164154,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7853615880012512
+    },
+    {
+        "tweet_id": "501881262240694272",
+        "content": "please pray for steven sotloff, [another captive american] that #isis has threatened to behead. #tcot URL",
+        "sentiment_score": 0.9886815547943115,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9890724420547485
+    },
+    {
+        "tweet_id": "525039784503541760",
+        "content": "cpl. nathan cirillo pictured on the left, minutes before he was shot at the war memorial today. #cbcott #ottnews URL",
+        "sentiment_score": 0.9897689819335938,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.432018518447876
+    },
+    {
+        "tweet_id": "528237933661544448",
+        "content": "fanged deer pops up in afghanistan, 60 years after its last appearance URL URL",
+        "sentiment_score": 0.9735507965087891,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6761093735694885
+    },
+    {
+        "tweet_id": "407213757048160256",
+        "content": "r.i.p paul walker.... he died doing what he loved... and that's going fast. URL",
+        "sentiment_score": 0.9524450302124023,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8348696231842041
+    },
+    {
+        "tweet_id": "524930671220105216",
+        "content": "developing news: soldier shot at war memorial. watch cbc nn for coverage. or follow online: URL URL",
+        "sentiment_score": 0.9924023151397705,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5171254277229309
+    },
+    {
+        "tweet_id": "407197672702214144",
+        "content": "prayers to our friend, tyrese. his emotional message about paul walker got us choked up... URL",
+        "sentiment_score": 0.9958016276359558,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6918084621429443
+    },
+    {
+        "tweet_id": "514098803347951616",
+        "content": "breaking news: the 3 missing afghan soldiers have been found trying to cross into canada at the rainbow bridge in niagara falls. ny. nbc",
+        "sentiment_score": 0.8261061906814575,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.954787015914917
+    },
+    {
+        "tweet_id": "536105045545472000",
+        "content": "a letter from @lego_group in the 1970s, boxed in with the toys via @s8mb @hfdsp #gender #equality URL",
+        "sentiment_score": 0.990707278251648,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8976190090179443
+    },
+    {
+        "tweet_id": "407182466613792768",
+        "content": "fan of \"fast & furious\" actor paul walker shocked by his death as memorial grows URL URL",
+        "sentiment_score": 0.9958351850509644,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5224782228469849
+    },
+    {
+        "tweet_id": "407181813174788096",
+        "content": "paul walker's co-stars take to twitter to share their condolences following his death URL #rippaulwalker #teampw",
+        "sentiment_score": 0.9718142151832581,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9745622873306274
+    },
+    {
+        "tweet_id": "536962520477470720",
+        "content": "that powerful letter from lego to parents from the 1970s? it's real URL URL",
+        "sentiment_score": 0.7675230503082275,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5222605466842651
+    },
+    {
+        "tweet_id": "551120768164462592",
+        "content": "donna douglas, star of the beverly hillbillies, has passed away at 81 URL URL",
+        "sentiment_score": 0.9974091649055481,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5494018793106079
+    },
+    {
+        "tweet_id": "524965786059026432",
+        "content": "breaking news: one soldier has died after ottawa shooting, suspect(s) still at large - URL",
+        "sentiment_score": 0.8917911648750305,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8911936283111572
+    },
+    {
+        "tweet_id": "510908595144519680",
+        "content": "david haines 'beheading': isis release video claiming to show execution of british hostage URL URL",
+        "sentiment_score": 0.998024582862854,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6185270547866821
+    },
+    {
+        "tweet_id": "524928119955013632",
+        "content": "police say they have located car belonging to suspect in #ottawa shooting. uniformed soldier shot at war memorial, condition unknown.",
+        "sentiment_score": 0.9873752593994141,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6139839887619019
+    },
+    {
+        "tweet_id": "554722567224049664",
+        "content": "saudi cleric proclaims snowman-building 'anti-islamic' (photos, video) URL URL",
+        "sentiment_score": 0.9961671233177185,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8913863897323608
+    },
+    {
+        "tweet_id": "517051126466625536",
+        "content": "colleen hufford was a white woman, hardly worth a mention from pres. obama (unlike #ferguson) URL URL",
+        "sentiment_score": 0.9968339800834656,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.4851283133029938
+    },
+    {
+        "tweet_id": "527308173112139776",
+        "content": "matt taibbi has left first look media. sorry to see him go. a great talent and we wish him well. URL",
+        "sentiment_score": 0.8119924664497375,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9562451243400574
+    },
+    {
+        "tweet_id": "524958128392376320",
+        "content": "ottawa police confirm that there were multiple suspects in the shooting, saying there were \"possibly 3\" shooters. URL",
+        "sentiment_score": 0.9837640523910522,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7366784811019897
+    },
+    {
+        "tweet_id": "407217471473451008",
+        "content": "paul walker's death keeps getting more ironic... the driver, roger rodas, was a former racecar driver #rip URL",
+        "sentiment_score": 0.969312846660614,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.45184189081192017
+    },
+    {
+        "tweet_id": "407176055657484289",
+        "content": "the last photo of paul walker, taken just before the crash that killed him. rip URL",
+        "sentiment_score": 0.9918791651725769,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4114135205745697
+    },
+    {
+        "tweet_id": "522321383716818944",
+        "content": "texas health officials say 2nd person to test positive for ebola at dallas hospital did treat thomas eric duncan: URL",
+        "sentiment_score": 0.9921958446502686,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5021218061447144
+    },
+    {
+        "tweet_id": "551106923601219585",
+        "content": "goodbye elly may: 'beverly hillbillies' star donna douglas dead at 81, reports say. URL URL",
+        "sentiment_score": 0.9989728927612305,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9282512068748474
+    },
+    {
+        "tweet_id": "407279190913069056",
+        "content": "fast & furious franchise responds to paul walker's death: URL URL",
+        "sentiment_score": 0.9974368214607239,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9787078499794006
+    },
+    {
+        "tweet_id": "427846006600777729",
+        "content": "marlboro man dies of smoking-related disease URL URL",
+        "sentiment_score": 0.9988511800765991,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8475735187530518
+    },
+    {
+        "tweet_id": "524977992683237376",
+        "content": "shooting investigation going on for more than 3 hours. much of downtown ottawa still in lockdown: URL #cbcott #ottnews",
+        "sentiment_score": 0.9932623505592346,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9883832335472107
+    },
+    {
+        "tweet_id": "514109888138842113",
+        "content": "alaskan reporter says \"f*ck this,\" quits on live tv \u2014 her coworker's reaction is priceless: URL URL",
+        "sentiment_score": 0.9682086110115051,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5931684970855713
+    },
+    {
+        "tweet_id": "514098833253748736",
+        "content": "breaking: 3 missing afghan soldiers have been found trying to cross the border into canada, senior law enforcement source tells nbc news",
+        "sentiment_score": 0.9545609354972839,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9224725365638733
+    },
+    {
+        "tweet_id": "552498516225179650",
+        "content": "this dog was abandoned at a scottish railway station with a suitcase full of his belongings URL URL",
+        "sentiment_score": 0.9996103644371033,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.5742394924163818
+    },
+    {
+        "tweet_id": "514039286845698048",
+        "content": "alaskan reporter says \"f*ck this,\" quits on live tv \u2014 her coworker's reaction is priceless: URL URL",
+        "sentiment_score": 0.9682086110115051,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5931684970855713
+    },
+    {
+        "tweet_id": "509464217549021184",
+        "content": "report: microsoft trying to buy mojang, creators of minecraft URL",
+        "sentiment_score": 0.9984323382377625,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7887399792671204
+    },
+    {
+        "tweet_id": "532197572698320896",
+        "content": "sugarhill gang's big bank hank dies -- dead at 57 from cancer URL",
+        "sentiment_score": 0.9994035959243774,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8701462149620056
+    },
+    {
+        "tweet_id": "534205316620382208",
+        "content": "disease spread by bugs that bite your face as you sleep is found in the us URL URL",
+        "sentiment_score": 0.9979740977287292,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.45501798391342163
+    },
+    {
+        "tweet_id": "552457656666185728",
+        "content": "this dog was abandoned at a scottish railway station with a suitcase full of his belongings URL URL",
+        "sentiment_score": 0.9996103644371033,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.5742394924163818
+    },
+    {
+        "tweet_id": "525041127343550464",
+        "content": "this photo was taken by a tourist at the national war memorial, shortly before nathan cirillo was shot and killed. URL",
+        "sentiment_score": 0.9856690168380737,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.3228786587715149
+    },
+    {
+        "tweet_id": "407184707118309376",
+        "content": "remembering paul walker: fast and furious star was \"so happy\" hours before his tragic death URL",
+        "sentiment_score": 0.9985594153404236,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.42055895924568176
+    },
+    {
+        "tweet_id": "524961721744900097",
+        "content": "canadian soldier who was shot at #ottawa's war memorial is a reservist serving with the argyll and sutherland highlanders in #hamilton, ont.",
+        "sentiment_score": 0.9794890880584717,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5611795783042908
+    },
+    {
+        "tweet_id": "538408710084001793",
+        "content": "a pregnant woman has lost her eye after being shot with bean bag by police in ferguson: URL URL",
+        "sentiment_score": 0.9993153810501099,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.824579119682312
+    },
+    {
+        "tweet_id": "538218607822770176",
+        "content": "a pregnant woman lost her eye after getting shot with a police bean bag round while she was in her car in #ferguson: URL",
+        "sentiment_score": 0.9997051358222961,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.43773114681243896
+    },
+    {
+        "tweet_id": "524930365400821761",
+        "content": "1 shot at war memorial in canada's capital. URL",
+        "sentiment_score": 0.9917112588882446,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.4623561501502991
+    },
+    {
+        "tweet_id": "536827853669941248",
+        "content": "lego letter from the 1970s still offers a powerful message to parents 40 years later URL URL",
+        "sentiment_score": 0.9990467429161072,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8958548903465271
+    },
+    {
+        "tweet_id": "524699123971534848",
+        "content": "we only have one thing to say about that giant goliath birdeater spider: URL URL",
+        "sentiment_score": 0.9981932044029236,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9583254456520081
+    },
+    {
+        "tweet_id": "407197113286545409",
+        "content": "paul walker's character name on fast and furious was brian. brian from family guy died in a car accident. coincidence? i think not",
+        "sentiment_score": 0.9968103766441345,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5682651400566101
+    },
+    {
+        "tweet_id": "507263441359613953",
+        "content": "#tesla reportedly selects nevada to build massive $5 billion battery plant URL via @foxcarreport URL",
+        "sentiment_score": 0.9919006824493408,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.32665717601776123
+    },
+    {
+        "tweet_id": "514478918636535808",
+        "content": "portland cops complete delivery after pizza hut driver injured in crash URL URL",
+        "sentiment_score": 0.9796953201293945,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5344997048377991
+    },
+    {
+        "tweet_id": "551159366876147714",
+        "content": "donna douglas, who played buxom tomboy elly may clampett on the 1960s sitcom 'the beverly hillbillies,' has died: URL",
+        "sentiment_score": 0.9983250498771667,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.929338276386261
+    },
+    {
+        "tweet_id": "524929106987991040",
+        "content": "breaking: soldier shot at war memorial in ottawa, hill on lockdown, shooter at large URL #ottnews",
+        "sentiment_score": 0.9747265577316284,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9608280062675476
+    },
+    {
+        "tweet_id": "524961908903149568",
+        "content": "2 new victims en route to ottawa hospital; 1 shot, both non-life-threatening, hospital says - @michaelctv, @cbcnews URL",
+        "sentiment_score": 0.9881630539894104,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6013450026512146
+    },
+    {
+        "tweet_id": "523026678419714048",
+        "content": "man walks in south american rainforest at night, sees spider the size of a small puppy URL",
+        "sentiment_score": 0.9901230931282043,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9748552441596985
+    },
+    {
+        "tweet_id": "436146437530075136",
+        "content": "not good for fancy #swiss #brand @nestle : philly steak & cheese @hotpockets linked to massive #beef #recall URL #food",
+        "sentiment_score": 0.9996719360351562,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9216360449790955
+    },
+    {
+        "tweet_id": "407248574099894272",
+        "content": "fast and furious 7 \"delayed\" but \"won't be scrapped\" following paul walker's death: report URL",
+        "sentiment_score": 0.9724721312522888,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9830515384674072
+    },
+    {
+        "tweet_id": "509466295344304129",
+        "content": "microsoft is reportedly buying 'minecraft' developer mojang for $2 billion URL",
+        "sentiment_score": 0.9946681261062622,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7580267786979675
+    },
+    {
+        "tweet_id": "523126268603031552",
+        "content": "the stuff of nightmares: this guy ran into a puppy sized spider. in a rainforest. at night. URL URL",
+        "sentiment_score": 0.9938367009162903,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9579096436500549
+    },
+    {
+        "tweet_id": "532276693931945984",
+        "content": "sugarhill gang rapper big bank hank has died at the age of 57. read about his legacy and contribution to hip hop: URL",
+        "sentiment_score": 0.981980562210083,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8582366108894348
+    },
+    {
+        "tweet_id": "407164597511393280",
+        "content": "r.i.p to the driver that died with paul walker that no one cares about because he wasn't famous.",
+        "sentiment_score": 0.9986957907676697,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8782109618186951
+    },
+    {
+        "tweet_id": "528822281972498432",
+        "content": "fanged deer spotted in afghanistan for the first time in 65yrs URL rt @independent mt @thewcs cc URL",
+        "sentiment_score": 0.9885683059692383,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.47523534297943115
+    },
+    {
+        "tweet_id": "407188779255222273",
+        "content": "paul walker remembered: celebs react to 'fast and furious' star's death URL",
+        "sentiment_score": 0.9760777950286865,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9867498278617859
+    },
+    {
+        "tweet_id": "427924694663454720",
+        "content": "actor who played marlboro man in ads dies from smoking-related disease URL",
+        "sentiment_score": 0.9987757802009583,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8636497855186462
+    },
+    {
+        "tweet_id": "536547921542791170",
+        "content": "lego letter from the 1970s still offers a powerful message to parents 40 years later URL URL",
+        "sentiment_score": 0.9990467429161072,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8958548903465271
+    },
+    {
+        "tweet_id": "525024066152169473",
+        "content": "corporal nathan cirillo, shot dead at #ottawa war memorial today, was 24. reservist was member of argyll and sutherland highlanders #cdnpoli",
+        "sentiment_score": 0.8118643760681152,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5116037130355835
+    },
+    {
+        "tweet_id": "504387128013246465",
+        "content": "fbi probing alleged audio of michael brown shooting URL URL",
+        "sentiment_score": 0.9504292011260986,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.81577467918396
+    },
+    {
+        "tweet_id": "524586367456919552",
+        "content": "scientist releases this horrifying picture of a puppy-sized spider he found in the rainforest URL URL",
+        "sentiment_score": 0.9753300547599792,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9138714671134949
+    },
+    {
+        "tweet_id": "531648145613398016",
+        "content": "making my own doritos flavored mountain dew! URL",
+        "sentiment_score": 0.5425631403923035,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7852159738540649
+    },
+    {
+        "tweet_id": "407236151167025152",
+        "content": "r.i.p to the driver that died with paul walker that no one cares about because he wasn't famous.",
+        "sentiment_score": 0.9986957907676697,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8782109618186951
+    },
+    {
+        "tweet_id": "407192370040803329",
+        "content": "remembering paul walker: URL URL",
+        "sentiment_score": 0.8821407556533813,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9267325401306152
+    },
+    {
+        "tweet_id": "407177474788057088",
+        "content": "r.i.p to the driver that died with paul walker that no one cares about because he wasn't famous.",
+        "sentiment_score": 0.9986957907676697,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8782109618186951
+    },
+    {
+        "tweet_id": "510918747188514816",
+        "content": "breaking: video claims to show beheading of british aid worker david haines by #isis.",
+        "sentiment_score": 0.9866403937339783,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.699467122554779
+    },
+    {
+        "tweet_id": "525301290218553344",
+        "content": "hero: kevin vickers moments after shooting dead canadian parliament attacker - URL / URL",
+        "sentiment_score": 0.8459741473197937,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.3444816768169403
+    },
+    {
+        "tweet_id": "551575491430211584",
+        "content": "19-year-old girl wakes up during brain surgery, asks doctors \u2018how\u2019s it going?\u2019 URL via @foxnewshealth",
+        "sentiment_score": 0.9950039982795715,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5265712738037109
+    },
+    {
+        "tweet_id": "427831952826449920",
+        "content": "ex-marlboro man dies from smoking-related disease - URL",
+        "sentiment_score": 0.999273955821991,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8126212358474731
+    },
+    {
+        "tweet_id": "527138218505175040",
+        "content": "pope francis again appears to suggest progress, but just makes false claims, as his religious belief requires of him URL",
+        "sentiment_score": 0.9978739023208618,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8947969079017639
+    },
+    {
+        "tweet_id": "525033697045925888",
+        "content": "ottawa shooting: how events unfolded, first shots fired at 9:52 a.m. at the war memorial URL URL",
+        "sentiment_score": 0.9221954345703125,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.6367048621177673
+    },
+    {
+        "tweet_id": "407169885345943552",
+        "content": "r.i.p to the driver who died with paul walker that no one cares about because he wasn\u2019t famous",
+        "sentiment_score": 0.9980290532112122,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8281886577606201
+    },
+    {
+        "tweet_id": "523888836456108032",
+        "content": "scientist discover a puppy-sized spider in the rainforest, better known as the 'nope' spider URL URL",
+        "sentiment_score": 0.9958578944206238,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.47422319650650024
+    },
+    {
+        "tweet_id": "427690961280696320",
+        "content": "man who portrayed the marlboro man in the 1970s dies from smoking-related disease URL",
+        "sentiment_score": 0.9989336133003235,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8243325352668762
+    },
+    {
+        "tweet_id": "525116411887513602",
+        "content": "canadian cpl. nathan cirillo killed by gunman while guarding canada's national war memorial: URL URL",
+        "sentiment_score": 0.9958908557891846,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.31303414702415466
+    },
+    {
+        "tweet_id": "407211258304552960",
+        "content": "paul walker was doing good and giving back on the day of his tragic death: URL",
+        "sentiment_score": 0.7544076442718506,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9343695044517517
+    },
+    {
+        "tweet_id": "524991240270807042",
+        "content": "police in #ottawa cannot confirm whether gunman shot dead in parliament is the same person that shot and killed soldier at the war memorial,",
+        "sentiment_score": 0.9979889392852783,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8446834683418274
+    },
+    {
+        "tweet_id": "524958992330522624",
+        "content": "police, bystanders and soldiers rushed in to help after the memorial shooting in ottawa URL URL",
+        "sentiment_score": 0.9819278717041016,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8821699619293213
+    },
+    {
+        "tweet_id": "531659884430106624",
+        "content": "in new york city, marijuana may mean ticket, not arrest URL",
+        "sentiment_score": 0.9688912630081177,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6423392295837402
+    },
+    {
+        "tweet_id": "509463933564891137",
+        "content": "huh. the wall street journal reports microsoft is close to a $2b deal with mojang, aka the creators of minecraft. URL",
+        "sentiment_score": 0.9954621195793152,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6337659955024719
+    },
+    {
+        "tweet_id": "532275383430041600",
+        "content": "sugarhill gang's big bank hank dies at 57 from cancer URL URL",
+        "sentiment_score": 0.9992602467536926,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.48386523127555847
+    },
+    {
+        "tweet_id": "513749585391390720",
+        "content": "starbucks is testing a new latte that tastes exactly like guinness: URL URL",
+        "sentiment_score": 0.7622417211532593,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9081171751022339
+    },
+    {
+        "tweet_id": "525009850104037376",
+        "content": "#kevinvickers hailed as hero who took down attacker at parliament hill URL #ottawashooting URL",
+        "sentiment_score": 0.9839479327201843,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8954787850379944
+    },
+    {
+        "tweet_id": "348203818741272576",
+        "content": "'outrage' is an understatement >> irs sent $46,378,040 in refunds to 23,994 \u2018unauthorized\u2019 aliens at 1 atl address URL",
+        "sentiment_score": 0.9966598749160767,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9825083613395691
+    },
+    {
+        "tweet_id": "524962676665888769",
+        "content": "update: 'most of downtown #ottawa is in lockdown,' police say: URL",
+        "sentiment_score": 0.9957590699195862,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9842556118965149
+    },
+    {
+        "tweet_id": "527947775905103872",
+        "content": "seth rogen has been cast as steve wozniak in the steve jobs biopic starring christian bale. URL URL",
+        "sentiment_score": 0.8162228465080261,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4732198715209961
+    },
+    {
+        "tweet_id": "532231906364911616",
+        "content": "the sugarhill gang's big bank hank has died at 57: URL URL",
+        "sentiment_score": 0.9982360601425171,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7537835240364075
+    },
+    {
+        "tweet_id": "568075025418317826",
+        "content": "uk #krispykreme apologizes for 'kkk wednesday' customer promo. URL URL",
+        "sentiment_score": 0.9989832043647766,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9415894150733948
+    },
+    {
+        "tweet_id": "532297096356167680",
+        "content": "so sad to learn big bank hank has passed away--the sugarhill gang rapper was 57. URL URL",
+        "sentiment_score": 0.9976759552955627,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9634488224983215
+    },
+    {
+        "tweet_id": "517053056211357696",
+        "content": "cdc has confirmed that the patient in dallas has tested positive for the ebola virus. we'll have more coming up on khou 11 news at 4 p.m.",
+        "sentiment_score": 0.9843580722808838,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8327188491821289
+    },
+    {
+        "tweet_id": "552661209204260864",
+        "content": "dog found abandoned at scottish train station with suitcase filled with it's belongings: URL URL",
+        "sentiment_score": 0.9972648620605469,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4161875545978546
+    },
+    {
+        "tweet_id": "525040767317082113",
+        "content": "more: ottawa shootings suspect identified as michael zehaf-bibeau, 32; unclear if there are other shooters: URL",
+        "sentiment_score": 0.9955928921699524,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4957547187805176
+    },
+    {
+        "tweet_id": "525300042207612928",
+        "content": "pictured: kevin vickers moments after shooting dead canadian parliament attacker URL URL",
+        "sentiment_score": 0.9767819046974182,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5877991318702698
+    },
+    {
+        "tweet_id": "524948703850029056",
+        "content": "breaking news: ottawa police confirm at least 3 separate shooting sites and multiple suspects - URL",
+        "sentiment_score": 0.6384478211402893,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.41219061613082886
+    },
+    {
+        "tweet_id": "427662266993889280",
+        "content": "actor who portrayed marlboro man in cigarette ads in late 1970s dies from smoking-related disease: URL",
+        "sentiment_score": 0.998913049697876,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7937949299812317
+    },
+    {
+        "tweet_id": "407169699559247872",
+        "content": "celebrities, friends and co-stars react to paul walker's tragic death. #rippaulwalker URL URL",
+        "sentiment_score": 0.9936469197273254,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9435140490531921
+    },
+    {
+        "tweet_id": "407233172380733441",
+        "content": "paul walker's last pic before his death in car accident :'( #rip #paulwalker URL",
+        "sentiment_score": 0.9825565218925476,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5520219802856445
+    },
+    {
+        "tweet_id": "527295015643394048",
+        "content": "jose canseco accidentally shot himself in the hand at his las vegas home URL URL",
+        "sentiment_score": 0.9976488947868347,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.24575111269950867
+    },
+    {
+        "tweet_id": "536826622725218304",
+        "content": "that powerful lego letter to parents from the 1970s? it's real URL URL",
+        "sentiment_score": 0.9907983541488647,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4906800389289856
+    },
+    {
+        "tweet_id": "524925033626738688",
+        "content": "scene at ottawa war memorial. soldier on duty shot. URL",
+        "sentiment_score": 0.9779767394065857,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.635974645614624
+    },
+    {
+        "tweet_id": "524685073979678721",
+        "content": "meet the south american goliath birdeater -- a spider the size of a puppy: URL URL",
+        "sentiment_score": 0.9881205558776855,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.924906849861145
+    },
+    {
+        "tweet_id": "524976526891417600",
+        "content": "the canadian soldier shot at the war memorial in ottawa has died, according to two members of parliament. live blog: URL",
+        "sentiment_score": 0.9937829375267029,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.959088921546936
+    },
+    {
+        "tweet_id": "407164247768977409",
+        "content": "r.i.p to the driver who died with paul walker that no one cares about because he wasn\u2019t famous.",
+        "sentiment_score": 0.9975047707557678,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8738390207290649
+    },
+    {
+        "tweet_id": "531676808836833280",
+        "content": "francis teaches you how to make your own doritos flavored mountain dew! watch: URL then share! :) URL",
+        "sentiment_score": 0.6047059893608093,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5394914150238037
+    },
+    {
+        "tweet_id": "407198255793987584",
+        "content": "2013 was doing alright till i found out paul walker died ..",
+        "sentiment_score": 0.6499667763710022,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9339285492897034
+    },
+    {
+        "tweet_id": "525305690257379328",
+        "content": "a touching tribute to a fallen soldier URL URL",
+        "sentiment_score": 0.9995427131652832,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.867492139339447
+    },
+    {
+        "tweet_id": "514148279601606656",
+        "content": "starbucks is experimenting with a beer-flavored latte that reportedly tastes like guinness URL",
+        "sentiment_score": 0.9862353205680847,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8687368631362915
+    },
+    {
+        "tweet_id": "536808074431184896",
+        "content": "another letter to parents, included in 1970s lego sets URL URL",
+        "sentiment_score": 0.9698993563652039,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8414217233657837
+    },
+    {
+        "tweet_id": "525411618231169025",
+        "content": "photo: dogs of canadian reservist killed at national war memorial wait for him to return home URL URL",
+        "sentiment_score": 0.9969239830970764,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7424821853637695
+    },
+    {
+        "tweet_id": "520299904934371328",
+        "content": "officials took away this halloween decoration after reports of it being a real suicide victim. it is still unknown. URL",
+        "sentiment_score": 0.9977310299873352,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5685318112373352
+    },
+    {
+        "tweet_id": "524950507023245313",
+        "content": "listen to our live special coverage of parliament hill shooting here URL URL",
+        "sentiment_score": 0.9003828763961792,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.873216986656189
+    },
+    {
+        "tweet_id": "524947149134774272",
+        "content": "updated | attacker shot dead in parliament after soldier shot at national war memorial: URL #cbcott #ottnews",
+        "sentiment_score": 0.9896702170372009,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6307991743087769
+    },
+    {
+        "tweet_id": "407209131351629824",
+        "content": "we send our deepest condolences to the family and friends of paul walker and roger rodas. URL URL",
+        "sentiment_score": 0.9877610206604004,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.968874454498291
+    },
+    {
+        "tweet_id": "531183173443801088",
+        "content": "i don't want to live on this planet anymore. rt @juddlegum pepsi is making a doritos-flavored mountain dew: \"dewitos\" URL",
+        "sentiment_score": 0.9966515898704529,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8711204528808594
+    },
+    {
+        "tweet_id": "524593547807178753",
+        "content": "giant puppy-sized spider found in south america said to be world's largest URL URL",
+        "sentiment_score": 0.9846418499946594,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4974905550479889
+    },
+    {
+        "tweet_id": "514142113601437696",
+        "content": "well, this is one way to quit your job. watch alaskan reporter charlo green quit live on air. URL URL",
+        "sentiment_score": 0.9997500777244568,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5088897347450256
+    },
+    {
+        "tweet_id": "504106473467944960",
+        "content": "this audio tape played on #cnn seems to corroborate witness accounts that #darrenwilson kept shooting after #michaelbrown tried to surrender",
+        "sentiment_score": 0.9832741618156433,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8499167561531067
+    },
+    {
+        "tweet_id": "509464271118688257",
+        "content": "source: microsoft in discussions to buy 'minecraft' maker mojang for more than $2 billion - @wsj URL",
+        "sentiment_score": 0.9956223368644714,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.3961525559425354
+    },
+    {
+        "tweet_id": "407162181059612672",
+        "content": "paul walker died at the age of 40 saturday. our hearts go out to his family and friends: URL",
+        "sentiment_score": 0.9990522265434265,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9281402826309204
+    },
+    {
+        "tweet_id": "566999951449001984",
+        "content": "#assholeoftheday sen. thomas corbin, for saying women are \"a lesser cut of meat\" URL URL",
+        "sentiment_score": 0.9931586384773254,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.2966470718383789
+    },
+    {
+        "tweet_id": "407182194206322689",
+        "content": "the motoring world responds to paul walker's death URL URL",
+        "sentiment_score": 0.9983432292938232,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6667783856391907
+    },
+    {
+        "tweet_id": "407212665350942720",
+        "content": "'fast and furious' cast mourns paul walker's death URL",
+        "sentiment_score": 0.9940729737281799,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9859977960586548
+    },
+    {
+        "tweet_id": "513779458340569088",
+        "content": "starbucks is testing a new latte that tastes exactly like guinness URL",
+        "sentiment_score": 0.9478642344474792,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.91596919298172
+    },
+    {
+        "tweet_id": "445495350171013120",
+        "content": "#prayforchristopher please rt/fav this it means u care and maybe chris brown will see this and will see that we care and smiles again",
+        "sentiment_score": 0.9993246793746948,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.8590317964553833
+    },
+    {
+        "tweet_id": "518870005677826050",
+        "content": "hewlett-packard to split pc and printer business from corporate hardware and services: URL $hpq URL",
+        "sentiment_score": 0.9944804906845093,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7759450078010559
+    },
+    {
+        "tweet_id": "407191058108256257",
+        "content": "r.i.p paul walker \u2665 he died doing what he loved\u2665 URL",
+        "sentiment_score": 0.9948632121086121,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8821261525154114
+    },
+    {
+        "tweet_id": "407174474207731712",
+        "content": "still cah believe paul walker died r.i.p paul walker r.i.p brian o'connor r.i.p fast & furious URL",
+        "sentiment_score": 0.9963485598564148,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8932843208312988
+    },
+    {
+        "tweet_id": "407173794583695360",
+        "content": "paul walker's genuinely admirable history of organizing & participating in international disaster relief missions: URL",
+        "sentiment_score": 0.9997654557228088,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.5560618042945862
+    },
+    {
+        "tweet_id": "407267881131732992",
+        "content": "watch: paul walker's last trailer for the film hours. the movie is set to release in two weeks. URL",
+        "sentiment_score": 0.9969819188117981,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6527948379516602
+    },
+    {
+        "tweet_id": "427666815842414592",
+        "content": "ex-marlboro man dies from smoking -related disease URL via @fox411",
+        "sentiment_score": 0.9984294772148132,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9339165091514587
+    },
+    {
+        "tweet_id": "531085761521528834",
+        "content": "good sweet lord, pepsi is actually testing a doritos-flavored mountain dew URL URL",
+        "sentiment_score": 0.5595541000366211,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.4883067011833191
+    },
+    {
+        "tweet_id": "563117355254161408",
+        "content": ".@eamaddennfl successfully predicted the final score of #sb49. yes, it's true: URL URL",
+        "sentiment_score": 0.9974932670593262,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.45253920555114746
+    },
+    {
+        "tweet_id": "566089610485579776",
+        "content": "sc state senator also opposes bill that would make it harder for domestic abusers to own guns: URL URL",
+        "sentiment_score": 0.987490713596344,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8050740957260132
+    },
+    {
+        "tweet_id": "562313802369073153",
+        "content": "annual simulated 'madden' game made several accurate #sb49 predictions, including final score: URL URL",
+        "sentiment_score": 0.838659942150116,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.3196716606616974
+    },
+    {
+        "tweet_id": "535579674152148992",
+        "content": "fact: florida state university shooter's last facebook status was bible verse (matthew 5:3)..imagine if it was quran: URL",
+        "sentiment_score": 0.996982991695404,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.913585901260376
+    },
+    {
+        "tweet_id": "407229989902225408",
+        "content": "his movies brought thrills and laughter to millions. can't believe he died in car crash rip paul walker URL",
+        "sentiment_score": 0.9992524981498718,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7810362577438354
+    },
+    {
+        "tweet_id": "524952094986350592",
+        "content": "our thoughts and prayers are with the canadian soldier shot while guarding the national war memorial in ottawa. #ableg #cdnpoli",
+        "sentiment_score": 0.5555046796798706,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8736484050750732
+    },
+    {
+        "tweet_id": "514201362729828352",
+        "content": "three missing afghan officers are in custody at the u.s.-canada border, police say. URL",
+        "sentiment_score": 0.9967014193534851,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.717940628528595
+    },
+    {
+        "tweet_id": "515717938025078784",
+        "content": "let's stop calling her the lady who was beheaded, etc. that dehumanizes her. she was colleen hufford. people loved her. she had a life.",
+        "sentiment_score": 0.9632254242897034,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.530411958694458
+    },
+    {
+        "tweet_id": "407205009676587009",
+        "content": "the sudden & tragic death of #paulwalker reminds us that we shouldn't take even a moment for granted bc it can be over in a blink #sosad",
+        "sentiment_score": 0.9993011951446533,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5339019298553467
+    },
+    {
+        "tweet_id": "504243239084236800",
+        "content": "new audio recording reveals shots, pause, more shots at mike brown killing.more shots than 6 fired. URL",
+        "sentiment_score": 0.9967573285102844,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.6210154294967651
+    },
+    {
+        "tweet_id": "524935246647926784",
+        "content": "shots were fired at canada's national war memorial in ottawa and a ceremonial guard was shot, police say. URL",
+        "sentiment_score": 0.9969850182533264,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6784752011299133
+    },
+    {
+        "tweet_id": "407237676350185475",
+        "content": "@realpaulwalker died in a fiery car crash. @fastfurious filmmakers will commemorate his legacy by dedicating the next six sequels to him.",
+        "sentiment_score": 0.9078090786933899,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9888572096824646
+    },
+    {
+        "tweet_id": "524941041301225472",
+        "content": "a canadian soldier has been shot at the country's national war memorial near parliament. URL URL",
+        "sentiment_score": 0.9937958717346191,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8329353928565979
+    },
+    {
+        "tweet_id": "524291188422356993",
+        "content": "adam we should do a test with this spider! ...adam? URL URL",
+        "sentiment_score": 0.9972265362739563,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.8188223242759705
+    },
+    {
+        "tweet_id": "536871550184869888",
+        "content": "that powerful letter from lego to parents from the 1970s? it's real URL URL",
+        "sentiment_score": 0.7675230503082275,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5222605466842651
+    },
+    {
+        "tweet_id": "507242819623587841",
+        "content": "breaking: tesla to choose nevada for gigafactory, sources tell cnbc. URL",
+        "sentiment_score": 0.8171937465667725,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5312942862510681
+    },
+    {
+        "tweet_id": "529434230938284032",
+        "content": "vampire bambi? rare fanged deer confirmed in afghanistan after 60 years URL URL",
+        "sentiment_score": 0.9769670963287354,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.48357731103897095
+    },
+    {
+        "tweet_id": "551097831851687938",
+        "content": "donna douglas, elly may clampett on \u2018beverly hillbillies,\u2019 dies at 81 URL",
+        "sentiment_score": 0.9980046153068542,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.816789984703064
+    },
+    {
+        "tweet_id": "407253554039386112",
+        "content": "tyrese at the crash site, where paul walker died, i proper feel for him URL",
+        "sentiment_score": 0.9844383597373962,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9414292573928833
+    },
+    {
+        "tweet_id": "524976106861236226",
+        "content": "man who saw gunman shoot canadian soldier at war memorial says shooter \"raised his arms in triumph\": URL",
+        "sentiment_score": 0.9984563589096069,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.3375139832496643
+    },
+    {
+        "tweet_id": "517416417164263424",
+        "content": "oklahoma beheading suspect alton nolen ordered held without bond URL URL",
+        "sentiment_score": 0.9778278470039368,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7031899094581604
+    },
+    {
+        "tweet_id": "524991067675189250",
+        "content": "update: parliament hill attack: soldier dies of injuries, gunman shot dead URL #ottawashooting URL",
+        "sentiment_score": 0.9981955885887146,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8512904047966003
+    },
+    {
+        "tweet_id": "524979548195024898",
+        "content": "surreal photos out of ottawa: this is a vip being escorted on sparks street URL URL",
+        "sentiment_score": 0.5253441333770752,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.6216301321983337
+    },
+    {
+        "tweet_id": "524959836778536961",
+        "content": "update: ottawa police confirm gunman in canada shooting shot and killed. search on for possible additional gunmen. URL",
+        "sentiment_score": 0.9754303097724915,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.3951279819011688
+    },
+    {
+        "tweet_id": "552706985087361025",
+        "content": "this dog was abandoned at a scottish railway station with a suitcase full of his belongings URL URL",
+        "sentiment_score": 0.9996103644371033,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.5742394924163818
+    },
+    {
+        "tweet_id": "510921017972514817",
+        "content": "uk aid worker david haines beheaded by #isis remember this great & giving man this way not as isis wants @acted URL",
+        "sentiment_score": 0.9915522933006287,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.703689455986023
+    },
+    {
+        "tweet_id": "407193347279699968",
+        "content": "remembering paul walker: fast and furious star was \"so happy\" hours before his tragic death URL",
+        "sentiment_score": 0.9985594153404236,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.42055895924568176
+    },
+    {
+        "tweet_id": "552615631246622721",
+        "content": "dog found abandoned at scottish train station with suitcase of belongings (photo: spca) URL URL",
+        "sentiment_score": 0.9980711340904236,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6906623244285583
+    },
+    {
+        "tweet_id": "407187197427593217",
+        "content": "\"paul walker's character in fast and the furious was named \"brian\",brian from family guy also died this week,both deaths involved cars.\" umm",
+        "sentiment_score": 0.9978783130645752,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.982886016368866
+    },
+    {
+        "tweet_id": "528607634099015680",
+        "content": "#animaloftheday: the first afghan fanged deer was seen in more than 60 years! URL URL",
+        "sentiment_score": 0.9842256307601929,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7060529589653015
+    },
+    {
+        "tweet_id": "536835346932441088",
+        "content": "that powerful lego letter to parents about gender and creativity? it's real. URL URL",
+        "sentiment_score": 0.9994921684265137,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5161955952644348
+    },
+    {
+        "tweet_id": "551128385850601472",
+        "content": "donna douglas, known for role as elly may clampett on \"the beverly hillbillies,\" dies. URL URL",
+        "sentiment_score": 0.9994682669639587,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.850871205329895
+    },
+    {
+        "tweet_id": "504131150429061121",
+        "content": "breaking: fbi uncovers new audio from neighbor on skype, lawyer counts 11 shots #mikebrown URL URL",
+        "sentiment_score": 0.9542410373687744,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.40145930647850037
+    },
+    {
+        "tweet_id": "524923293711998976",
+        "content": "at the war memorial in. ottawa. a soldier has been shot. they are giving him treatment now. #breaking URL",
+        "sentiment_score": 0.9888317584991455,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8079718947410583
+    },
+    {
+        "tweet_id": "407170443443859456",
+        "content": "r.i.p. roger rodas, the ceo/racer who died with paul walker yesterday. he was originally from santa ana, el salvador.",
+        "sentiment_score": 0.982653021812439,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.887353241443634
+    },
+    {
+        "tweet_id": "519131101798100992",
+        "content": "hp confirms that it's splitting into two companies. and cutting 5,000 jobs. URL $hp URL",
+        "sentiment_score": 0.9965924620628357,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4215691387653351
+    },
+    {
+        "tweet_id": "531129816389779456",
+        "content": "doritos-flavored mountain dew is a real thing URL URL",
+        "sentiment_score": 0.9865908622741699,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9176856875419617
+    },
+    {
+        "tweet_id": "519530210795216896",
+        "content": "hp confirmed that it's splitting into two companies. and cutting 5,000 jobs. URL $hp URL",
+        "sentiment_score": 0.99783855676651,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.3866482675075531
+    },
+    {
+        "tweet_id": "528312406498635777",
+        "content": "fanged deer pops up in afghanistan, 60 years after its last appearance URL URL",
+        "sentiment_score": 0.9735507965087891,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6761093735694885
+    },
+    {
+        "tweet_id": "562387516964491265",
+        "content": "the way we live is social, connecting people and information all over the world. shouldn't we work the same way? URL",
+        "sentiment_score": 0.6313192844390869,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7761147618293762
+    },
+    {
+        "tweet_id": "499679379820412928",
+        "content": "confirmed: #mikebrown had no criminal record. URL #ferguson URL",
+        "sentiment_score": 0.989658772945404,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.26573649048805237
+    },
+    {
+        "tweet_id": "525005886272843776",
+        "content": "kevin vickers hailed as hero who took down attacker at parliament hill: URL #cbcott #ottnews URL",
+        "sentiment_score": 0.9687591791152954,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7463135719299316
+    },
+    {
+        "tweet_id": "407192027714322432",
+        "content": "hard to believe paul walker died yesterday. no more fast & furious. way too young. #rip URL",
+        "sentiment_score": 0.9987035989761353,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9705745577812195
+    },
+    {
+        "tweet_id": "407232661107642368",
+        "content": "the five movie roles that made us fall in love with paul walker URL #rippaulwalker URL",
+        "sentiment_score": 0.960440993309021,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.898443341255188
+    },
+    {
+        "tweet_id": "524263570985340928",
+        "content": "goliath encounter: puppy-sized spider surprises scientist in rainforest @beargrylls @midnight URL URL",
+        "sentiment_score": 0.9798095226287842,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.6452980637550354
+    },
+    {
+        "tweet_id": "524949828711620608",
+        "content": "update: one shooter possibly on the loose in #ottawa amid reports of shootings in the city: URL",
+        "sentiment_score": 0.9959008097648621,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9399837851524353
+    },
+    {
+        "tweet_id": "427652211414274048",
+        "content": "ex-marlboro man dies from smoking-related disease... URL",
+        "sentiment_score": 0.9994351267814636,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8876639604568481
+    },
+    {
+        "tweet_id": "504109775358287872",
+        "content": "@antoniofrench alleged new shooting audio of #michaelbrown / URL",
+        "sentiment_score": 0.9974880218505859,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5184680819511414
+    },
+    {
+        "tweet_id": "504267796424163328",
+        "content": "can new audio help the michael brown investigation? listen to what an attorney says could be key to the investigation URL",
+        "sentiment_score": 0.9985724687576294,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.885301411151886
+    },
+    {
+        "tweet_id": "510931521306243072",
+        "content": "update: uk prime minister david #cameron describes apparent beheading of david #haines as 'an act of pure evil' URL",
+        "sentiment_score": 0.9964500665664673,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.6246225237846375
+    },
+    {
+        "tweet_id": "524998384357486592",
+        "content": "canadian government offices are locked down in ottawa after an armed attack: URL URL",
+        "sentiment_score": 0.9951304197311401,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6041234135627747
+    },
+    {
+        "tweet_id": "407258075502899200",
+        "content": "this is the driver that died in the accident with paul walker. don't forget about him just because he's not famous. URL",
+        "sentiment_score": 0.9848188161849976,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8347576856613159
+    },
+    {
+        "tweet_id": "509478961705807872",
+        "content": "microsoft to buy mojang for $2 billion - report. deal to be finalised as early as this week. URL URL",
+        "sentiment_score": 0.9957802295684814,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6425531506538391
+    },
+    {
+        "tweet_id": "528357165677817856",
+        "content": "\"afghanistan has been through a lot. you know what it needs now? deer with fangs.\" -- god URL URL",
+        "sentiment_score": 0.9933898448944092,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5504736304283142
+    },
+    {
+        "tweet_id": "407217865973329920",
+        "content": "rip roger rodas, the man who died with paul walker. #rippaulwalker #riprogerrodas URL",
+        "sentiment_score": 0.9919528365135193,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9271640777587891
+    },
+    {
+        "tweet_id": "518924377791164420",
+        "content": "hewlett-packard to split pc, printer business from corporate hardware, according to reports URL URL",
+        "sentiment_score": 0.9943681359291077,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.683951199054718
+    },
+    {
+        "tweet_id": "551082055883563008",
+        "content": "family says 'beverly hillbillies' actress donna douglas is dead at age 81 - @nbc12 URL",
+        "sentiment_score": 0.999519944190979,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9728353023529053
+    },
+    {
+        "tweet_id": "525291306000846848",
+        "content": "this cartoon is the perfect tribute to nathan cirillo #ottawashooting URL URL",
+        "sentiment_score": 0.9984933137893677,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.9160791039466858
+    },
+    {
+        "tweet_id": "524757333608394752",
+        "content": "meet the south american goliath birdeater -- a spider the size of a puppy: URL URL",
+        "sentiment_score": 0.9881205558776855,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.924906849861145
+    },
+    {
+        "tweet_id": "515538937058971648",
+        "content": "update: photo of suspect, alton nolen, in moore, okla. beheading released. URL URL",
+        "sentiment_score": 0.9960018992424011,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7443192601203918
+    },
+    {
+        "tweet_id": "524976980799000578",
+        "content": "breaking news: ottawa police confirm to abc news they are looking for 3 suspects, one has been 'dealt with' - URL",
+        "sentiment_score": 0.87062007188797,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.3513127863407135
+    },
+    {
+        "tweet_id": "407269894938718208",
+        "content": "tmz posted this two days before paul walker died ..... #illuminati URL",
+        "sentiment_score": 0.9941721558570862,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.41773468255996704
+    },
+    {
+        "tweet_id": "407179055763836928",
+        "content": "did speed play a part in paul walker's death? URL",
+        "sentiment_score": 0.9992419481277466,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5504584312438965
+    },
+    {
+        "tweet_id": "528562608463704064",
+        "content": "fanged deer pops up in afghanistan, 60 years after its last appearance URL URL",
+        "sentiment_score": 0.9735507965087891,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6761093735694885
+    },
+    {
+        "tweet_id": "524933380929245184",
+        "content": "developing story: shots fired on parliament hill, soldier shot at war memorial URL #ottawa URL",
+        "sentiment_score": 0.8789092898368835,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.5998260974884033
+    },
+    {
+        "tweet_id": "537913349338435584",
+        "content": "this young woman was shot with a nerf bullet by a #ferguson police officer, she lost her eye. URL",
+        "sentiment_score": 0.999678373336792,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6316698789596558
+    },
+    {
+        "tweet_id": "436157398269849602",
+        "content": "hot pockets recall involves meat from place fda says \"processed diseased and unsound animals. URL URL",
+        "sentiment_score": 0.9979987740516663,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.9076273441314697
+    },
+    {
+        "tweet_id": "527162170531151872",
+        "content": "a puppy-sized spider was found in south america and is now known as the 'south american goliath birdeater.' URL",
+        "sentiment_score": 0.9955809712409973,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7824328541755676
+    },
+    {
+        "tweet_id": "524950264303075328",
+        "content": "canada parliament shooting: - still active shooter - 3 separate shooting sites - multiple gunmen - 1 gunmen dead URL",
+        "sentiment_score": 0.9975106716156006,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.39685478806495667
+    },
+    {
+        "tweet_id": "407159686786732032",
+        "content": "paul walker's fast and the furious costars and more react to the actor's tragic death: URL",
+        "sentiment_score": 0.9949072003364563,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9256422519683838
+    },
+    {
+        "tweet_id": "524976963862429697",
+        "content": "the canadian soldier shot at the war memorial has died, officials reported. URL #ottawashooting URL",
+        "sentiment_score": 0.9972274899482727,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9598261713981628
+    },
+    {
+        "tweet_id": "336913656921083904",
+        "content": "fort hood shooter reportedly has drawn $278g in salary since massacre URL",
+        "sentiment_score": 0.9966170191764832,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.4947132468223572
+    },
+    {
+        "tweet_id": "529747368087126019",
+        "content": "wth?! michelle obama tells black ppl they can go eat fried chicken after they vote. just when u thought she could not be more ghetto.",
+        "sentiment_score": 0.9672585725784302,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.9125124216079712
+    },
+    {
+        "tweet_id": "525024181218725888",
+        "content": "cpl. nathan cirillo, 24, identified as the soldier who was shot, killed at the war memorial today. #cbcott #ottnews URL",
+        "sentiment_score": 0.9889890551567078,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7336362600326538
+    },
+    {
+        "tweet_id": "295152287901417472",
+        "content": "#prayforchristopher 5k run .. well we are walking lol @savannahn_2012 @lemongella URL",
+        "sentiment_score": 0.9768468737602234,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.42201414704322815
+    },
+    {
+        "tweet_id": "509463916586762241",
+        "content": "breaking: microsoft is near a deal to buy minecraft maker mojang URL",
+        "sentiment_score": 0.8441714644432068,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5330016016960144
+    },
+    {
+        "tweet_id": "407176873605865472",
+        "content": "new info on the crash that killed paul walker URL #rippaulwalker",
+        "sentiment_score": 0.9937899708747864,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.3199675679206848
+    },
+    {
+        "tweet_id": "532203605236154368",
+        "content": "rest in peace: big bank hank of sugarhill gang dead at 57 URL URL",
+        "sentiment_score": 0.9939530491828918,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8746132254600525
+    },
+    {
+        "tweet_id": "567765185407234049",
+        "content": "who from krispy kreme thought \"kkk wednesday\" would be a good idea? URL URL",
+        "sentiment_score": 0.9986812472343445,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7433739900588989
+    },
+    {
+        "tweet_id": "514395350615203841",
+        "content": "reporter charlo green quit on air to start a marijuana business URL will quitting on tv pay off? URL",
+        "sentiment_score": 0.999569833278656,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5493249893188477
+    },
+    {
+        "tweet_id": "523655026485366784",
+        "content": "wtf. rt @pourmecoffee: hello everyone. \"puppy-sized spider surprises scientist in rainforest\" URL URL",
+        "sentiment_score": 0.9816834926605225,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7792713046073914
+    },
+    {
+        "tweet_id": "407170170533064705",
+        "content": "last picture of paul walker taken before his death in a car crash.#rippaulwalker fast & furious won't be same w/o u. URL \"",
+        "sentiment_score": 0.9944497346878052,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9922426342964172
+    },
+    {
+        "tweet_id": "527286846347567104",
+        "content": "former baseball slugger jose canseco accidentally shot himself in the left hand, police say. URL",
+        "sentiment_score": 0.9969323873519897,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.594542920589447
+    },
+    {
+        "tweet_id": "524929796862918656",
+        "content": "soldier shot at national war memorial in ottawa URL URL",
+        "sentiment_score": 0.9918711185455322,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4736729562282562
+    },
+    {
+        "tweet_id": "407158558158254081",
+        "content": "paul walker's friends and castmates poured out their hearts overnight URL #rippaulwalker",
+        "sentiment_score": 0.9986795783042908,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.7083917260169983
+    },
+    {
+        "tweet_id": "514100169307348992",
+        "content": "reports: missing afghan soldiers found trying to cross into canada, source says -@wcvb, @7news, @nbcnews URL (fixes typo)",
+        "sentiment_score": 0.9985191226005554,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9020057320594788
+    },
+    {
+        "tweet_id": "523820806917603328",
+        "content": "researcher @naskrecki on his encounter with a goliath birdeater, the world's largest spider URL URL",
+        "sentiment_score": 0.967731237411499,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5710198879241943
+    },
+    {
+        "tweet_id": "517003426832453633",
+        "content": "let's please remember the victim in the ok beheading, colleen hufford-> rt \"victim was loving grandma\" URL via @nypost",
+        "sentiment_score": 0.9920647740364075,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8861983418464661
+    },
+    {
+        "tweet_id": "509473920060104704",
+        "content": "microsoft to buy mojang - report URL $2 billion deal could be signed this week URL",
+        "sentiment_score": 0.9933352470397949,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.48541972041130066
+    },
+    {
+        "tweet_id": "525134787778850818",
+        "content": "meet the south american goliath birdeater -- a spider the size of a puppy: URL URL",
+        "sentiment_score": 0.9881205558776855,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.924906849861145
+    },
+    {
+        "tweet_id": "518827403452637184",
+        "content": "hewlett-packard plans to split into two companies: wsj report URL",
+        "sentiment_score": 0.9990841150283813,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6792658567428589
+    },
+    {
+        "tweet_id": "407163869673443328",
+        "content": "woke up to news of paul walker's death and a train derailment in the bronx that left at least 4 dead. have to remember how lucky we can be.",
+        "sentiment_score": 0.955597996711731,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6659981608390808
+    },
+    {
+        "tweet_id": "519275971758026752",
+        "content": "hewlett-packard will split into two companies to adapt to a changing technology landscape URL",
+        "sentiment_score": 0.9222007393836975,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7663583159446716
+    },
+    {
+        "tweet_id": "514106939173634048",
+        "content": "#breaking: missing afghan soldiers reportedly found near canadian border URL",
+        "sentiment_score": 0.9974309802055359,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9388774633407593
+    },
+    {
+        "tweet_id": "562090534945431552",
+        "content": "'madden 15' predicted the patriots would win 28-24. which is exactly what happened. URL",
+        "sentiment_score": 0.9814914464950562,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7141607403755188
+    },
+    {
+        "tweet_id": "524925124303396864",
+        "content": "parliament hill in lockdown after soldier shot at #ottawa's war memorial, just south of east block.",
+        "sentiment_score": 0.9919182658195496,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9900714159011841
+    },
+    {
+        "tweet_id": "427725166127226881",
+        "content": "eric lawson, former 'marlboro man' in cigarette ads dies of smoking-related disease URL URL",
+        "sentiment_score": 0.9985764026641846,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6473837494850159
+    },
+    {
+        "tweet_id": "516978780171436032",
+        "content": "okla beheading victim colleen hufford, rest in peace #beheading #jihad #jahkeemyisrael URL URL",
+        "sentiment_score": 0.9924101829528809,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.821734607219696
+    },
+    {
+        "tweet_id": "407209222850756608",
+        "content": "r.i.p rodger rodas the guy no one seems to care about because he's not famous (died with paul walker) URL",
+        "sentiment_score": 0.9997093081474304,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.32454195618629456
+    },
+    {
+        "tweet_id": "525077806401994754",
+        "content": "prime minister harper on ottawa attack: 'we will not be intimidated. canada will never be intimidated' - live video URL",
+        "sentiment_score": 0.9557044506072998,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9906691312789917
+    },
+    {
+        "tweet_id": "407156621450571777",
+        "content": "\u201cr.i.p to the driver who died with paul walker that no one cares about because he wasn\u2019t famous\u201d omg:(",
+        "sentiment_score": 0.9970111846923828,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5919291377067566
+    },
+    {
+        "tweet_id": "524970097711267841",
+        "content": "conservative caucas informed soldier shot at war memorial in ottawa this morning has died. a sad development on a shocking day.",
+        "sentiment_score": 0.9958011507987976,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4741469621658325
+    },
+    {
+        "tweet_id": "519112613800972288",
+        "content": "in announcing split, hewlett-packard also boosted the number of its expected layoffs by 5,000 to 55,000. URL $hpq",
+        "sentiment_score": 0.9903590083122253,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.43800145387649536
+    },
+    {
+        "tweet_id": "407206094747209728",
+        "content": "r.i.p to roger rodas who died alongside paul walker URL",
+        "sentiment_score": 0.9620230197906494,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8324970006942749
+    },
+    {
+        "tweet_id": "407209892013821952",
+        "content": "r.i.p roger rodas the man who died with paul walker that everybody forgot about.. #rippaulwalker #riprogerrodas URL",
+        "sentiment_score": 0.992191731929779,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8181281089782715
+    },
+    {
+        "tweet_id": "551135925862805504",
+        "content": "19-year-old girl wakes up during brain surgery to ask doctors: \u2018how\u2019s it going?\u2019 URL",
+        "sentiment_score": 0.9932457804679871,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5956138372421265
+    },
+    {
+        "tweet_id": "562256876763901953",
+        "content": "\"madden nfl 15\" not only predicted a patriots victory over the seahawks, but also predicted the final score of 28-24: URL",
+        "sentiment_score": 0.9501107931137085,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.645743191242218
+    },
+    {
+        "tweet_id": "407192126032986112",
+        "content": "ap video: police say speed was a factor in an l.a. crash that killed 2, including \"fast & furious\" actor paul walker: URL",
+        "sentiment_score": 0.9947734475135803,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9821768999099731
+    },
+    {
+        "tweet_id": "427762638274437120",
+        "content": "actor who played marlboro man in ads dies from smoking-related disease URL",
+        "sentiment_score": 0.9987757802009583,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8636497855186462
+    },
+    {
+        "tweet_id": "523943647449198592",
+        "content": "now he's a one-handed scientist rt @cbsnews: puppy-sized spider surprises scientist in rainforest URL",
+        "sentiment_score": 0.8417047262191772,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.6270046234130859
+    },
+    {
+        "tweet_id": "517850508380618752",
+        "content": "#oklahoma prosecutor files formal notification that he will seek death penalty for beheading suspect #altonnolen. #kellyfile",
+        "sentiment_score": 0.9777002930641174,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.5711031556129456
+    },
+    {
+        "tweet_id": "515598200796090369",
+        "content": "#workplace hero shoots #altonnolen #stabbings #beheading priors drugs/manhunt, recent radical convert #judicialgrinds URL",
+        "sentiment_score": 0.9941635727882385,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7755368947982788
+    },
+    {
+        "tweet_id": "436160836524965891",
+        "content": "nestl\u00e9 usa has issued a recall of hot pockets. see the varieties affected: URL",
+        "sentiment_score": 0.997308611869812,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7471087574958801
+    },
+    {
+        "tweet_id": "524934138563133440",
+        "content": "breaking news: cbs reports multiple suspects at large after more than 30 shots fired at canadian parliament - URL",
+        "sentiment_score": 0.9854906797409058,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.3415185511112213
+    },
+    {
+        "tweet_id": "551103664124100608",
+        "content": "donna douglas, who played elly may on \"beverly hillbillies,\" has died at 81: URL (bill haber, ap) URL",
+        "sentiment_score": 0.9991589784622192,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8957199454307556
+    },
+    {
+        "tweet_id": "407275991610818560",
+        "content": "paul walker's death brought out the worst in some twitter users. i compiled the stupidity for @vice URL",
+        "sentiment_score": 0.9997760653495789,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.897003710269928
+    },
+    {
+        "tweet_id": "524935769614331904",
+        "content": "update: reports of gunfire inside the halls of the canadian parliament building in #ottawa: URL",
+        "sentiment_score": 0.992053747177124,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9593659043312073
+    },
+    {
+        "tweet_id": "507261372313640961",
+        "content": "more: tesla motors picks nevada as home of new electric car battery factory, beating 4 other states: URL",
+        "sentiment_score": 0.874082088470459,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4834516942501068
+    },
+    {
+        "tweet_id": "523581212175392768",
+        "content": "hello everyone. \"puppy-sized spider surprises scientist in rainforest\" URL URL",
+        "sentiment_score": 0.9936609268188477,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.373963326215744
+    },
+    {
+        "tweet_id": "407231740764508161",
+        "content": "r.i.p to the driver who died with paul walker that no one cares about because he wasn't famous.",
+        "sentiment_score": 0.9980908036231995,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8705341219902039
+    },
+    {
+        "tweet_id": "407205404075376640",
+        "content": "r.i.p to the driver who died with paul walker that no one cares about because he wasn\u2019t famous.",
+        "sentiment_score": 0.9975047707557678,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8738390207290649
+    },
+    {
+        "tweet_id": "407163499723624449",
+        "content": "paul walker died shortly after attending a charity event for his organization reach out worldwide URL",
+        "sentiment_score": 0.9989487528800964,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8392423987388611
+    },
+    {
+        "tweet_id": "538256153080127489",
+        "content": "this young woman was shot with a nerf bullet by a #ferguson police officer, she lost her eye. #humanrights #nyc #rt URL",
+        "sentiment_score": 0.9996488094329834,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6577939391136169
+    },
+    {
+        "tweet_id": "524923341359300608",
+        "content": "uniformed canadian soldier shot at war memorial in #ottawa.",
+        "sentiment_score": 0.949079155921936,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8433715105056763
+    },
+    {
+        "tweet_id": "407218583135997953",
+        "content": "r.i.p. to roger rodas, the guy that died with paul walker. he's human too URL",
+        "sentiment_score": 0.9787991046905518,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5184329748153687
+    },
+    {
+        "tweet_id": "519178213441167360",
+        "content": "are two hewlett-packards better than one? how the new h-ps would look: URL URL",
+        "sentiment_score": 0.9952296018600464,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.7177320122718811
+    },
+    {
+        "tweet_id": "531833153145823233",
+        "content": "just your monday reminder that doritos-flavored mountain dew exists. URL URL",
+        "sentiment_score": 0.7222678065299988,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8938294053077698
+    },
+    {
+        "tweet_id": "531206167302012929",
+        "content": "holy shit. doritos flavored mountain dew. all is lost. abandon all hope.",
+        "sentiment_score": 0.9997642636299133,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.8077132701873779
+    },
+    {
+        "tweet_id": "525043936331857923",
+        "content": "this photo was taken by a tourist at the national war memorial, shortly before nathan cirillo was shot and killed. URL",
+        "sentiment_score": 0.9856690168380737,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.3228786587715149
+    },
+    {
+        "tweet_id": "524925600318754816",
+        "content": "the scene at the war memorial in ottawa URL URL",
+        "sentiment_score": 0.984373927116394,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4704287350177765
+    },
+    {
+        "tweet_id": "519078654635409410",
+        "content": "hewlett-packard announces it will break in two URL",
+        "sentiment_score": 0.9673548340797424,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4731256067752838
+    },
+    {
+        "tweet_id": "407169212428206080",
+        "content": "#rip to the driver who died with #paulwalker that no one cares about because he wasn't famous.",
+        "sentiment_score": 0.9986261129379272,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8810628056526184
+    },
+    {
+        "tweet_id": "524983325275197440",
+        "content": "#rcmp news conference on #ottawa shootings expected to begin momentarily. watch live @ URL",
+        "sentiment_score": 0.9490777850151062,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9584834575653076
+    },
+    {
+        "tweet_id": "519311120914722816",
+        "content": "corporations have sold or spun off $1.6 trillion worth of subsidiaries & biz lines this year. URL URL",
+        "sentiment_score": 0.9937804341316223,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8539105653762817
+    },
+    {
+        "tweet_id": "524967711492014080",
+        "content": "canada parliament shooting: - active shooter - 3 separate shooting sites - 3 injd - multiple gunmen - 1 soldier dead URL",
+        "sentiment_score": 0.9964565634727478,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.406587153673172
+    },
+    {
+        "tweet_id": "536504515843727361",
+        "content": "this letter to parents from a 1970s lego set is years ahead of its time URL URL",
+        "sentiment_score": 0.9965025186538696,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8899386525154114
+    },
+    {
+        "tweet_id": "536558567206420480",
+        "content": "lego letter from the 1970s still offers a powerful message to parents 40 years later URL URL",
+        "sentiment_score": 0.9990467429161072,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8958548903465271
+    },
+    {
+        "tweet_id": "524946179390701568",
+        "content": "latest update: attacker shot dead in parliament after soldier shot at national war memorial URL URL",
+        "sentiment_score": 0.9882181286811829,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.25699397921562195
+    },
+    {
+        "tweet_id": "551123464640536576",
+        "content": "donna douglas, known for role as elly may clampett on 'the beverly hillbillies', dies: URL URL",
+        "sentiment_score": 0.9995655417442322,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5608731508255005
+    },
+    {
+        "tweet_id": "530943279161155584",
+        "content": "the end is nigh: pepsi is testing doritos-flavored mountain dew. yes, for real: URL",
+        "sentiment_score": 0.9956089854240417,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6372162103652954
+    },
+    {
+        "tweet_id": "407189015582887936",
+        "content": "rip roger rodas the man who died with paul walker in the fatal car crash #dontforgethim URL",
+        "sentiment_score": 0.9882504940032959,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6448379158973694
+    },
+    {
+        "tweet_id": "538346377794031618",
+        "content": "who got violent? pregnant woman shot by #ferguson cop while sitting in car tuesday, loses eye: URL URL",
+        "sentiment_score": 0.9989185333251953,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9350907206535339
+    },
+    {
+        "tweet_id": "407234399093022720",
+        "content": "also, rip roger rodas the man who died along with paul walker that seems to never be mentioned URL",
+        "sentiment_score": 0.9897962212562561,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6377200484275818
+    },
+    {
+        "tweet_id": "495305620342714369",
+        "content": "tesla says it's broken ground near reno, nevada for a $5 billion battery plant: URL URL",
+        "sentiment_score": 0.9989547729492188,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.39969661831855774
+    },
+    {
+        "tweet_id": "407191144880439298",
+        "content": "im still on that paul walker situation i can't believe he died especially in a car.",
+        "sentiment_score": 0.9968559741973877,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.8025244474411011
+    },
+    {
+        "tweet_id": "507257950868885504",
+        "content": "breaking: ap source: tesla motors has selected nevada as site for $5b electric car battery factory.",
+        "sentiment_score": 0.9754103422164917,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5925194025039673
+    },
+    {
+        "tweet_id": "528495998537334785",
+        "content": "after an absence of 65 years, the afghan fanged deer has returned URL URL",
+        "sentiment_score": 0.9829726219177246,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.819956362247467
+    },
+    {
+        "tweet_id": "348204426659508226",
+        "content": "irs sent $46,378,040 in refunds to 23,994 \u2018unauthorized\u2019 aliens at 1 atlanta address | cns news URL via @sharethis",
+        "sentiment_score": 0.9939576387405396,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5237957239151001
+    },
+    {
+        "tweet_id": "500278294055768064",
+        "content": "ferguson police chief: officer involved in shooting of michael brown was darren wilson, a 6-year veteran with no disciplinary record",
+        "sentiment_score": 0.7990173101425171,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7214146852493286
+    },
+    {
+        "tweet_id": "574004164570841088",
+        "content": "oregon community helps mother after boy punished for being tardy due to vehicle problems: URL URL",
+        "sentiment_score": 0.9765934944152832,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.45476844906806946
+    },
+    {
+        "tweet_id": "407185422523977728",
+        "content": "so paul walker is still alive ? dead or alive sia ?! #paulwalker URL",
+        "sentiment_score": 0.9967305660247803,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.46915900707244873
+    },
+    {
+        "tweet_id": "407213772328022016",
+        "content": "fast and furious star paul walker dead in car crash. what next, samuel l jackson killed by snakes on a plane?",
+        "sentiment_score": 0.9992578625679016,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9678331613540649
+    },
+    {
+        "tweet_id": "407290084593913856",
+        "content": "rip to the driver who was also killed along with paul walker who no one seems to care about... URL",
+        "sentiment_score": 0.9989519119262695,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4444231688976288
+    },
+    {
+        "tweet_id": "524988712367955970",
+        "content": "more: canadian soldier shot at war memorial has died; one of three suspected gunmen also dead, police say: URL",
+        "sentiment_score": 0.993375837802887,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9211071729660034
+    },
+    {
+        "tweet_id": "536849906997415936",
+        "content": "this lego letter from the 1970s still offers a powerful message to parents 40 years later URL URL",
+        "sentiment_score": 0.9991728663444519,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8928083777427673
+    },
+    {
+        "tweet_id": "427689948398231552",
+        "content": "actor eric lawson who portrayed the marlboro man dies from chronic obstructive pulmonary disease: URL",
+        "sentiment_score": 0.9984727501869202,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7948235273361206
+    },
+    {
+        "tweet_id": "523939598691741696",
+        "content": "cool dog! mt @cbsnews: goliath encounter: puppy-sized spider surprises scientist in rainforest URL URL",
+        "sentiment_score": 0.956618070602417,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.6090019345283508
+    },
+    {
+        "tweet_id": "537006518118273025",
+        "content": "that powerful, 40-year-old letter from lego to parents? it's real URL URL",
+        "sentiment_score": 0.6096099019050598,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.5207627415657043
+    },
+    {
+        "tweet_id": "504131654810877952",
+        "content": "attorney: new audio reveals pause in gunfire when michael brown was shot. URL",
+        "sentiment_score": 0.9786409735679626,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.3696954548358917
+    },
+    {
+        "tweet_id": "524987184836005889",
+        "content": "the rcmp and ottawa police news conference is beginning now. watch live: URL #cbcott #ottnews",
+        "sentiment_score": 0.8259095549583435,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.6646146774291992
+    },
+    {
+        "tweet_id": "525024518713397249",
+        "content": "twenty-four-year-old cpl. nathan cirillo was shot dead today at the war memorial in #ottawa. #cdnpoli #ottawashooting URL",
+        "sentiment_score": 0.9917184114456177,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4392003118991852
+    },
+    {
+        "tweet_id": "516729950091493376",
+        "content": "on cnn alton nolen's mother (the oklahoma man who beheaded a coworker) said \"there are two sides to every story!\" he cut a woman's head off!",
+        "sentiment_score": 0.9920228719711304,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.8630154728889465
+    },
+    {
+        "tweet_id": "531161914689482752",
+        "content": "confirmed: pepsico is making a doritos-flavored mountain dew called \"dewitos\" URL URL",
+        "sentiment_score": 0.9878165125846863,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8480545878410339
+    },
+    {
+        "tweet_id": "407184730988097536",
+        "content": "my heart goes out to loved ones and fans of paul walker, who died in a car wreck saturday. word is he was a really good dude. #rippaulwalker",
+        "sentiment_score": 0.9989513158798218,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7116562724113464
+    },
+    {
+        "tweet_id": "524950339074523137",
+        "content": "dramatic photos from @wcuddington on the scene in ottawa URL URL",
+        "sentiment_score": 0.935185968875885,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "joy",
+        "emotion_score": 0.7132381796836853
+    },
+    {
+        "tweet_id": "504244627680272384",
+        "content": "cnn: new audio reveals 10 shots fired at michael brown. cluster of 6... a pause... and then 4 more URL",
+        "sentiment_score": 0.9903250932693481,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.6320876479148865
+    },
+    {
+        "tweet_id": "535474861616148480",
+        "content": "breaking: fsu shooter identified as myron may, a lawyer who graduated from fsu before attending texas tech's law school. #fsushooting",
+        "sentiment_score": 0.9772821664810181,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8146201372146606
+    },
+    {
+        "tweet_id": "562093717201616896",
+        "content": "madden nfl 15 simulation correctly predicted the super bowl's final score. URL URL",
+        "sentiment_score": 0.9889920949935913,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.6531416773796082
+    },
+    {
+        "tweet_id": "407262869152358400",
+        "content": "paul walker was \"so happy\" hours before his tragic death URL",
+        "sentiment_score": 0.9995096921920776,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8214784860610962
+    },
+    {
+        "tweet_id": "407292452060815360",
+        "content": "in the wake of paul walker's tragic death, what's the future of the @fastfurious movies? URL #rippaulwalker",
+        "sentiment_score": 0.9923316240310669,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9896329641342163
+    },
+    {
+        "tweet_id": "554958414905094144",
+        "content": "saudi cleric proclaims snowman-building 'anti-islamic' (photos, video) URL URL",
+        "sentiment_score": 0.9961671233177185,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8913863897323608
+    },
+    {
+        "tweet_id": "551106793959862272",
+        "content": "max baer describes donna douglas as \"elly may until the day she died\": URL (cbs) URL",
+        "sentiment_score": 0.9793733358383179,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7931649088859558
+    },
+    {
+        "tweet_id": "501827465032237056",
+        "content": "#isis beheads photojournalist james wright foley in a massage to us to end its intervention in #iraq. URL",
+        "sentiment_score": 0.994138240814209,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.600143313407898
+    },
+    {
+        "tweet_id": "510916725953417218",
+        "content": "just in: isis video claims to show beheading of british citizen URL",
+        "sentiment_score": 0.9970518350601196,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.49374645948410034
+    },
+    {
+        "tweet_id": "523863683928457216",
+        "content": "goliath encounter: puppy-sized spider surprises scientist in rainforest - URL URL",
+        "sentiment_score": 0.9229451417922974,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.4587724208831787
+    },
+    {
+        "tweet_id": "514420223873941504",
+        "content": "police officers deliver the pie after pizza hut driver injured in crash URL URL",
+        "sentiment_score": 0.968762218952179,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7445823550224304
+    },
+    {
+        "tweet_id": "336873759271157760",
+        "content": "hasan gets $278k but victims denied army benefits. disgusting waste of tax $$. garnish his wages & send 2 red cross URL",
+        "sentiment_score": 0.998831570148468,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "disgust",
+        "emotion_score": 0.7809457182884216
+    },
+    {
+        "tweet_id": "525029684095221760",
+        "content": "soldier killed at war memorial identified as cpl. nathan cirillo - URL URL",
+        "sentiment_score": 0.9861921072006226,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.49138084053993225
+    },
+    {
+        "tweet_id": "407262953533353984",
+        "content": "late actor paul walker's admirable history of organizing & participating in international disaster relief missions: URL",
+        "sentiment_score": 0.9996680021286011,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7190634608268738
+    },
+    {
+        "tweet_id": "531634492528939008",
+        "content": "pepsi is currently taste-testing doritos flavored mountrain dew. would you try it? URL URL",
+        "sentiment_score": 0.9924218058586121,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9275649785995483
+    },
+    {
+        "tweet_id": "524928878075457536",
+        "content": "soldier shot at national war memorial in ottawa URL URL",
+        "sentiment_score": 0.9918711185455322,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4736729562282562
+    },
+    {
+        "tweet_id": "552568163431247873",
+        "content": "dog found abandoned at scottish train station with suitcase filled with it's belongings: URL URL",
+        "sentiment_score": 0.9972648620605469,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4161875545978546
+    },
+    {
+        "tweet_id": "407264593027670016",
+        "content": "rip to the driver roger that died with paul walker that no one talks about because he wasn't famous. URL",
+        "sentiment_score": 0.9971702694892883,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.4275673031806946
+    },
+    {
+        "tweet_id": "510916464631889920",
+        "content": "islamic state video purports to show beheading of british hostage david haines; officials can't confirm- @dailymirror URL",
+        "sentiment_score": 0.9983002543449402,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.24704521894454956
+    },
+    {
+        "tweet_id": "532602376398462976",
+        "content": "officials took away this halloween decoration after reports of it being a real suicide victim. 2003 URL",
+        "sentiment_score": 0.9973190426826477,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.3432769477367401
+    },
+    {
+        "tweet_id": "510916647373516800",
+        "content": "a video has been released by isis apparently showing the murder of british hostage david haines: URL",
+        "sentiment_score": 0.9978552460670471,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.3940359950065613
+    },
+    {
+        "tweet_id": "536804445678755840",
+        "content": "lego letter from the 1970s still offers a powerful message to parents 40 years later URL URL",
+        "sentiment_score": 0.9990467429161072,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8958548903465271
+    },
+    {
+        "tweet_id": "504304227246538752",
+        "content": "audio may have captured michael brown shooting URL",
+        "sentiment_score": 0.965792715549469,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9066520929336548
+    },
+    {
+        "tweet_id": "507918114567499776",
+        "content": "al-shabaab leader ahmed abdi godane killed in monday's u.s. airstrike in somalia, pentagon says. URL",
+        "sentiment_score": 0.9945634007453918,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6252856850624084
+    },
+    {
+        "tweet_id": "407244865018155008",
+        "content": "i can't belive people are comparing paul walker's death to brian from family guy. shows how stupid and ignorant people are.",
+        "sentiment_score": 0.9923861026763916,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9266658425331116
+    },
+    {
+        "tweet_id": "555003887753494528",
+        "content": "a saudi cleric has declared that the building of snowmen as being anti-islamic. URL",
+        "sentiment_score": 0.9950143694877625,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.48734501004219055
+    },
+    {
+        "tweet_id": "407167928313081856",
+        "content": "\"fast & furious\" stars heartbreakingly mourn paul walker's death URL URL",
+        "sentiment_score": 0.8111255168914795,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.7500938773155212
+    },
+    {
+        "tweet_id": "536540403109879809",
+        "content": "a letter written to parents inside all 1970s lego sets\ud83d\ude33\ud83d\udcaf this is perfect. URL",
+        "sentiment_score": 0.9996763467788696,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8809863924980164
+    },
+    {
+        "tweet_id": "538374385665449985",
+        "content": "pregnant #ferguson woman blind after being shot in face by police bean bag URL (video) URL",
+        "sentiment_score": 0.9992382526397705,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.7126128673553467
+    },
+    {
+        "tweet_id": "532275347413544961",
+        "content": "sugarhill gang's big bank hank dies at 57 URL URL",
+        "sentiment_score": 0.999544084072113,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5292046070098877
+    },
+    {
+        "tweet_id": "427944719612915712",
+        "content": "ex-marlboro man dies from smoking-related disease URL",
+        "sentiment_score": 0.9990503191947937,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8711974620819092
+    },
+    {
+        "tweet_id": "525088864416043008",
+        "content": "it was a long, dark day in ottawa. a timeline of the attack: URL #ottawashooting URL",
+        "sentiment_score": 0.9916359186172485,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8744000792503357
+    },
+    {
+        "tweet_id": "567596847330373632",
+        "content": "krispy kreme hull is advertising kkk wednesday. i don't know. i do not know. URL",
+        "sentiment_score": 0.9981910586357117,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.4890228509902954
+    },
+    {
+        "tweet_id": "536991428694376448",
+        "content": "another letter to parents, included in 1970s lego sets URL URL",
+        "sentiment_score": 0.9698993563652039,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8414217233657837
+    },
+    {
+        "tweet_id": "525040836757958657",
+        "content": "this photo was taken by a tourist at the national war memorial, shortly before nathan cirillo was shot and killed. URL",
+        "sentiment_score": 0.9856690168380737,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.3228786587715149
+    },
+    {
+        "tweet_id": "528676615207653376",
+        "content": "fanged deer spotted in afghanistan for the first time in 65 years URL URL",
+        "sentiment_score": 0.9696967601776123,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.5050219297409058
+    },
+    {
+        "tweet_id": "516321020815228929",
+        "content": "beheading suspect attended same mosque as 9/11 terrorist: moore, oklahoma -- alton nolen, the man who beheaded... URL",
+        "sentiment_score": 0.9893277287483215,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.38854408264160156
+    },
+    {
+        "tweet_id": "532276370953752576",
+        "content": "big bank hank of the sugarhill gang - famous for the 1979 hit 'rappers delight' - dead at 57 URL URL",
+        "sentiment_score": 0.9993769526481628,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.6156036853790283
+    },
+    {
+        "tweet_id": "407223928084766721",
+        "content": "paul walker's death: 'fast & furious 7' delayed but won't be scrapped URL",
+        "sentiment_score": 0.9696357846260071,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9818282723426819
+    },
+    {
+        "tweet_id": "525408908484280321",
+        "content": "dogs of canadian reservist killed at national war memorial wait for him to return home URL URL",
+        "sentiment_score": 0.9981117248535156,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.565368115901947
+    },
+    {
+        "tweet_id": "407253198395555840",
+        "content": "fast & furious 7 might still come out even after paul walker's death URL",
+        "sentiment_score": 0.6695546507835388,
+        "sentiment_label": "POSITIVE",
+        "emotion_label": "anger",
+        "emotion_score": 0.9747619032859802
+    },
+    {
+        "tweet_id": "527272948680622080",
+        "content": "update: police confirm former baseball star jose canseco shot himself in his left hand in an accidental shooting - cnn",
+        "sentiment_score": 0.9822592735290527,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.5760740041732788
+    },
+    {
+        "tweet_id": "524294016435634178",
+        "content": "spiders \u2191 scientist finds puppy-sized spider in rainforest. sit. stay. forever. URL URL",
+        "sentiment_score": 0.9854407906532288,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.7076358199119568
+    },
+    {
+        "tweet_id": "499683602452717569",
+        "content": "confirmed: this is irrelevant. rt @ksdknews: confirmed: #mikebrown had no criminal record. URL #ferguson",
+        "sentiment_score": 0.9995868802070618,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.4229157269001007
+    },
+    {
+        "tweet_id": "574062768896212992",
+        "content": "oregon community helps mother after boy punished for being tardy due to vehicle problems: URL URL",
+        "sentiment_score": 0.9765934944152832,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.45476844906806946
+    },
+    {
+        "tweet_id": "524951893467234304",
+        "content": "cxn: 1 gunman shot dead in parliament hill attack, soldier shot in ottawa URL no report soldier dead. #ottawashooting",
+        "sentiment_score": 0.9945471286773682,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.8252289295196533
+    },
+    {
+        "tweet_id": "510922415468449792",
+        "content": "awful mt @scclemons:uk aid worker david haines beheaded by #isis remember this great man this way not as isis wants URL",
+        "sentiment_score": 0.9991002082824707,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.9745768904685974
+    },
+    {
+        "tweet_id": "536738726693847041",
+        "content": "legendary egalitarian 1970s letter from lego to parents URL",
+        "sentiment_score": 0.9378162622451782,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.9213582873344421
+    },
+    {
+        "tweet_id": "535474881090322432",
+        "content": "more: a law enforcement official says the shooter was myron may, who graduated from florida state: URL",
+        "sentiment_score": 0.9853342771530151,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.482786625623703
+    },
+    {
+        "tweet_id": "524944881941495809",
+        "content": "update: attacker shot dead in parliament after soldier shot at war memorial URL #ottawashooting URL",
+        "sentiment_score": 0.9916806817054749,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "fear",
+        "emotion_score": 0.7055169939994812
+    },
+    {
+        "tweet_id": "518866406512025602",
+        "content": "hewlett-packard to split into two companies, wsj says. URL",
+        "sentiment_score": 0.9987319111824036,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.8150971531867981
+    },
+    {
+        "tweet_id": "407290871856369664",
+        "content": "r.i.p paul walker, why are people making jokes about his death? not funny at all!",
+        "sentiment_score": 0.9997965693473816,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "surprise",
+        "emotion_score": 0.8793972134590149
+    },
+    {
+        "tweet_id": "407198615137181696",
+        "content": "r.i.p roger rodas the man who died with paul walker that everybody forgot about.. #rippaulwalker #riprogerrodas URL",
+        "sentiment_score": 0.992191731929779,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8181281089782715
+    },
+    {
+        "tweet_id": "528242965915779072",
+        "content": "officials took away this halloween decoration after reports of it being a real suicide victim. 2003 URL",
+        "sentiment_score": 0.9973190426826477,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "neutral",
+        "emotion_score": 0.3432769477367401
+    },
+    {
+        "tweet_id": "407205235682050048",
+        "content": "r.i.p to the driver that died with paul walker that no one cares about because he wasn't famous",
+        "sentiment_score": 0.9988277554512024,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8444865345954895
+    },
+    {
+        "tweet_id": "508002575858561024",
+        "content": "pentagon confirms ahmed abdi godane, a leader of the al shabaab islamist group, was killed in a u.s. airstrike: URL",
+        "sentiment_score": 0.9965487122535706,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.9276943206787109
+    },
+    {
+        "tweet_id": "427780584979836929",
+        "content": "marlboro ad man eric lawson dies of chronic lung disease URL @guardianworld",
+        "sentiment_score": 0.9975095987319946,
+        "sentiment_label": "NEGATIVE",
+        "emotion_label": "sadness",
+        "emotion_score": 0.8672595620155334
+    }
+]
